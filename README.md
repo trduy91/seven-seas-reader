@@ -1,25 +1,26 @@
 # Seven Seas Reader
 
-Public reading site for **THE SHATTERED SEA SAGA**.
+Trang đọc công khai của **THE SHATTERED SEA SAGA**. Nội dung truyện được xuất bản bằng tiếng Việt.
 
 <https://trduy91.github.io/seven-seas-reader/>
 
-The first published chapter is available at:
-[Book I — Chapter 1: The Measure of Salt](https://trduy91.github.io/seven-seas-reader/chapters/book-01-the-crow-of-iron/chapter-001-the-measure-of-salt/).
+Chương đã xuất bản:
+[Quyển I — Chương 1: Thước Đo Của Muối](https://trduy91.github.io/seven-seas-reader/chapters/book-01-the-crow-of-iron/chapter-001-the-measure-of-salt/).
 
-Only approved and published chapters belong in this repository. The private authoring source, drafts, continuity ledgers and author-only canon remain in [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
+Kho này chỉ chứa các chương đã được duyệt để độc giả theo dõi. Bản thảo, sổ theo dõi liên tục và tư liệu canon dành riêng cho tác giả vẫn được lưu trong [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
 
-## Publishing
+## Xuất bản
 
-1. Prepare and approve a chapter in the private source repository.
-2. Copy only the approved reader-safe chapter into `_chapters/<book-slug>/`.
-3. Update `_data/chapters.yml` and open a pull request.
-4. Review the rendered content and merge to `main`.
-5. GitHub Actions deploys the site to GitHub Pages.
+1. Chuẩn bị và duyệt chương trong kho sáng tác riêng.
+2. Chỉ sao chép bản đã duyệt, an toàn cho độc giả vào `_chapters/<book-slug>/`.
+3. Cập nhật `_data/chapters.yml` và tạo yêu cầu hợp nhất.
+4. Kiểm tra nội dung hiển thị rồi hợp nhất vào `main`.
+5. GitHub Actions triển khai trang lên GitHub Pages.
 
-A push to the private repository does not publish anything. A chapter is published only after a successful Pages deployment.
+Việc cập nhật kho sáng tác riêng không tự động xuất bản chương. Một chương chỉ được coi là đã xuất bản sau khi triển khai Pages thành công và URL công khai được xác minh.
 
-## Local preview
+## Xem trước trên máy
+
 
 This is a Jekyll site. Install Ruby and Bundler, then run:
 
