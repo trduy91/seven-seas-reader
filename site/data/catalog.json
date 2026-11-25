@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "stories": [
+    {
+      "id": "the-shattered-sea-saga",
+      "title": "The Shattered Sea Saga",
+      "subtitle": "THE FIRST GREAT SAGA",
+      "description": "Một đại dương bị chia cắt, những nền văn minh trỗi dậy giữa tàn tích và các bí mật cổ xưa đang chờ được khám phá.",
+      "status": "ongoing",
+      "tags": ["fantasy", "adventure", "mystery"],
+      "chapters": []
+    }
+  ]
+}
