@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="home-page">
+  <section class="hero">
+    <p class="eyebrow">A DARK FANTASY SAGA</p>
+    {{ content }}
+    <p class="hero-note">Ten books. One broken world. Every promise has a price.</p>
+  </section>
+  <section class="library-section" aria-labelledby="library-heading">
+    <div class="section-heading">
+      <p class="eyebrow">THE CHRONICLES</p>
+      <h2 id="library-heading">The Library</h2>
+      <p>Enter the story from the beginning.</p>
+    </div>
+    {% assign books = site.data.chapters.books %}
+    {% for book in books %}
+      <article class="book-card">
+        <div class="book-number">BOOK {{ book.number | prepend: '0' | slice: -2, 2 }}</div>
+        <div class="book-info">
+          <h3>{{ book.title }}</h3>
+          {% assign book_chapters = site.data.chapters.chapters | where: "book_slug", book.slug %}
+          {% for chapter in book_chapters %}
+            <a class="chapter-link" href="{{ chapter.url | relative_url }}">
+              <span><span class="chapter-index">CHAPTER {{ chapter.chapter_number }}</span>{{ chapter.title }}</span>
+              <span class="link-arrow" aria-hidden="true">→</span>
+            </a>
+          {% else %}
+            <p class="muted">Chapters coming soon.</p>
+          {% endfor %}
+        </div>
+      </article>
+    {% endfor %}
+  </section>
+  <section class="about-section" id="about">
+    <p class="eyebrow">ABOUT THE SAGA</p>
+    <p>A dark fantasy of fractured kingdoms, buried histories, and the dangerous choices made in the name of peace.</p>
+  </section>
+</div>
