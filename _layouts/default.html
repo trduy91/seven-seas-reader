@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b2a">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Seven Seas Reader home">
+        <span class="brand-mark" aria-hidden="true">7</span>
+        <span class="brand-copy">
+          <span class="brand-name">SEVEN SEAS</span>
+          <span class="brand-subtitle">THE SHATTERED SEA SAGA</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Library</a>
+        <a href="{{ '/#about' | relative_url }}">About</a>
+      </nav>
+    </header>
+    <main class="site-main">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <span>THE SHATTERED SEA SAGA</span>
+      <span>Stories of salt, iron, and the price of power.</span>
+    </footer>
+  </div>
+</body>
+</html>
