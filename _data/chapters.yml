@@ -1,2 +1,12 @@
-books: []
-chapters: []
+books:
+  - title: "The Crow of Iron"
+    slug: "book-01-the-crow-of-iron"
+    number: 1
+chapters:
+  - title: "The Measure of Salt"
+    book: "The Crow of Iron"
+    book_slug: "book-01-the-crow-of-iron"
+    number: 1
+    chapter_number: "001"
+    revision: "1.0"
+    url: "/chapters/book-01-the-crow-of-iron/chapter-001-the-measure-of-salt/"
