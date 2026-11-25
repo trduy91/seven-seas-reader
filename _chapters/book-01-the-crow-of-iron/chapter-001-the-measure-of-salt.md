@@ -1,336 +1,334 @@
 ---
 layout: chapter
-title: "The Measure of Salt"
-book: "The Crow of Iron"
+title: "Thước Đo Của Muối"
+book: "Quạ Sắt"
 book_slug: "book-01-the-crow-of-iron"
 chapter: 1
 chapter_number: "001"
-revision: "1.0"
+revision: "1.1"
 status: published
 published_at: "2026-11-25"
+language: "vi"
 ---
 
-# Book I — The Crow of Iron
-## Chapter 1: The Measure of Salt
+# Quyển I — Quạ Sắt
+## Chương 1: Thước Đo Của Muối
 
-The first thing Eirik noticed was that the western envoy had brought his own salt.
 
-It sat in a little blue-glazed bowl beside the man's untouched plate, finer than the coarse grey crystals served to the rest of the hall. The grains were almost white. They caught the candlelight like ground glass.
+Điều đầu tiên Eirik nhận ra là sứ giả phương Tây mang theo muối riêng.
 
-A small thing. A foolish thing to notice while kings were speaking of peace.
+Nó nằm trong chiếc bát men xanh nhỏ đặt cạnh đĩa thức ăn còn nguyên của người đàn ông. Những hạt muối trắng hơn thứ muối xám thô được dọn cho mọi người trong đại sảnh. Dưới ánh nến, chúng lấp lánh như thủy tinh nghiền.
 
-Eirik noticed it anyway.
+Một chuyện nhỏ nhặt. Thật ngớ ngẩn khi để mắt đến nó giữa lúc triều đình đang bàn chuyện hòa bình.
 
-Lord Merrow of Leth had not touched the bowl. He had not touched his wine either. His hands rested on the table, palms down, the fingers of his right hand spread as if he were steadying a map. Every time King Arven spoke, Merrow watched the king's mouth. Every time Crown Prince Marek answered, the envoy looked instead toward the doors.
+Nhưng Eirik vẫn để mắt.
 
-Eirik folded the observation away.
+Lãnh chúa Merrow xứ Leth chưa chạm vào chiếc bát. Ông ta cũng chưa uống rượu. Hai bàn tay đặt trên bàn, lòng bàn tay úp xuống, những ngón tay phải xòe ra như thể đang ghìm một tấm bản đồ khỏi bị gió cuốn. Mỗi khi vua Arven lên tiếng, Merrow nhìn miệng nhà vua. Mỗi khi thái tử Marek đáp lời, ánh mắt vị sứ giả lại chuyển về phía cửa.
 
-Across the high table, his father was explaining the proposed winter levy. The king's voice had grown rougher over the past year, but it still carried to the rafters. He spoke without reading from the parchment before him. That was deliberate. A king who needed to consult a page while asking another lord for grain looked like a man who had already lost the argument.
+Eirik cất những quan sát ấy vào trí nhớ.
 
-“Three ships of barley from each western port,” King Arven said. “Not as tribute. As a loan against the spring customs.”
+Ở đầu bàn danh dự, cha chàng đang giải thích khoản trưng thu lương thực mùa đông. Giọng nhà vua khàn hơn trong năm qua, nhưng vẫn đủ vang tới tận những thanh xà trên cao. Ông không đọc từ tờ giấy đặt trước mặt. Đó là chủ ý. Một vị vua phải cúi xuống xem giấy khi yêu cầu lãnh chúa khác nộp thóc sẽ giống kẻ đã thua cuộc trước cả khi cuộc mặc cả bắt đầu.
 
-“Against customs you do not yet collect,” Merrow replied.
+“Ba chuyến thuyền chở đại mạch từ mỗi cảng phía Tây,” vua Arven nói. “Không phải cống nạp. Đó là khoản vay, sẽ được khấu trừ vào thuế cảng mùa xuân.”
 
-“Against customs we will collect if your ships can reach the river mouth without being boarded by our own hungry men.”
+“Khấu trừ vào thứ thuế ngài còn chưa thu được,” Merrow đáp.
 
-A few nobles laughed. Not many. The western delegation had brought two hundred armed sailors into the capital, and the king's household had spent three days arguing over where to quarter them. No one in the hall had forgotten it.
+“Thứ thuế chúng ta sẽ thu được, nếu thuyền của các ông có thể tới cửa sông mà không bị chính đám dân đói của ta chặn cướp.”
 
-Marek leaned forward. He had their father's broad shoulders and none of his patience.
+Vài quý tộc bật cười. Không nhiều. Phái đoàn phương Tây đã đưa hai trăm thủy thủ có vũ trang vào kinh thành, và đội cận vệ nhà vua mất ba ngày tranh cãi xem nên bố trí họ ở đâu. Không ai trong đại sảnh quên chuyện đó.
 
-“Then call it an investment,” he said. “Your merchants have asked for safe passage through our northern straits for six years. We are offering it.”
+Marek nghiêng người về phía trước. Chàng có bờ vai rộng của cha, nhưng không có sự kiên nhẫn của ông.
 
-“We are offering a promise,” Merrow said. “Your brother offers a road that may be closed by the next lord who dislikes the toll.”
+“Vậy cứ gọi đó là một khoản đầu tư,” thái tử nói. “Thương nhân của các ông đã xin được đi lại an toàn qua eo biển phương Bắc suốt sáu năm. Chúng ta đang đưa ra điều họ muốn.”
 
-Eirik felt the conversation turn toward him before anyone looked his way.
+“Các ngài đang đưa ra một lời hứa,” Merrow nói. “Còn con đường mà thái tử nói tới có thể bị đóng lại ngay ngày mai, chỉ vì một lãnh chúa không thích mức phí.”
 
-He had been silent for most of the meal. That was the arrangement. Marek negotiated; their father judged; Eirik listened. He was the second son, the spare piece kept near the board in case the first one broke. His left hand rested beneath the table, fingers curled against the stiff leather brace around his forearm. The old hunting injury had left two fingers weak and the wrist unreliable. He had learned to keep it out of sight.
+Eirik cảm thấy cuộc trò chuyện đang chuyển về phía mình trước cả khi có ai nhìn sang.
 
-“The road is not the promise,” Eirik said. “The schedule is.”
+Suốt phần lớn bữa tiệc, chàng vẫn im lặng. Đó là sự sắp đặt từ trước. Marek thương lượng; cha họ phán định; Eirik lắng nghe. Chàng là con trai thứ, quân cờ dự phòng được giữ gần bàn phòng khi quân đầu tiên gãy đổ. Bàn tay trái nằm dưới mặt bàn, những ngón tay co lại bên chiếc nẹp da cứng ôm lấy cẳng tay. Vết thương từ tai nạn đi săn năm trước khiến hai ngón tay yếu đi, cổ tay cũng không còn đáng tin cậy. Chàng đã học cách giấu nó.
 
-Merrow finally looked at him.
+“Con đường không phải lời hứa,” Eirik lên tiếng. “Lịch trình mới là lời hứa.”
 
-Eirik continued. “Three ships in the first month after thaw. Two in the second. If the river mouth is closed by ice, the levy is delayed, not forgiven. Your merchants receive safe passage for one season. Renewal depends on the toll accounts being witnessed by both crowns.”
+Cuối cùng Merrow cũng nhìn chàng.
 
-“You would put a clerk between a king and his own harbour?”
+Eirik nói tiếp: “Ba chuyến thuyền trong tháng đầu tiên sau khi băng tan. Hai chuyến trong tháng kế tiếp. Nếu cửa sông bị băng khóa, khoản giao lương sẽ được hoãn chứ không bị xóa bỏ. Thương nhân của các ông được đi lại an toàn trong một mùa. Việc gia hạn phụ thuộc vào sổ thuế có chữ chứng nhận của cả hai vương triều.”
 
-“I would put a record between two men who distrust one another.”
+“Ngài muốn đặt một viên thư lại vào giữa nhà vua và bến cảng của chính ngài sao?”
 
-This time the laughter was real, though it died quickly. Marek's mouth tightened. Their father hid a smile behind his cup.
+“Ta muốn đặt một bản ghi chép giữa hai người vốn chẳng tin nhau.”
 
-Merrow lifted his wine at last, but did not drink. “And if your lordships cannot agree on the accounts?”
+Lần này tiếng cười vang lên rõ hơn, dù cũng nhanh chóng lắng xuống. Khóe miệng Marek cứng lại. Cha họ giấu nụ cười sau chiếc cốc.
 
-“Then we will know which of us has been lying.”
+Merrow nâng ly rượu, nhưng vẫn không uống. “Cậu con trai út của ngài có tài biến sự ngờ vực thành một thứ nghe giống phép tắc quản trị.”
 
-The envoy studied him. Eirik let the silence stand. A negotiation was not improved by filling every pause. His father had taught him that. Marek had learned a different lesson: that a pause was an invitation for someone else to take the room.
+“Đó chính là phép tắc quản trị.”
 
-“Your younger son has a talent for making distrust sound like good administration,” Merrow said.
+Nhà vua giơ một ngón tay. “Đủ rồi. Chúng ta không tụ họp ở đây để ngắm nghía các con trai của ta.”
 
-“It is good administration,” Eirik replied.
+Nhạc công bắt đầu kéo đàn trở lại, dè dặt như thể sợ làm kinh động một con thú đang ngủ. Người thổi sáo gần lò sưởi đưa hơi qua nhạc cụ, và cả đại sảnh giả vờ rằng cuộc tranh luận vừa rồi chỉ là chuyện thường tình.
 
-The king raised one finger. “Enough. We have not gathered to admire my sons.”
+Eirik nhìn dọc chiếc bàn dài. Đại sảnh được dựng từ trước triều đại của ông nội chàng, khi các lãnh chúa phương Bắc vẫn thường mang theo ghế của riêng mình và mong ra về với nhiều đất đai hơn lúc đến. Những cột gỗ sồi sẫm màu chống đỡ mái nhà. Nền đá gồ ghề, cửa sổ hẹp để ngăn gió mùa đông. Trên các thanh xà treo những con quạ bằng sắt: huy hiệu cổ của nhà Veyr, được đập dẹt rồi hun đen bởi khói qua nhiều thế hệ.
 
-The musicians began again, cautiously. A fiddler near the hearth drew his bow across the strings, and the hall pretended the conversation had been ordinary.
+Đêm nay, con quạ nào cũng như đang dõi mắt xuống.
 
-Eirik looked down the length of the table. The high hall had been built before his grandfather's reign, when the northern lords still arrived with their own benches and expected to leave with more land than they had brought. Its pillars were dark oak, its floor uneven stone, its windows narrow against the winter wind. Iron crows hung from the beams: the old Veyr emblem, hammered flat and blackened by smoke.
+Ở những bàn thấp hơn, gia nhân len giữa các dãy ghế, mang khay thịt và bình rượu. Thủy thủ phương Tây ngồi tách khỏi đội cận vệ trong cung. Thuyền trưởng của họ đã khăng khăng đòi như vậy. Đó là một người đàn ông vạm vỡ, đầu cạo nhẵn, có vết sẹo trắng kéo từ tai xuống tận quai hàm. Suốt buổi tối, ông ta quan sát lính gác nhiều hơn nhìn thức ăn.
 
-Tonight, every crow seemed to be watching.
+Eirik thấy điều đó đáng chú ý hơn chiếc bát muối.
 
-At the lower tables, servants moved between benches with trenchers and pitchers. The western sailors sat apart from the household guard. Their captain had insisted on it. He was a square-built man with a shaved scalp and a white scar that ran from ear to jaw. He had spent the evening watching the guards rather than the food.
+“Đừng đếm nữa,” Marek khẽ nói bên cạnh.
 
-Eirik found that more interesting than the salt.
+“Em không đếm.”
 
-“Stop counting,” Marek murmured beside him.
+“Em lại làm cái trò đó bằng mắt.”
 
-“I am not counting.”
+“Trò gì?”
 
-“You are doing that thing with your eyes.”
+“Cái trò khiến người khác tự hỏi em đang nghe họ nói hay đang đo xem nên chôn họ ở đâu.”
 
-“What thing?”
+Eirik xoay chiếc cốc bằng chân đế. “Có lẽ họ nên tự hỏi.”
 
-“The thing that makes people wonder whether you are listening or measuring where to bury them.”
+Nụ cười của Marek không chạm tới mắt. “Một ngày nào đó em sẽ nói câu ấy với nhầm người.”
 
-Eirik turned his cup by its stem. “Perhaps they should wonder.”
+“Một ngày nào đó anh sẽ cho rằng người không nên nghe lại đang lắng nghe.”
 
-Marek's smile did not reach his eyes. “One day you will say something like that to the wrong man.”
+Cha họ yêu cầu mang chiếc bát nghi lễ tới.
 
-“One day you will assume the wrong man is listening.”
+Sự im lặng lan ra từ đầu bàn danh dự. Chiếc bát bằng bạc cũ, lòng rộng và nông, vành bát đã mòn nhẵn vì những bàn tay qua nhiều đời. Quan chưởng ấn bưng nó tới, hai lòng bàn tay đỡ dưới đáy. Bên trong là muối từ những cánh đồng muối phương Bắc, sẫm màu và ẩm, trộn với một ít tro lấy từ lò sưởi nơi vị vua đầu tiên của nhà Veyr từng thề nguyện.
 
-Their father called for the ceremonial bowl.
+Tập tục này có từ trước cả luật thành văn. Mỗi bên tham gia giao ước mùa đông phải chạm vào muối và nói ra điều mình sẽ gìn giữ: một con đường, một bến cảng, một đường biên, một sinh mạng. Muối không phải vật thiêng. Nó chỉ là lời nhắc nhở. Thứ được muối gìn giữ không thể mãi nguyên vẹn; nó chỉ tồn tại đủ lâu để người đời còn nhớ.
 
-A hush moved outward from the high table. The bowl was old silver, broad and shallow, its rim worn smooth by generations of hands. It was brought forward by the Lord Chamberlain, who carried it with both palms beneath the base. Inside lay salt from the northern flats, dark and damp, mixed with a little ash from the hearth where the first Veyr king had sworn his oaths.
+Vua Arven đặt ngón cái lên hỗn hợp muối và tro.
 
-The custom was older than the written law. Each party to a winter compact touched the salt and named what they would keep: a road, a harbour, a boundary, a life. The salt was not sacred. It was a reminder. Nothing preserved by salt remained unchanged; it only endured long enough to be remembered.
+“Ta giữ cho đường sá được thông suốt,” ông nói. “Và ta giữ nền hòa bình khiến những con đường ấy đáng để đi.”
 
-King Arven placed his thumb against the mixture.
+Marek làm theo. “Con giữ lời của vương miện.”
 
-“I keep the roads open,” he said. “And I keep the peace that makes them worth travelling.”
+Sứ giả phương Tây ngập ngừng. Sau đó ông ta chạm tay vào muối.
 
-Marek followed. “I keep the crown's word.”
+“Ta giữ những con thuyền mang bánh mì về cho dân ta.”
 
-The western envoy hesitated. Then he touched the salt.
+Eirik không bắt buộc phải tham gia. Chàng không phải người thừa kế; bản giao ước sẽ được nhà vua đóng ấn. Nhưng cha chàng nhìn sang.
 
-“I keep the ships that carry my people's bread.”
+“Đến lượt con.”
 
-Eirik was not required to take part. He was not the heir, and the compact would bear Marek's seal. But his father looked at him.
+Eirik đứng dậy. Chiếc nẹp kéo căng tay áo. Chàng dùng tay phải.
 
-“Your turn.”
+“Con giữ sổ sách.”
 
-Eirik rose. The brace pulled at his sleeve. He used his right hand.
+Một tiếng xì xào chạy qua đại sảnh. Đó không phải lời thề mà mọi người mong đợi.
 
-“I keep the account,” he said.
+Cha chàng nhìn chàng hồi lâu. Rồi nhà vua gật đầu.
 
-A murmur passed through the hall. It was not the oath anyone had expected.
+“Vậy hãy ghi lại.”
 
-His father watched him for a long moment. Then the king nodded.
+Quan chưởng ấn đặt chiếc bát sang bên. Một viên thư lại bước tới cùng bản giao ước. Ba bản đã được chuẩn bị: một cho vương triều phương Bắc, một cho Leth, và một để lưu trong kho lưu trữ hoàng gia. Bản dành cho phương Tây được buộc bằng dây xanh luồn qua hai lỗ ở góc trên bên trái; bản của phương Bắc dùng dây đen; bản lưu trữ dùng dây đỏ. Màu dây chỉ nơi cất giữ từng bản. Chúng không phải ấn tín. Giao ước chỉ có hiệu lực sau khi được đóng dấu của nhà vua.
 
-“Then let it be written.”
+Viên thư lại xếp ba tập giấy lên bàn. Eirik nhìn thấy ngày tháng trên tờ trên cùng.
 
-The Lord Chamberlain set the bowl aside. A clerk stepped forward with the compact. Three copies had been prepared: one for the crown, one for Leth, and one to be sealed in the royal archive. The western copy was tied with blue cord through two holes at the upper-left corner; the northern with black; the archive copy with red. The cords identified where each copy belonged. They were not seals. The king's mark would make the compact binding.
+Ngày thứ chín tháng Sương Giá.
 
-The clerk aligned the three packets on the table. Eirik saw the date on the top sheet.
+Hôm nay mới là ngày thứ tám.
 
-The ninth day of Frostwane.
+Chàng nghiêng người nhìn kỹ hơn. Ngày tháng ấy cũng xuất hiện trên tờ thứ hai nằm bên dưới. Chàng không thể thấy tờ thứ ba nếu không xê dịch cả chồng giấy. Viên thư lại đã chép ngày từ lịch công việc của ngày hôm sau. Một lỗi thông thường, và quan chưởng ấn sẽ phát hiện khi đối chiếu các tập giấy với sổ đăng ký trước lúc niêm phong.
 
-It was the eighth.
+Eirik hé miệng, rồi dừng lại. Nhà vua đang nói tiếp. Đây mới chỉ là những bản làm việc, chưa phải văn kiện đã được xác nhận. Chàng sẽ nhắc khi viên thư lại đưa chúng tới để kiểm tra lần cuối.
 
-He leaned closer. The same date appeared on the second sheet beneath it. He could not see the third without moving the stack. The clerk had copied the date from the next day's docket. A common error, and one the chamberlain would catch when he checked the packets against the register before they were sealed.
+Cửa đại sảnh mở ra.
 
-Eirik opened his mouth, then stopped. The king was speaking again. These were working copies, not yet executed instruments. He would raise it when the clerk brought them forward for the final check.
+Một luồng khí lạnh tràn vào, mang theo mùi đá ướt và mồ hôi ngựa. Một lính gác bước qua cửa phía Nam, đi tới quan chưởng ấn rồi thì thầm điều gì đó. Nét mặt ông ta thay đổi rất khẽ.
 
-The doors opened.
+Eirik nhận ra.
 
-Cold air crossed the hall, carrying the smell of wet stone and horse sweat. A guard entered through the south doors, crossed to the chamberlain, and whispered. The chamberlain's expression changed by a fraction.
+Lãnh chúa Vargan cũng vậy. Lão ngồi cách nhà vua ba ghế, khoác áo len màu than, cổ đeo một sợi dây chuyền bạc mảnh. Suốt cuộc thương lượng, lão không nói một lời. Lão là người kiên nhẫn, hoặc đã học được cách trông giống một người kiên nhẫn.
 
-Eirik saw it.
+Quan chưởng ấn tiến đến bên nhà vua.
 
-So did Lord Vargan, seated three places below the king. The old lord was dressed in charcoal wool with a narrow silver chain at his throat. He had not spoken during the negotiation. He was a patient man, or had learned to look like one.
+“Muôn tâu bệ hạ. Cổng phía Nam báo có xô xát giữa các thủy thủ phương Tây. Họ tranh cãi về nơi nghỉ.”
 
-The chamberlain approached the king.
+“Gọi thuyền trưởng của họ tới,” Arven nói. “Không ai được rời đại sảnh trước khi giao ước đóng dấu.”
 
-“Your Grace. The south gate reports a disturbance among the western sailors. A quarrel over quarters.”
+Lính gác cúi đầu rồi lui ra. Cửa phía Nam khép lại sau lưng anh ta.
 
-“Send the captain,” Arven said. “No one leaves the hall until the compact is sealed.”
+Eirik dõi theo người lính qua ngưỡng cửa. Nhạc công lại tiếp tục, nhưng nhịp điệu đã mất đi sự liền mạch.
 
-The guard bowed and withdrew. The south doors closed behind him.
+“Em nghĩ sẽ có chuyện sao?” Marek hỏi.
 
-Eirik watched the guard cross the threshold. The musicians resumed, but the rhythm had lost its shape.
+“Em nghĩ những người bị đưa tới một thành phố xa lạ, bị tách khỏi đồng đội và bị cấm mang vũ khí vào đại sảnh sẽ không vui vẻ gì.”
 
-“Do you expect trouble?” Marek asked.
+“Đó không phải điều anh hỏi.”
 
-“I expect men who have been kept in a strange city, separated from their companions, and told they may not carry their weapons into the hall to be unhappy.”
+“Không,” Eirik nói. “Đó là câu trả lời anh muốn nghe.”
 
-“That was not my question.”
+Marek thở ra qua mũi. “Em có thể thử tin người khác một lần.”
 
-“No,” Eirik said. “It was the answer you wanted.”
+“Em có tin. Em tin anh sẽ phật ý khi nghe đề nghị ấy.”
 
-Marek exhaled through his nose. “You could try trusting someone.”
+Thái tử nhìn về phía cha. “Nó biến mọi chuyện thành trò chơi.”
 
-“I do. I trust you to be offended by that suggestion.”
+Nhà vua đã nghe thấy. “Vậy cứ để nó chơi với sổ sách. Những người còn lại phải hoàn tất giao ước.”
 
-The crown prince looked toward their father. “He makes a game of everything.”
+Viên thư lại mang ba tập giấy tới bàn danh dự. Quan chưởng ấn kiểm tra trang đầu của từng bản, rồi đặt bản lưu trữ bên phải nhà vua. Bản dành cho vương triều phương Bắc nằm trước mặt Arven; bản buộc dây xanh được đặt trước Merrow. Ấn của nhà vua là một con dấu sắt nặng, gắn trên khối gỗ sẫm màu. Sáp được hơ nóng trên ngọn nến. Arven ấn con dấu xuống.
 
-Their father had heard. “Then let him play at accounts. The rest of us must finish the compact.”
+Một tiếng chuông vang lên đâu đó bên ngoài đại sảnh.
 
-The clerk brought the three packets to the high table. The chamberlain checked the first page of each, then placed the archive copy to the king's right. The crown copy remained before Arven; the blue-corded copy was set before Merrow. The king's seal was a heavy iron stamp set in a block of dark wood. Wax was warmed over a candle. Arven pressed the seal into it.
+Một tiếng trong trẻo.
 
-A bell rang somewhere beyond the hall.
+Những ngón tay Merrow siết chặt mặt bàn. Ánh mắt ông ta chuyển động—không phải về phía cửa Nam, mà về lối đi hẹp phía sau những người chơi nhạc.
 
-One clear note.
+Eirik quay về phía cửa. Hai lính gác ở đó không hề nhúc nhích. Một người giữ ngọn giáo thẳng đứng; người còn lại đặt tay lên then cửa. Cả hai đều không có vẻ báo động.
 
-Merrow's fingers tightened against the table. His eyes moved—not to the south doors, but to the narrow passage behind the musicians.
+Tiếng chuông thứ hai vang lên.
 
-Eirik turned toward the doors. The two guards there had not moved. One stood with his spear upright; the other had his hand on the latch. Neither looked alarmed.
+Tiếng đầu tiên là chuông báo giờ. Tiếng thứ hai là hiệu lệnh cảnh giới xưa, lẽ ra phải có một người chạy tới mang theo tin báo.
 
-A second bell rang.
+Eirik đẩy ghế lùi lại.
 
-The first was the signal for the hour. The second was the old breach warning, a call that should have been followed by a runner and a report.
+“Ngồi xuống,” Marek nói.
 
-Eirik pushed back his chair.
+Tiếng chuông thứ ba vang lên.
 
-“Sit down,” Marek said.
+Cửa phía Nam bật mở vào trong. Một người đàn ông loạng choạng bước qua ngưỡng cửa. Anh ta mặc màu áo của nhà vua, nhưng áo đã sẫm lại vì máu. Trong một khoảnh khắc, anh ta vẫn đứng được, một tay chống lên khung cửa. Rồi đầu gối khuỵu xuống.
 
-A third bell sounded.
+Nhạc công ngừng chơi.
 
-The south doors opened inward. A man stumbled across the threshold. He wore the king's colours, but his tunic was dark with blood. For a moment he remained upright, one hand braced against the doorframe. Then his knees gave way.
+“Chặn cửa!” có người hét lên.
 
-The musicians stopped.
+Hai lính gác ở cửa lập tức đóng sầm cánh cửa phía Nam. Một người thả thanh chắn vào hai giá đỡ. Người lính bị thương cố nói. Máu trào ra khỏi miệng. Anh ta chỉ về phía tây đại sảnh, lên dãy cửa hẹp trên cao nhìn xuống bàn tiệc.
 
-“Bar the doors!” someone shouted.
+Tên nỏ đầu tiên cắm vào dưới xương quai xanh của nhà vua.
 
-The two door guards heaved the south doors shut. One dropped the crossbar into its brackets. The wounded guard tried to speak. Blood filled his mouth. He pointed toward the west side of the hall, toward the narrow windows above the lower tables.
+Nó phát ra một tiếng va nhỏ, gần như lịch sự, khi đập vào móc bạc trước ngực rồi xuyên sâu, đẩy ông ngã ngửa. Chiếc cốc đổ nghiêng. Rượu đỏ loang trên bản giao ước, nuốt mất ngày tháng và con dấu hoàng gia còn mới.
 
-The first bolt struck the king beneath the collarbone.
+Marek đứng bật dậy trước cả khi nhà vua ngã xuống. Chàng vượt qua bàn, rút thanh kiếm ngắn bên hông và lao tới chỗ cha, đúng lúc tên nỏ thứ hai cắm vào dưới xương sườn.
 
-It made a small, almost courteous sound against the silver clasp before driving him backward. His cup overturned. Red wine ran across the compact, swallowing the date and the fresh royal seal.
+Thái tử quay phắt về phía những ô cửa sổ.
 
-Marek was on his feet before the king fell. He vaulted the table, drew the short sword at his hip, and reached their father as a second bolt struck him below the ribs.
+Tên nỏ thứ ba xuyên vào cổ chàng.
 
-The crown prince turned toward the windows.
+Trong một khoảnh khắc không thể tin nổi, Marek vẫn đứng. Thanh kiếm tuột khỏi tay. Chàng nhìn Eirik—không cầu xin, cũng không trách móc. Chỉ kinh ngạc, như thể thế giới vừa mắc một lỗi trong phép tính mà chàng vẫn tin tưởng.
 
-A third bolt hit him in the throat.
+Rồi chàng đổ xuống bên cạnh cha.
 
-For one impossible instant Marek remained standing. His sword slipped from his hand. He looked at Eirik—not pleading, not accusing. Only surprised, as if the world had made an error in a calculation he had trusted.
+Đại sảnh vỡ tung trong hỗn loạn.
 
-Then he fell beside their father.
+Người ta xô đổ ghế dài. Gia nhân bò dưới gầm bàn. Có kẻ hét lên rằng người phương Tây đã làm chuyện này. Các thủy thủ đồng loạt đứng dậy, với tay tìm những vũ khí không được phép mang vào. Cận vệ hoàng gia chen qua đám đông. Cửa phía Nam vẫn bị chặn; hai lính gác ghì vai vào cánh cửa gỗ.
 
-The hall broke.
+Eirik chuyển động.
 
-People overturned benches. Servants crawled beneath tables. Someone screamed that the westerners had done it. The western sailors surged to their feet, reaching for weapons that were not there. The household guard pushed through the crowd. The south doors remained barred; the two guards at them braced their shoulders against the wood.
+Chàng lao về phía bàn danh dự, giữ cánh tay bị thương sát người. Một người túm lấy áo choàng. Eirik gạt bàn tay ấy ra, suýt ngã vào chiếc ghế dài. Thế giới thu hẹp lại, chỉ còn dòng máu của nhà vua đang lan trên tấm giấy da.
 
-Eirik moved.
+Cha chàng vẫn còn thở.
 
-He went toward the high table, keeping his injured arm close. A man seized his cloak. Eirik struck the hand away and nearly fell against a bench. The world had narrowed to the king's blood spreading across the parchment.
+Eirik quỳ xuống bên cạnh. Đôi mắt nhà vua tìm thấy chàng. Môi ông động đậy nhưng không phát ra tiếng.
 
-His father was still breathing.
+“Cha.”
 
-Eirik dropped beside him. The king's eyes found his. His mouth moved, but no sound came.
+Bàn tay phải của Arven siết lấy cổ tay Eirik. Cái siết mạnh hơn sức lực của một người đang hấp hối. Nhà vua cố nói lần nữa.
 
-“Father.”
+Eirik cúi sát xuống.
 
-Arven's right hand closed around Eirik's wrist. The grip was stronger than it should have been. The king tried again.
+“Đừng—”
 
-Eirik leaned closer.
+Bàn tay buông lỏng.
 
-“Do not—”
+Eirik ép lòng bàn tay lên vết thương. Máu tràn qua kẽ ngón tay, lúc đầu nóng hổi, rồi nguội dần trên nền đá.
 
-The hand loosened.
+“Gọi thầy thuốc!” chàng hét lên.
 
-Eirik pressed his palm against the wound. Blood slipped between his fingers, hot at first, then cooling against the stone.
+Không ai tới.
 
-“Get a physician!” he shouted.
+Một cái bóng phủ xuống mặt bàn. Eirik ngẩng đầu.
 
-No one came.
+Lãnh chúa Vargan đứng phía trên, mặt tái nhợt, một tay giơ lên ra hiệu cho lính gác. Giọng lão xé toạc tiếng hỗn loạn.
 
-A shadow crossed the table. Eirik looked up.
+“Bắt lấy hoàng tử.”
 
-Lord Vargan stood above him, face pale, one hand raised to command the guards. His voice cut through the panic.
+Trong một nhịp tim, Eirik không hiểu.
 
-“Seize the prince.”
+“Hoàng tử nào?” có người hét lên.
 
-For a heartbeat, Eirik did not understand.
+“Đứa con út. Eirik Veyr. Bắt nó!”
 
-“Which one?” someone shouted.
+Hai lính cận vệ lập tức tiến tới.
 
-“The younger. Eirik Veyr. Seize him!”
+Eirik đứng dậy, bàn tay vẫn dính máu cha. “Các cung thủ ở phía trên những bàn tiệc phía tây. Chặn cầu thang lên hành lang. Tìm người lính bị thương—”
 
-Two household guards moved at once.
+“Lệnh của ngài đã được nghe thấy,” Vargan nói. “Ngài bị bắt.”
 
-Eirik rose, still holding his father's blood on his hand. “The archers are above the west tables. Bar the gallery stairs. Find the wounded guard—”
+“Lệnh của ta?”
 
-“Your order was heard,” Vargan said. “You are under arrest.”
+Ánh mắt Vargan hạ xuống bàn tay đẫm máu của Eirik, rồi chuyển sang bàn danh dự.
 
-“My order?”
+Tập giấy lưu trữ đã rơi khỏi bàn. Sợi dây đỏ nằm thành hai đoạn thẳng tắp bên cạnh con dấu bị lật úp. Một tờ giấy rời tuột khỏi nếp gấp bên ngoài. Nó không thuộc bản giao ước. Dòng cuối cùng lộ ra, chữ ký được viết bằng nét chữ hẹp, cẩn thận mà Eirik vẫn dùng khi ghi chú vào sổ sách.
 
-Vargan's gaze dropped to Eirik's bloodied hand, then to the high table.
+Bên dưới là tên chàng.
 
-The archive packet had fallen from the table. Its red cord lay in two clean lengths beside the overturned seal. A loose sheet had slipped from the packet's outer fold. It was not part of the compact. Its final line was exposed, the signature written in the narrow, careful script Eirik used when annotating accounts.
+Không phải nét chữ của chàng. Không phải con dấu của chàng.
 
-At the bottom stood his name.
+Chỉ là tên chàng.
 
-Not his hand. Not his seal. His name.
+Ngay phía trên có một mệnh lệnh:
 
-Beneath it was an instruction:
+**Theo lệnh của hoàng tử Eirik: rút đội cận vệ phương Tây khỏi hành lang trên trước hồi chuông thứ ba.**
 
-**By order of Prince Eirik: remove the western guard from the upper gallery before the third bell.**
+Eirik nhìn chằm chằm vào những dòng chữ.
 
-Eirik stared at the words.
+Chàng chưa từng thấy tờ giấy đó.
 
-He had never seen the page.
+Lính gác nắm lấy cánh tay phải của chàng. Eirik xoay người, nhưng chiếc nẹp bên tay trái mắc vào cạnh bàn. Cơn đau nhói xuyên qua cổ tay. Một cú đấm giáng vào má. Đại sảnh nghiêng đi.
 
-The guards seized his right arm. He twisted, but the brace on his left caught against the table edge. Pain flashed through his wrist. A fist struck his cheek. The hall tilted.
+“Hãy nghe ta. Mệnh lệnh đó là giả.”
 
-“Listen to me,” he said. “That order is false.”
+Vargan không trả lời. Lão nhìn sang thi thể nhà vua.
 
-Vargan did not answer. He looked instead toward the king's body.
+Sứ giả phương Tây đã biến mất.
 
-The western envoy was gone.
+Eirik nhìn thấy chiếc ghế trống, phần muối trắng chưa được chạm tới, chiếc bát men xanh nằm nghiêng. Những hạt muối mịn đổ tung trên nền đá, trộn lẫn với máu bên dưới bàn.
 
-Eirik saw the empty chair, the untouched white salt, the blue-glazed bowl lying on its side. The fine grains had spilled across the floor and mixed with blood beneath the table.
+Cửa phía Nam vẫn bị chặn. Rồi một cánh cửa hẹp phía sau những người chơi nhạc mở ra. Một hàng lính có vũ trang tiến vào từ lối phục vụ phía đông, dẫn đầu là một viên đội trưởng cầm kiếm trần. Họ mặc màu áo của nhà vua, nhưng không đeo móc áo hình quạ sắt của cận vệ hoàng gia. Viên đội trưởng cầm một chiếc hộp đựng văn thư bằng da trong tay trái.
 
-The south doors remained barred. Then a narrow door behind the musicians opened. A file of armed men entered from the east service passage, led by a captain with a drawn sword. They wore the king's colours, but not the household's iron crow clasp. The captain carried a leather warrant case in his left hand.
+Những lính gác đang giữ Eirik lập tức đứng thẳng.
 
-The guards holding Eirik straightened.
+“Nhân danh Hội đồng,” viên đội trưởng nói, “hoàng tử Eirik Veyr phải được đưa đi trong tình trạng còn sống.”
 
-“By authority of the Council,” the captain said, “Prince Eirik Veyr is to be taken alive.”
+Vargan hạ bàn tay đang giơ lên. “Đội trưởng Vale. Hoàng tử thuộc quyền ông.”
 
-Vargan lowered his raised hand. “Captain Vale. The prince is in your custody.”
+Vale không nhìn Eirik. Ông ta chỉ mở chiếc hộp vừa đủ lâu để những lính gác gần nhất thấy lớp sáp đen và dấu in của năm con dấu Hội đồng. Sau đó ông ta đóng hộp lại.
 
-The captain did not look at Eirik. He opened the case just long enough for the nearest guards to see the dark wax and the impressions of five council seals. Then he closed it.
+Eirik từng nghe nói về Điều khoản Giam giữ Khẩn cấp. Nó cho phép Hội đồng bảo vệ một thành viên hoàng tộc khi nhà vua không còn khả năng điều hành và ngôi kế vị bị đe dọa. Điều khoản ấy được đặt ra để ngăn một gia tộc đối địch dùng vũ lực bắt giữ hoàng tử. Nó không biến hoàng tử thành kẻ có tội.
 
-Eirik had heard of the Emergency Custody Article. It allowed the Council to secure a royal person when the king could no longer command and the succession was in danger. It was meant to prevent a rival household from taking a prince by force. It did not make the prince guilty.
+“Đưa ta xem lệnh,” Eirik nói.
 
-“Show me the warrant,” Eirik said.
+“Sau,” Vale đáp.
 
-“Later,” Vale replied.
+“Vậy các người không có quyền—”
 
-“Then you have no authority to—”
+“Năm con dấu,” Vargan ngắt lời. “Nhà vua đã chết. Người thừa kế đã chết. Ngươi là hoàng tử duy nhất còn sống trong đại sảnh, và một mệnh lệnh mang tên ngươi vừa được tìm thấy bên cạnh con dấu của nhà vua. Hội đồng đã hành động.”
 
-“Five seals,” Vargan said. “The king is dead. The heir is dead. You are the only surviving prince in the hall, and an order bearing your name has been found beside the king's seal. The Council has acted.”
+Eirik nhìn từ Vargan sang chiếc hộp đựng văn thư. Năm con dấu có thể cho phép giam giữ. Chúng không thể biến một mệnh lệnh giả thành sự thật. Chàng không biết các nghị viên đã được báo điều gì, hay họ đã từng nhìn thấy tờ giấy ấy chưa.
 
-Eirik looked from Vargan to the warrant case. Five seals could authorize custody. They could not make the false order true. He did not know what the councillors had been told, or whether they had seen the page.
+Chàng đếm.
 
-He counted.
+Hai lính gác bên phải. Một người phía sau. Đội trưởng Vale đứng cạnh cửa phục vụ. Vargan ở gần bàn. Ít nhất sáu người chắn giữa chàng và hành lang phía tây. Tay trái gần như vô dụng. Tay phải đang bị giữ. Sứ giả phương Tây đã biến mất. Mệnh lệnh mang tên chàng, nhưng không có con dấu của chàng.
 
-Two guards at his right. One behind. Captain Vale by the service door. Vargan near the table. At least six men between him and the west gallery. His left hand was useless. His right was held. The western envoy had vanished. The order bore his name but not his seal.
+Chàng đếm, bởi đó là điều duy nhất những người đã chết không thể cướp khỏi chàng.
 
-He counted because counting was something the dead could not take from him.
+“Đưa hắn đi,” Vargan nói.
 
-“Take him,” Vargan said.
+Họ kéo Eirik qua lớp muối đổ.
 
-They dragged Eirik across the spilled salt.
+Khi đi ngang bàn danh dự, chàng nhìn thấy tập giấy lưu trữ nằm dưới một chiếc ghế đổ. Dây đỏ đã bị cắt, không phải bị giật đứt. Hai tờ giấy chàng từng nhìn thấy đều mang cùng một ngày. Ngày thứ chín tháng Sương Giá.
 
-As he passed the high table, he saw the archive packet beneath a fallen bench. The red cord had been cut, not torn. The two sheets he had seen carried the same date. The ninth day of Frostwane.
+Có người đã chép sai ngày trước khi các bản được tách riêng. Đó là lỗi của viên thư lại, không phải bằng chứng phản quốc. Nhưng có kẻ đã mở tập giấy lưu trữ sau khi nó rời tay viên thư lại. Tờ mệnh lệnh rời không có ở đó khi quan chưởng ấn kiểm tra trang đầu.
 
-Someone had copied the wrong date before the packets were separated. That was a clerk's mistake, not proof of treason. But someone had opened the archive packet after it left the clerk's hands. The loose order had not been there when the chamberlain checked the first page.
+Eirik nhìn cha và anh trai lần cuối.
 
-Eirik looked once more at his father and brother.
+Mắt nhà vua vẫn mở. Bàn tay Marek nằm ngửa trên nền đá, những ngón tay co lại như thể vẫn đang với tới thanh kiếm.
 
-The king's eyes were open. Marek's hand lay palm-up on the stone, the fingers curled as if still reaching for the sword.
+Eirik muốn quỳ xuống. Chàng muốn hét lên. Chàng muốn, với một cơn thôi thúc đột ngột khiến chính mình cũng kinh sợ, bắt tất cả những người có mặt phải trả lời về chuyện vừa xảy ra.
 
-Eirik wanted to kneel. He wanted to shout. He wanted, with a suddenness that frightened him, to make every person in the hall answer for what had happened.
+Nhưng chàng chỉ ghi khắc những chi tiết vào trí nhớ: hồi chuông thứ hai, ánh mắt Merrow hướng về lối đi của nhạc công, cánh cửa phía Nam bị chặn, những người lính tiến vào từ phía đông, năm con dấu mà chàng chưa được phép kiểm tra.
 
-Instead he fixed the details in his mind: the second bell, Merrow's glance toward the musicians' passage, the barred south doors, the men entering from the east, the five seals he had not been allowed to inspect.
+Lời nói dối đầu tiên đã được viết ra trước khi mũi tên đầu tiên rời dây nỏ.
 
-The first lie had been written before the first bolt was fired.
-
-And the men who had written it were still in the hall.
+Và những kẻ viết ra nó vẫn còn ở trong đại sảnh.
