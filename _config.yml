@@ -1,0 +1,19 @@
+title: Seven Seas Reader
+description: The Shattered Sea Saga — official reading site
+url: ""
+baseurl: ""
+theme: minima
+markdown: kramdown
+permalink: /:categories/:title/
+header_pages:
+  - index.md
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:path/
+defaults:
+  - scope:
+      path: ""
+      type: chapters
+    values:
+      layout: chapter
