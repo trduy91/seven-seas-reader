@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b2b">
+  <meta name="description" content="Seven Seas — thư viện đọc truyện và khám phá những thế giới chưa được kể.">
+  <title>Seven Seas — Story Library</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Seven Seas home"><span class="brand-mark">✦</span><span>SEVEN <b>SEAS</b></span></a>
+    <nav><a href="#library">Thư viện</a><a href="#about">Giới thiệu</a></nav>
+    <a class="github-link" href="https://github.com/trduy91/seven-seas" target="_blank" rel="noreferrer">Repository ↗</a>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="eyebrow"><span></span> THE SEVEN SEAS ARCHIVE</div>
+      <h1>Every sea holds<br><em>a story.</em></h1>
+      <p class="hero-copy">Những hành trình, những nền văn minh và những bí mật đang chờ được hé lộ. Chọn một câu chuyện và bắt đầu chuyến đi của bạn.</p>
+      <a class="discover" href="#library">KHÁM PHÁ THƯ VIỆN <span>↓</span></a>
+      <div class="hero-coordinate">VOL. 01&nbsp; / &nbsp;THE SHATTERED SEA SAGA</div>
+    </section>
+    <section class="library-section" id="library">
+      <div class="section-heading"><div><div class="eyebrow">THE COLLECTION</div><h2>Thư viện truyện</h2></div><div class="library-count" id="library-count">Đang tải thư viện…</div></div>
+      <div class="toolbar"><label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Tìm tên truyện, mô tả…" autocomplete="off"></label><select id="status-filter" aria-label="Lọc theo trạng thái"><option value="all">Tất cả trạng thái</option><option value="ongoing">Đang viết</option><option value="completed">Hoàn thành</option><option value="planned">Sắp ra mắt</option></select></div>
+      <div id="story-grid" class="story-grid" aria-live="polite"><div class="loading">Đang mở kho lưu trữ…</div></div>
+      <div id="empty-state" class="empty-state" hidden><span>✧</span><h3>Chưa tìm thấy câu chuyện</h3><p>Thử từ khóa khác hoặc thay đổi bộ lọc.</p></div>
+    </section>
+    <section class="about-section" id="about"><div class="eyebrow">BEYOND THE HORIZON</div><h2>Một thế giới.<br><em>Vô vàn hành trình.</em></h2><p>Seven Seas là nơi lưu giữ các series truyện nguyên bản. Nội dung được cập nhật trực tiếp từ kho truyện của dự án.</p></section>
+  </main>
+  <footer><a class="brand" href="./"><span class="brand-mark">✦</span><span>SEVEN <b>SEAS</b></span></a><span>CRAFTED FOR THE CURIOUS · © SEVEN SEAS</span></footer>
+  <dialog id="reader" class="reader">
+    <div class="reader-top"><button id="close-reader" class="icon-button" aria-label="Đóng">✕</button><span id="reader-series">SEVEN SEAS</span><button id="reader-index" class="reader-index">MỤC LỤC ↗</button></div>
+    <div class="reader-layout"><aside class="reader-sidebar"><div class="eyebrow">TABLE OF CONTENTS</div><h3 id="reader-title">Story</h3><div id="chapter-list"></div></aside><article class="reading-pane"><div id="chapter-meta" class="eyebrow"></div><h1 id="chapter-title">Chapter</h1><div id="chapter-content" class="prose"><p>Đang tải chương…</p></div><div class="chapter-navigation"><button id="prev-chapter">← Chương trước</button><button id="next-chapter">Chương tiếp →</button></div></article></div>
+  </dialog>
+  <script src="./app.js" defer></script>
+</body>
+</html>
