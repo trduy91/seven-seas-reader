@@ -1,12 +1,9 @@
 title: Seven Seas Reader
-description: The Shattered Sea Saga — official reading site
-url: ""
-baseurl: ""
-theme: minima
+description: The Shattered Sea Saga — a dark fantasy saga of broken crowns, drowned truths, and the cost of choosing who gets to shape the world.
+url: "https://trduy91.github.io"
+baseurl: "/seven-seas-reader"
 markdown: kramdown
 permalink: /:categories/:title/
-header_pages:
-  - index.md
 collections:
   chapters:
     output: true
