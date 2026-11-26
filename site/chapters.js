@@ -25,7 +25,7 @@ async function init(){
   $("story-title").textContent=story.title;$("story-description").textContent=story.description||"";
   $("chapter-count").textContent=chapters.length+" CHƯƠNG";
   const visible=chapters.slice((current-1)*pageSize,current*pageSize);
-  $("chapter-list").innerHTML=visible.length?visible.map((c,i)=>{const n=(current-1)*pageSize+i;return `<a class="chapter-card" href="./reader.html?story=${encodeURIComponent(story.id)}&chapter=${n}"><span class="chapter-number">${String(n+1).padStart(2,"0")}</span><span class="chapter-card-copy"><h2>${escapeHtml(c.title||"Chương "+(n+1))}</h2><p>CHƯƠNG ${String(n+1).padStart(2,"0")}</p></span><span class="chapter-arrow">→</span></a>`;}).join(""):'<p class="loading">Series này chưa có chương được xuất bản.</p>';
+  $("chapter-list").innerHTML=visible.length?visible.map((c,i)=>{const n=(current-1)*pageSize+i;const chapterNumber=c.chapter_number||String(n+1).padStart(3,"0");return `<a class="chapter-card" href="./reader.html?story=${encodeURIComponent(story.id)}&chapter=${n}"><span class="chapter-number">${chapterNumber}</span><span class="chapter-card-copy"><h2>${escapeHtml(c.title||"Chương "+chapterNumber)}</h2><p>CHƯƠNG ${chapterNumber}</p></span><span class="chapter-arrow">→</span></a>`;}).join(""):'<p class="loading">Series này chưa có chương được xuất bản.</p>';
   renderPagination(totalPages,current);
  }catch{$("story-title").textContent="Không tìm thấy series";$("story-description").textContent="Vui lòng quay lại thư viện và chọn một series hợp lệ.";$("chapter-list").innerHTML='<p class="loading">Không thể tải danh sách chương.</p>';}
 }

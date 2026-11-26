@@ -20,6 +20,30 @@
         {
           "title": "Quyển I — Chương 2: Tên Của Những Người Đã Chết",
           "file": "./chapters/shattered-sea-saga/chapter-002-ten-cua-nhung-nguoi-da-chet.md"
+        },
+        {
+          "num": "004",
+          "title": "Quyển I — Chương 4: Người Canh Cửa",
+          "file": "./chapters/shattered-sea-saga/chapter-004-nguoi-canh-cua.md",
+          "chapter_number": "004"
+        },
+        {
+          "num": "005",
+          "title": "Quyển I — Chương 5: Dòng Mực Xanh",
+          "file": "./chapters/shattered-sea-saga/chapter-005-dong-muc-xanh.md",
+          "chapter_number": "005"
+        },
+        {
+          "num": "007",
+          "title": "Quyển I — Chương 7: Giá Của Một Cánh Cửa",
+          "file": "./chapters/shattered-sea-saga/chapter-007-gia-cua-mot-canh-cua.md",
+          "chapter_number": "007"
+        },
+        {
+          "num": "009",
+          "title": "Quyển I — Chương 9: Bên Kia Tường Thành",
+          "file": "./chapters/shattered-sea-saga/chapter-009-ben-kia-tuong-thanh.md",
+          "chapter_number": "009"
         }
       ]
     },

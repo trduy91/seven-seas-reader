@@ -12,7 +12,7 @@ async function init(){
   const story=(data.stories||[]).find(s=>s.id===storyId);if(!story)throw Error("story");
   const chapters=story.chapters||[];if(!Number.isInteger(chapterIndex)||chapterIndex<0||chapterIndex>=chapters.length)throw Error("chapter");
   const chapter=chapters[chapterIndex];$("reader-series").textContent=story.title.toUpperCase();$("chapter-title").textContent=chapter.title||"Chương "+(chapterIndex+1);
-  $("chapter-meta").textContent="CHƯƠNG "+String(chapterIndex+1).padStart(2,"0")+" / "+String(chapters.length).padStart(2,"0");
+  $("chapter-meta").textContent="CHƯƠNG "+(chapter.chapter_number||String(chapterIndex+1).padStart(3,"0"));
   const listUrl=`./chapters.html?story=${encodeURIComponent(story.id)}&page=${Math.floor(chapterIndex/20)+1}`;
   $("back-to-chapters").href=listUrl;$("chapter-index-link").href=listUrl;
   setNav("prev-chapter",chapterIndex-1,story,chapters,"← Chương trước");setNav("next-chapter",chapterIndex+1,story,chapters,"Chương tiếp →");setNav("prev-chapter-top",chapterIndex-1,story,chapters,"← Chương trước");setNav("next-chapter-top",chapterIndex+1,story,chapters,"Chương tiếp →");
