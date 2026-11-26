@@ -12,7 +12,12 @@
         "adventure",
         "mystery"
       ],
-      "chapters": []
+      "chapters": [
+        {
+          "title": "Quyển I — Chương 1: Thước Đo Của Muối",
+          "file": "./chapters/shattered-sea-saga/chapter-001-the-measure-of-salt.md"
+        }
+      ]
     },
     {
       "id": "sycamore-field-notes",
