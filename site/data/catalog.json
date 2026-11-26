@@ -160,6 +160,18 @@
           "file": "./chapters/sycamore-field-chronicles/chapter-012-loi-thu-nhan-nua-voi.md",
           "reader_revision": "1.0",
           "source_revision": "v0.2"
+        },
+        {
+          "title": "Chương 7: Chuyến Phà Sang Đảo Veyra",
+          "file": "./chapters/sycamore-field-chronicles/chapter-007-chuyen-pha-sang-dao-veyra.md",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "title": "Chương 8: Kho Lưu Trữ Đóng Bụi",
+          "file": "./chapters/sycamore-field-chronicles/chapter-008-kho-luu-tru-dong-bui.md",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
         }
       ]
     }
