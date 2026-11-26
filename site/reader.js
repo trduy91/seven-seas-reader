@@ -15,7 +15,7 @@ async function init(){
   $("chapter-meta").textContent="CHƯƠNG "+String(chapterIndex+1).padStart(2,"0")+" / "+String(chapters.length).padStart(2,"0");
   const listUrl=`./chapters.html?story=${encodeURIComponent(story.id)}&page=${Math.floor(chapterIndex/20)+1}`;
   $("back-to-chapters").href=listUrl;$("chapter-index-link").href=listUrl;
-  setNav("prev-chapter",chapterIndex-1,story,chapters,"← Chương trước");setNav("next-chapter",chapterIndex+1,story,chapters,"Chương tiếp →");
+  setNav("prev-chapter",chapterIndex-1,story,chapters,"← Chương trước");setNav("next-chapter",chapterIndex+1,story,chapters,"Chương tiếp →");setNav("prev-chapter-top",chapterIndex-1,story,chapters,"← Chương trước");setNav("next-chapter-top",chapterIndex+1,story,chapters,"Chương tiếp →");
   const content=await fetch(new URL(chapter.file,location.href));if(!content.ok)throw Error("chapter file");
   $("chapter-content").innerHTML=markdownToHtml(await content.text());
  }catch{$("chapter-title").textContent="Không thể mở chương";$("chapter-content").innerHTML="<p>Chương không tồn tại hoặc nội dung chưa được xuất bản. Hãy quay lại mục lục chương.</p>";}
