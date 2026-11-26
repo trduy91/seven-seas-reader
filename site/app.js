@@ -18,11 +18,9 @@ function renderStories() {
       <div class="card-kicker">${escapeHtml(s.subtitle || "SEVEN SEAS ORIGINAL")}</div>
       <h3>${escapeHtml(s.title)}</h3>
       <p>${escapeHtml(s.description || "")}</p>
-      <div class="card-bottom"><span class="status">${statusLabels[s.status] || "SERIES"} · ${(s.chapters || []).length} CHƯƠNG</span><a class="read-link" href="#read-${encodeURIComponent(s.id)}" data-story="${escapeHtml(s.id)}">ĐỌC TRUYỆN ↗</a></div>
+      <div class="card-bottom"><span class="status">${statusLabels[s.status] || "SERIES"} · ${(s.chapters || []).length} CHƯƠNG</span><a class="read-link" href="./chapters.html?story=${encodeURIComponent(s.id)}">ĐỌC TRUYỆN ↗</a></div>
     </article>`).join("");
-  $("story-grid").querySelectorAll("[data-story]").forEach(a => a.addEventListener("click", e => {
-    e.preventDefault(); openStory(a.dataset.story);
-  }));
+
 }
 
 function markdownToHtml(markdown) {
