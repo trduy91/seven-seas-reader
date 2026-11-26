@@ -32,3 +32,10 @@ Trang Reader hiện dùng ứng dụng tĩnh trong `site/`. Có thể phục v�
 - Không thay thế danh mục bằng một JSON chỉ chứa series đang được cập nhật.
 - Trước khi commit, kiểm tra rằng mọi mục series/chương đã xuất bản trước đó vẫn còn và đường dẫn `file` của từng chương tồn tại.
 - Sau khi deploy, mở Reader và xác minh cả series vừa cập nhật lẫn các series đã xuất bản trước đó.
+
+
+## Các trang Reader
+
+- Thư viện: <https://trduy91.github.io/seven-seas-reader/>
+- Mục lục chương theo series: `/chapters.html?story=<series-id>` — hiển thị 20 chương mỗi trang, có phân trang khi danh sách dài hơn.
+- Trang đọc: `/reader.html?story=<series-id>&chapter=<chapter-index>` — có điều hướng chương trước/tiếp ở cả đầu và cuối nội dung.
