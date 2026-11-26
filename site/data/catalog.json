@@ -60,6 +60,14 @@
         {
           "title": "Chương 10: Người Đứng Dưới Mưa",
           "file": "./chapters/shattered-sea-saga/chapter-010-nguoi-dung-duoi-mua.md"
+        },
+        {
+          "num": "011",
+          "title": "Quyển I — Chương 11: Danh Sách Tro Tàn",
+          "file": "./chapters/shattered-sea-saga/chapter-011-danh-sach-tro-tan.md",
+          "chapter_number": "011",
+          "reader_revision": "1.0",
+          "source_revision": "v0.3"
         }
       ]
     },
