@@ -1,5 +1,8 @@
 name: Deploy Seven Seas Reader to GitHub Pages
 
+# The public reader is the static application in /site.
+# Keep this as the single Pages deployment workflow; a second workflow can cancel this deployment.
+
 on:
   push:
     branches: [main]
