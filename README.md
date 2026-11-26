@@ -1,45 +1,34 @@
 # Seven Seas Reader
 
-Trang đọc công khai của **THE SHATTERED SEA SAGA**. Nội dung truyện được xuất bản bằng tiếng Việt.
+Trang đọc công khai của **Seven Seas** — gồm các series truyện và những bộ tư liệu thế giới đã được chọn để công bố bằng tiếng Việt.
 
 <https://trduy91.github.io/seven-seas-reader/>
 
-Chương đã xuất bản:
-[Quyển I — Chương 1: Thước Đo Của Muối](https://trduy91.github.io/seven-seas-reader/chapters/book-01-the-crow-of-iron/chapter-001-the-measure-of-salt/).
+## Nội dung đã xuất bản
 
-Kho này chỉ chứa các chương đã được duyệt để độc giả theo dõi. Bản thảo, sổ theo dõi liên tục và tư liệu canon dành riêng cho tác giả vẫn được lưu trong [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
+- **THE SHATTERED SEA SAGA** — [Quyển I, Chương 1: Thước Đo Của Muối](https://trduy91.github.io/seven-seas-reader/chapters/book-01-the-crow-of-iron/chapter-001-the-measure-of-salt/).
+- **Nhật Ký Thực Địa của Giáo sư Sycamore** — mở trang Reader, chọn bộ sưu tập cùng tên để đọc các bài giảng. Đã có [Ngày 001](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-001.md) và [Ngày 002](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-002.md).
+
+Kho này chỉ chứa nội dung đã được chọn để độc giả theo dõi. Bản thảo, sổ theo dõi liên tục và tư liệu canon dành riêng cho tác giả vẫn được lưu trong [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
 
 ## Xuất bản
 
-1. Chuẩn bị và duyệt chương trong kho sáng tác riêng.
-2. Chỉ sao chép bản đã duyệt, an toàn cho độc giả vào `_chapters/<book-slug>/`.
-3. Cập nhật `_data/chapters.yml` và tạo yêu cầu hợp nhất.
-4. Kiểm tra nội dung hiển thị rồi hợp nhất vào `main`.
-5. GitHub Actions triển khai trang lên GitHub Pages.
+1. Chuẩn bị và kiểm tra nội dung trong kho sáng tác riêng.
+2. Chỉ sao chép bản đã duyệt, an toàn cho độc giả vào thư mục tương ứng trong `site/`.
+3. Cập nhật `site/data/catalog.json`, giữ nguyên mọi series và chương đã xuất bản trước đó.
+4. Kiểm tra đường dẫn nội dung và hợp nhất thay đổi vào `main`.
+5. Xác minh GitHub Actions triển khai Pages và mở Reader để kiểm tra nội dung hiển thị.
 
-Việc cập nhật kho sáng tác riêng không tự động xuất bản chương. Một chương chỉ được coi là đã xuất bản sau khi triển khai Pages thành công và URL công khai được xác minh.
+Việc cập nhật kho sáng tác riêng không tự động xuất bản nội dung. Một bài chỉ được coi là đã xuất bản trên Reader sau khi triển khai Pages thành công và trang công khai được xác minh.
 
 ## Xem trước trên máy
 
-
-This is a Jekyll site. Install Ruby and Bundler, then run:
-
-```sh
-bundle install
-bundle exec jekyll serve
-```
-
-The production configuration uses the GitHub Pages project-site base path `/seven-seas-reader`. For local preview at the root URL, use:
-
-```sh
-bundle exec jekyll serve --baseurl ""
-```
-
+Trang Reader hiện dùng ứng dụng tĩnh trong `site/`. Có thể phục vụ thư mục này bằng máy chủ tĩnh cục bộ; đường dẫn trong `site/data/catalog.json` được tính tương đối từ `site/index.html`.
 
 ## Quy tắc an toàn khi cập nhật Reader
 
 - `site/data/catalog.json` là danh mục dùng chung cho **tất cả** series. Mọi lần xuất bản phải đọc phiên bản mới nhất trên nhánh đích trước khi chỉnh sửa.
 - Chỉ cập nhật mục của series đang xuất bản; phải giữ nguyên toàn bộ series và danh sách chương của các series khác.
-- Không thay thế danh mục bằng một JSON chỉ chứa series đang được cập nhật. Phải hợp nhất thay đổi vào danh mục hiện tại.
-- Trước khi commit, kiểm tra rằng mọi mục series/chương đã xuất bản trước đó vẫn còn, đường dẫn `file` của từng chương tồn tại và nội dung mới không ghi đè nội dung của series khác.
+- Không thay thế danh mục bằng một JSON chỉ chứa series đang được cập nhật.
+- Trước khi commit, kiểm tra rằng mọi mục series/chương đã xuất bản trước đó vẫn còn và đường dẫn `file` của từng chương tồn tại.
 - Sau khi deploy, mở Reader và xác minh cả series vừa cập nhật lẫn các series đã xuất bản trước đó.
