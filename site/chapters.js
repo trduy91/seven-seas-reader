@@ -27,7 +27,7 @@ async function init(){
   const visible=chapters.slice((current-1)*pageSize,current*pageSize);
   $("chapter-list").innerHTML=visible.length?visible.map((c,i)=>{const n=(current-1)*pageSize+i;return `<a class="chapter-card" href="./reader.html?story=${encodeURIComponent(story.id)}&chapter=${n}"><span class="chapter-number">${String(n+1).padStart(2,"0")}</span><span class="chapter-card-copy"><h2>${escapeHtml(c.title||"Chương "+(n+1))}</h2><p>CHƯƠNG ${String(n+1).padStart(2,"0")}</p></span><span class="chapter-arrow">→</span></a>`;}).join(""):'<p class="loading">Series này chưa có chương được xuất bản.</p>';
   renderPagination(totalPages,current);
- }catch{$("story-title").textContent="Không tìm thấy series";$("chapter-description").textContent="Vui lòng quay lại thư viện và chọn một series hợp lệ.";$("chapter-list").innerHTML='<p class="loading">Không thể tải danh sách chương.</p>';}
+ }catch{$("story-title").textContent="Không tìm thấy series";$("story-description").textContent="Vui lòng quay lại thư viện và chọn một series hợp lệ.";$("chapter-list").innerHTML='<p class="loading">Không thể tải danh sách chương.</p>';}
 }
 function escapeHtml(v=""){return String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 init();
