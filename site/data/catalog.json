@@ -7,8 +7,32 @@
       "subtitle": "THE FIRST GREAT SAGA",
       "description": "Một đại dương bị chia cắt, những nền văn minh trỗi dậy giữa tàn tích và các bí mật cổ xưa đang chờ được khám phá.",
       "status": "ongoing",
-      "tags": ["fantasy", "adventure", "mystery"],
+      "tags": [
+        "fantasy",
+        "adventure",
+        "mystery"
+      ],
       "chapters": []
+    },
+    {
+      "id": "sycamore-field-notes",
+      "title": "Nhật Ký Thực Địa của Giáo sư Sycamore",
+      "subtitle": "BÁCH KHOA TỰ NHIÊN HỌC SHATTERED SEAS",
+      "description": "Những bài giảng và ghi chép thực địa về thực vật, khoáng vật và sinh vật của Shattered Seas, dưới danh nghĩa Giáo sư Ezekiel Sycamore.",
+      "status": "ongoing",
+      "tags": [
+        "tự nhiên học",
+        "thực vật",
+        "khoáng vật",
+        "động vật",
+        "shattered seas"
+      ],
+      "chapters": [
+        {
+          "title": "Ngày 001 — Những thứ tưởng như vô hại",
+          "file": "./field-notes/sycamore/day-001.md"
+        }
+      ]
     }
   ]
 }
