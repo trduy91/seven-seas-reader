@@ -20,4 +20,11 @@ async function init(){
   $("chapter-content").innerHTML=markdownToHtml(await content.text());
  }catch{$("chapter-title").textContent="Không thể mở chương";$("chapter-content").innerHTML="<p>Chương không tồn tại hoặc nội dung chưa được xuất bản. Hãy quay lại mục lục chương.</p>";}
 }
+const backToTop=$("back-to-top");
+if(backToTop){
+ const updateBackToTop=()=>backToTop.classList.toggle("is-visible",window.scrollY>420);
+ window.addEventListener("scroll",updateBackToTop,{passive:true});
+ backToTop.addEventListener("click",()=>window.scrollTo({top:0,behavior:window.matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}));
+ updateBackToTop();
+}
 init();
