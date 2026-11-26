@@ -22,6 +22,12 @@
           "file": "./chapters/shattered-sea-saga/chapter-002-ten-cua-nhung-nguoi-da-chet.md"
         },
         {
+          "num": "003",
+          "title": "Quyển I — Chương 3: Sổ Giao Nhận",
+          "file": "./chapters/shattered-sea-saga/chapter-003-so-giao-nhan.md",
+          "chapter_number": "003"
+        },
+        {
           "num": "004",
           "title": "Quyển I — Chương 4: Người Canh Cửa",
           "file": "./chapters/shattered-sea-saga/chapter-004-nguoi-canh-cua.md",
@@ -34,16 +40,34 @@
           "chapter_number": "005"
         },
         {
+          "num": "006",
+          "title": "Quyển I — Chương 6: Người Ở Phòng Bên",
+          "file": "./chapters/shattered-sea-saga/chapter-006-nguoi-o-phong-ben.md",
+          "chapter_number": "006"
+        },
+        {
           "num": "007",
           "title": "Quyển I — Chương 7: Giá Của Một Cánh Cửa",
           "file": "./chapters/shattered-sea-saga/chapter-007-gia-cua-mot-canh-cua.md",
           "chapter_number": "007"
         },
         {
+          "num": "008",
+          "title": "Quyển I — Chương 8: Qua Cống Cũ",
+          "file": "./chapters/shattered-sea-saga/chapter-008-qua-cong-cu.md",
+          "chapter_number": "008"
+        },
+        {
           "num": "009",
           "title": "Quyển I — Chương 9: Bên Kia Tường Thành",
           "file": "./chapters/shattered-sea-saga/chapter-009-ben-kia-tuong-thanh.md",
           "chapter_number": "009"
+        },
+        {
+          "num": "010",
+          "title": "Quyển I — Chương 10: Người Đứng Dưới Mưa",
+          "file": "./chapters/shattered-sea-saga/chapter-010-nguoi-dung-duoi-mua.md",
+          "chapter_number": "010"
         }
       ]
     },

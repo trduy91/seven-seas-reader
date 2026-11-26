@@ -6,7 +6,7 @@ Trang đọc công khai của **Seven Seas** — gồm các series truyện và 
 
 ## Nội dung đã xuất bản
 
-- **THE SHATTERED SEA SAGA** — đã có Quyển I, Chương 1: *Thước Đo Của Muối* và Chương 2: *Tên Của Những Người Đã Chết*. Mở Reader, chọn series để đọc theo thứ tự.
+- **THE SHATTERED SEA SAGA** — đã có Quyển I, các chương 1–10 (Chương 1–10). Mở Reader, chọn series để đọc theo thứ tự.
 - **Nhật Ký Thực Địa của Giáo sư Sycamore** — mở trang Reader, chọn bộ sưu tập cùng tên để đọc các bài giảng. Đã có [Ngày 001](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-001.md) và [Ngày 002](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-002.md).
 
 Kho này chỉ chứa nội dung đã được chọn để độc giả theo dõi. Bản thảo, sổ theo dõi liên tục và tư liệu canon dành riêng cho tác giả vẫn được lưu trong [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
