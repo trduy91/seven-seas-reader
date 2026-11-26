@@ -34,3 +34,12 @@ The production configuration uses the GitHub Pages project-site base path `/seve
 ```sh
 bundle exec jekyll serve --baseurl ""
 ```
+
+
+## Quy tắc an toàn khi cập nhật Reader
+
+- `site/data/catalog.json` là danh mục dùng chung cho **tất cả** series. Mọi lần xuất bản phải đọc phiên bản mới nhất trên nhánh đích trước khi chỉnh sửa.
+- Chỉ cập nhật mục của series đang xuất bản; phải giữ nguyên toàn bộ series và danh sách chương của các series khác.
+- Không thay thế danh mục bằng một JSON chỉ chứa series đang được cập nhật. Phải hợp nhất thay đổi vào danh mục hiện tại.
+- Trước khi commit, kiểm tra rằng mọi mục series/chương đã xuất bản trước đó vẫn còn, đường dẫn `file` của từng chương tồn tại và nội dung mới không ghi đè nội dung của series khác.
+- Sau khi deploy, mở Reader và xác minh cả series vừa cập nhật lẫn các series đã xuất bản trước đó.
