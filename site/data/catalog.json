@@ -86,6 +86,44 @@
           "file": "./field-notes/sycamore/day-002.md"
         }
       ]
+    },
+    {
+      "id": "sycamore-field-chronicles",
+      "title": "Nhật Ký Thực Địa Biển Vỡ — Quyển I",
+      "subtitle": "THE SHATTERED SEAS FIELD CHRONICLES",
+      "description": "Nhật ký thực địa của Toma Lind — học trò Giáo sư Ezekiel Sycamore — qua những vùng biển của The Shattered Seas.",
+      "status": "ongoing",
+      "tags": [
+        "fantasy",
+        "adventure",
+        "natural-history"
+      ],
+      "chapters": [
+        {
+          "title": "Chương 1: Bài Kiểm Tra Bên Vũng Cạn",
+          "file": "./chapters/sycamore-field-chronicles/chapter-001-bai-kiem-tra-ben-vung-can.md"
+        },
+        {
+          "title": "Chương 2: Chiếc Hòm Mười Bốn Ký",
+          "file": "./chapters/sycamore-field-chronicles/chapter-002-chiec-hom-muoi-bon-ky.md"
+        },
+        {
+          "title": "Chương 3: Tên Của Lần Quan Sát Sai",
+          "file": "./chapters/sycamore-field-chronicles/chapter-003-ten-cua-lan-quan-sat-sai.md"
+        },
+        {
+          "title": "Chương 4: Tiếng Chuông Ở Bến Hàng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-004-tieng-chuong-o-ben-hang.md"
+        },
+        {
+          "title": "Chương 5: Bản Hợp Đồng Màu Tro",
+          "file": "./chapters/sycamore-field-chronicles/chapter-005-ban-hop-dong-mau-tro.md"
+        },
+        {
+          "title": "Chương 6: Cơn Đau Của Người Thầy",
+          "file": "./chapters/sycamore-field-chronicles/chapter-006-con-dau-cua-nguoi-thay.md"
+        }
+      ]
     }
   ]
 }
