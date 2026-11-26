@@ -1,6 +1,7 @@
 # Quyển I — Quạ Sắt
 ## Chương 2: Tên Của Những Người Đã Chết
 
+
 Cánh cửa phía sau Eirik đóng lại bằng một tiếng nặng nề.
 
 Không ai nói gì trong vài nhịp thở đầu tiên. Những người lính đứng thành hai hàng dọc hành lang, giáo dựng thẳng, mũ sắt che gần hết khuôn mặt. Ánh đuốc làm những vệt máu trên tay chàng chuyển sang màu đen.
@@ -51,7 +52,7 @@ Người đứng gần cửa sổ mặc áo choàng xám của Hội đồng. Ô
 
 “Hoàng tử Eirik Veyr,” người áo choàng xám nói. “Ta là Chưởng quan Pell.”
 
-Eirik nhìn ông ta. Chàng biết cái tên. Chancellor Odran Pell đã giữ chức vụ ấy đủ lâu để nhiều người trong triều xem ông ta như một phần của căn phòng—một món đồ cũ, ít được chú ý, nhưng luôn ở đúng chỗ.
+Eirik nhìn ông ta. Chàng biết cái tên. Chưởng quan Odran Pell đã giữ chức vụ ấy đủ lâu để nhiều người trong triều xem ông ta như một phần của căn phòng—một món đồ cũ, ít được chú ý, nhưng luôn ở đúng chỗ.
 
 “Ta muốn gặp thầy thuốc.”
 
@@ -316,3 +317,5 @@ Eirik ngồi xuống, lưng dựa vào tường. Chàng đếm khoảng cách gi
 Chàng chỉ biết rằng trong cung điện phía trên, những người còn sống đang bắt đầu viết tên của những người đã chết vào sổ sách.
 
 Và nếu chàng không tìm được cách đọc những gì họ viết, cái tên tiếp theo có thể là của chàng.
+
+> **Ghi chú phiên bản 1.1:** Chức danh “Chưởng quan” đã được chuẩn hóa trong bản tiếng Việt. Nội dung và diễn biến truyện không thay đổi.
