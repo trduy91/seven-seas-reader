@@ -68,6 +68,12 @@
           "chapter_number": "011",
           "reader_revision": "1.0",
           "source_revision": "v0.3"
+        },
+        {
+          "title": "Chương 12: Trạm Cân Lương",
+          "file": "./chapters/shattered-sea-saga/chapter-012-tram-can-luong.md",
+          "reader_revision": "1.0",
+          "source_revision": "v0.4"
         }
       ]
     },
