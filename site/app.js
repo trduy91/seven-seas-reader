@@ -61,7 +61,10 @@ async function openStory(id) {
   }
 }
 function renderChapterList() {
-  $("chapter-list").innerHTML = (activeStory.chapters || []).map((c, i) =>
+  const chapters = activeStory.chapters || [];
+  $("chapter-select").innerHTML = chapters.map((c, i) => `<option value="${i}">${escapeHtml(c.title || `Chương ${i+1}`)}</option>`).join("");
+  $("chapter-select").value = String(activeChapterIndex);
+  $("chapter-list").innerHTML = chapters.map((c, i) =>
     `<button class="chapter-item ${i === activeChapterIndex ? "active" : ""}" data-chapter="${i}">${escapeHtml(c.title || `Chương ${i+1}`)}</button>`).join("");
   $("chapter-list").querySelectorAll("[data-chapter]").forEach(b => b.addEventListener("click", () => openChapter(Number(b.dataset.chapter))));
 }
@@ -74,6 +77,7 @@ async function openChapter(index) {
   $("chapter-meta").textContent = `${activeStory.title.toUpperCase()}  /  CHAPTER ${String(index+1).padStart(2,"0")}`;
   $("chapter-content").innerHTML = "<p>Đang tải chương…</p>";
   renderChapterList();
+  $("chapter-select").value = String(index);
   try {
     const response = await fetch(chapter.file);
     if (!response.ok) throw new Error("Chapter not found");
@@ -86,14 +90,18 @@ async function openChapter(index) {
 }
 function updateNavigation() {
   const count = (activeStory?.chapters || []).length;
-  $("prev-chapter").disabled = activeChapterIndex <= 0;
-  $("next-chapter").disabled = activeChapterIndex >= count - 1;
+  for (const id of ["prev-chapter", "prev-chapter-top"]) $(id).disabled = activeChapterIndex <= 0;
+  for (const id of ["next-chapter", "next-chapter-top"]) $(id).disabled = activeChapterIndex >= count - 1;
+  if ($("chapter-select").options.length) $("chapter-select").value = String(activeChapterIndex);
 }
 $("search").addEventListener("input", renderStories);
 $("status-filter").addEventListener("change", renderStories);
 $("close-reader").addEventListener("click", () => $("reader").close());
 $("prev-chapter").addEventListener("click", () => openChapter(activeChapterIndex - 1));
 $("next-chapter").addEventListener("click", () => openChapter(activeChapterIndex + 1));
+$("prev-chapter-top").addEventListener("click", () => openChapter(activeChapterIndex - 1));
+$("next-chapter-top").addEventListener("click", () => openChapter(activeChapterIndex + 1));
+$("chapter-select").addEventListener("change", e => openChapter(Number(e.target.value)));
 $("reader-index").addEventListener("click", () => { $("reader").close(); document.getElementById("library").scrollIntoView(); });
 $("reader").addEventListener("click", e => { if (e.target === $("reader")) $("reader").close(); });
 
