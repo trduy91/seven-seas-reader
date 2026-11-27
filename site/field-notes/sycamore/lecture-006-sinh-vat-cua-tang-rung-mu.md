@@ -8,6 +8,15 @@
 Lan Mũ Kim Lam cho thấy đời sống biểu sinh không phải hình thức ký sinh. Loài lan này sử dụng thân cây như một giá đỡ, thu nước từ sương và dựa vào cộng sinh nấm để hoàn tất vòng đời dưới tầng tán thiếu sáng.
 
 ## I. Thực vật — Lan Mũ Kim Lam
+
+**Mã hồ sơ:** `SS-SYC-20261127-006-PL01`
+
+### Prompt minh họa — Lan Mũ Kim Lam
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one complete specimen of the named plant. Use the described growth form and leaf/stem/root structures only where explicitly stated. Do not add flowers or fruits. Do not turn a low grass tuft into a tree or shrub.\n\nSpecimen: Lan Mũ Kim Lam. Archive ID: SS-SYC-20261127-006-PL01. Source description: Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm.
+```
+
 ### Nhận diện và hình thái
 
 Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
