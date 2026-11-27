@@ -25,6 +25,15 @@ Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ si
 
 Thân rỗng chia đốt của Trúc Rễ Thở chứa mô khí dẫn oxy từ lá xuống hệ rễ. Rễ phụ mọc ngược khỏi bùn có lớp vỏ xốp và lỗ trao đổi khí; khi nước dâng, phần rễ nhô trên mặt nước vẫn thông khí cho rễ chìm. Khi đất khô, rễ phụ co lại để giảm thoát hơi. Thân rễ lan ngang giữ bùn, làm chậm dòng tràn từ rừng xuống đầm. Lá rụng nuôi nấm và côn trùng nước; cá nhỏ trú trong hốc rễ, chim lội săn mồi ở mép bụi. Thân trưởng thành dùng làm cọc nhẹ và ống dẫn nước ngắn sau khi phơi khô; phải giữ lại thân rễ để bờ đầm không mất lớp neo tự nhiên.
 
+### Cấu trúc rễ và điều tiết nước
+Rễ thở của Trúc Rễ Thở mọc thành cụm quanh gốc, các ống khí nối với khoang thân qua những mô dẫn rỗng. Khi bùn ngập, oxy đi từ lá xuống rễ chìm; khi nước rút, các lỗ trên rễ phụ trao đổi khí trực tiếp với không khí. Rễ non mềm và sáng màu, rễ già hóa gỗ, trở thành cọc giữ bùn. Cấu trúc này cho phép cây chịu được nhịp ngập-rút lặp lại mà không cần chuyển toàn bộ hệ rễ lên nền cao.
+
+### Vai trò ở ranh giới sinh cảnh
+Bụi trúc làm chậm dòng nước từ rừng đổ vào đầm, giữ phù sa và tạo những hành lang nước nông cho cá non. Chim lội săn cá ở rìa bụi; rắn nước và cua trú trong khoảng rỗng giữa các rễ. Lá rụng phân hủy chậm trong bùn, bổ sung mùn và duy trì quần thể nấm chịu ngập. Khi bụi trúc nối thành dải, ranh giới rừng-đầm trở thành vùng chuyển tiếp giàu sinh vật thay vì một đường phân chia sắc nét.
+
+### Lời dặn của Sycamore
+Ranh giới sinh thái là nơi hai thế giới trao đổi vật chất, không phải bức tường ngăn cách. Muốn hiểu đầm lầy, hãy nghiên cứu cả khu rừng đang nuôi dưỡng nó.
+
 ## Câu hỏi dành cho học viên
 
 1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
