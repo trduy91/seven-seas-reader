@@ -9,7 +9,7 @@ Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh s
 
 ## I. Động vật — Lươn Ruy Băng Mù
 
-![Tranh khoa học Lươn Ruy Băng Mù](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-008-AN01.
+![Tranh khoa học Lươn Ruy Băng Mù](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-008-AN01.jpg)
 
 ### Nhận diện và hình thái
 
