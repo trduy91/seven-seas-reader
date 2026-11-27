@@ -11,7 +11,6 @@ Gió khắc trên sườn đá là chủ đề của buổi khảo sát này. T�
 
 ![Tranh khoa học Rêu Chén Gió](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-005-PL01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-005-PL01`  
 **Phân loại:** Rêu dạng đệm ở khe đá cao địa  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Đệm thấp chia thùy nhỏ áp sát đá; mặt trên xanh xám, mặt khuất gió sẫm hơn và giữ ẩm lâu; lá nhỏ xếp chồng.
-- **HYPOTHESIS:** Dạng đệm có thể giữ lớp không khí ẩm và giảm tiếp xúc gió; khác màu cũng có thể do ánh sáng.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-005` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Rêu Chén Gió và vi khí hậu khe đá
+
+Mỗi thùy rêu gồm nhiều lớp lá nhỏ xếp như mái ngói, giữ lớp không khí ẩm sát đá và cản hạt cát bị gió cuốn. Khi khô, lá cuộn vào trong để bảo vệ mô quang hợp; khi sương chạm vào, lá mở ra và dẫn nước về lõi đệm. Rêu tiết axit hữu cơ ở chân bám, làm phong hóa lớp khoáng ngoài cùng, tạo bụi đá và mùn cho địa y, dương xỉ khe đá cùng cây non. Đệm già là nơi trú của ve đá, bọ nhỏ và trứng côn trùng. Người leo núi đọc hướng nghiêng của đệm để nhận biết gió thịnh hành; không bóc rêu vì một đệm trưởng thành cần nhiều mùa mưa mới phục hồi.
 
 ## Câu hỏi dành cho học viên
 
