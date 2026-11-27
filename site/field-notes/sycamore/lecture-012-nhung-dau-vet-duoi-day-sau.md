@@ -33,6 +33,15 @@ Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ si
 
 Đôi mắt lớn hình đĩa hướng chếch lên để thu ánh sáng sinh học từ sinh vật trôi phía trên. Võng mạc hai lớp nhận ánh sáng xanh yếu và phân biệt chuyển động của bóng. Dải cơ quan phát quang ở bụng nhấp nháy ngắn, phá đường viền cơ thể khi nhìn từ dưới lên. Miệng mở rộng nhanh để hút giáp xác phát sáng, cá con và phù du lớn. Cá sống gần vách dốc, nơi dòng hữu cơ từ mặt biển chìm xuống. Trứng nổi ở tầng nước trung gian; con non lớn lên trong vùng phù du rồi hạ sâu. Khi kéo cá lên, phải che tối và thay đổi áp suất từ từ để bảo vệ mắt và túi khí.
 
+### Chiến lược săn mồi
+Cá Mắt Đĩa Sâu giữ thân gần thẳng đứng khi rình mồi, mắt hướng lên để phát hiện bóng cắt ngang nền sáng phía trên. Cơ quan phát quang ở bụng phát xung ngắn, đồng bộ với nhịp co cơ để làm nhiễu đường viền cơ thể. Khi con mồi đến gần, cá mở hàm và hút nước vào khoang miệng; răng nhỏ cong vào trong giữ giáp xác trơn tuột. Nó thường nuốt con mồi nguyên vẹn để tránh làm mất chất dinh dưỡng trong dòng nước.
+
+### Di cư theo dòng thức ăn
+Cá trưởng thành di chuyển dọc các vách sâu theo những dòng nước mang phù du chìm xuống. Mùa sinh sản, cá cái thả trứng nổi ở tầng nước trung gian; cá non phát triển trong vùng giàu thức ăn rồi dần hạ sâu khi cơ quan cảm quang hoàn thiện. Cá lớn là con mồi của những sinh vật săn tầng đáy có hàm khỏe và khả năng cảm nhận điện trường.
+
+### Lời dặn của Sycamore
+Ánh sáng ở đáy biển không phải lúc nào cũng để soi đường. Đôi khi nó là mồi nhử, tín hiệu, hoặc chiếc màn che. Hãy hỏi ánh sáng phục vụ ai trước khi đi theo nó.
+
 ## Câu hỏi dành cho học viên
 
 1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
