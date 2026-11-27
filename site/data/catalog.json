@@ -258,6 +258,14 @@
           "chapter_number": "022",
           "reader_revision": "1.0",
           "source_revision": "v0.3"
+        },
+        {
+          "num": "023",
+          "title": "Chương 23: Phiên Điều Trần Ở Saint Veyra",
+          "file": "./chapters/sycamore-field-chronicles/chapter-023-phien-dieu-tran-o-saint-veyra.md",
+          "chapter_number": "023",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
         }
       ]
     }
