@@ -9,7 +9,7 @@ Lan Mũ Kim Lam cho thấy đời sống biểu sinh không phải hình thức 
 
 ## I. Thực vật — Lan Mũ Kim Lam
 
-![Tranh khoa học Lan Mũ Kim Lam](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-006-PL01.
+![Tranh khoa học Lan Mũ Kim Lam](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-006-PL01.jpg)
 
 ### Nhận diện và hình thái
 
