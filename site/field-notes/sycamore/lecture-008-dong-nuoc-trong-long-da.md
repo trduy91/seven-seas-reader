@@ -8,9 +8,6 @@
 Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh sáng không thể đi theo. Bài học của loài này nằm ở việc chuyển chức năng định hướng từ thị giác sang cảm nhận rung động, dòng chảy và dấu hóa học trong nước.
 
 ## I. Động vật — Lươn Ruy Băng Mù
-
-![Tranh khoa học Lươn Ruy Băng Mù](./images/SS-SYC-20261127-008-AN01.jpg)
-
 ### Nhận diện và hình thái
 
 Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
