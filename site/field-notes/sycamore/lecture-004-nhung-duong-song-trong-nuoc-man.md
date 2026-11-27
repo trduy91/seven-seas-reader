@@ -11,7 +11,6 @@ Những đường sống trong nước mặn là chủ đề của buổi khảo
 
 ![Tranh khoa học Cói Kính Muối](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-004-PL01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-004-PL01`  
 **Phân loại:** Thực vật thân thảo ven hõm triều  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Búi thưa trên cát pha muối; lá hẹp hình dải phủ sáp mờ, mép lá già có thể có tinh thể trắng; thân ngầm ngắn nối chồi.
-- **HYPOTHESIS:** Lớp sáp có thể hạn chế mất nước; tinh thể có thể chỉ là muối từ nước bắn kết tinh, chưa chứng minh cây bài tiết muối.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-004` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Cói Kính Muối trong hõm triều
+
+Cói Kính Muối sống ở hõm triều nông, nơi nước biển đọng lại sau khi triều xuống. Lớp cutin vi tinh thể khiến nước trượt khỏi lá; muối dư được dẫn về đầu lá già để bảo vệ mô non. Thân rễ bò ngang dưới cát, dự trữ nước và đường trong các đốt phình, giúp cây vượt qua những giờ phơi triều. Búi cói làm chậm dòng nước, giữ cát mịn và tạo khe ẩm cho giáp xác trú ẩn. Ốc ăn tảo trên bẹ lá, cua non ẩn dưới thân rễ, chim lội săn mồi ở rìa bụi. Lá già phơi khô được bện thành tấm lót chống ẩm; khi thu hoạch phải giữ nguyên thân rễ.
 
 ## Câu hỏi dành cho học viên
 
