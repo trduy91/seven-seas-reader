@@ -17,7 +17,7 @@ Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác
 
 ### Đặc tính và vai trò sinh thái
 
-Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Vôi Bậc Nhiệt hình thành khi nước giàu khoáng thoát khí, nguội dần và kết tủa dọc mép dòng. Nhiệt độ, độ axit và tốc độ chảy quyết định kích thước tinh thể cũng như màu của từng tầng. Khi lấy mẫu, chỉ tách mảnh rời ở bậc đã nguội; tránh miệng phun và các lớp vỏ mỏng che dòng nước nóng.
 
 ### Ghi chép thực địa
 
