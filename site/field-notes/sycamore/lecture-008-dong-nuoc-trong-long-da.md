@@ -8,6 +8,15 @@
 Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh sáng không thể đi theo. Bài học của loài này nằm ở việc chuyển chức năng định hướng từ thị giác sang cảm nhận rung động, dòng chảy và dấu hóa học trong nước.
 
 ## I. Động vật — Lươn Ruy Băng Mù
+
+**Mã hồ sơ:** `SS-SYC-20261127-008-AN01`
+
+### Prompt minh họa — Lươn Ruy Băng Mù
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one specimen of the named zoological or geological subject. Match its named class and described morphology; do not substitute another class of organism or object.\n\nSpecimen: Lươn Ruy Băng Mù. Archive ID: SS-SYC-20261127-008-AN01. Source description: Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
+```
+
 ### Nhận diện và hình thái
 
 Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
