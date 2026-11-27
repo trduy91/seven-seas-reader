@@ -9,7 +9,7 @@
 
 ## I. Động vật — Ốc Bám Mỏ Neo
 
-![Tranh khoa học Ốc Bám Mỏ Neo](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-010-AN01.
+![Tranh khoa học Ốc Bám Mỏ Neo](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-010-AN01.jpg)
 
 ### Nhận diện và hình thái
 
