@@ -99,15 +99,18 @@
       "chapters": [
         {
           "title": "Ngày 001 — Những thứ tưởng như vô hại",
-          "file": "./field-notes/sycamore/day-001.md"
+          "file": "./field-notes/sycamore/day-001.md",
+          "source_lecture_id": "SS-SYC-D001"
         },
         {
           "title": "Ngày 002 — Ba cách tồn tại ở rìa khắc nghiệt",
-          "file": "./field-notes/sycamore/day-002.md"
+          "file": "./field-notes/sycamore/day-002.md",
+          "source_lecture_id": "SS-SYC-D20261126"
         },
         {
           "title": "Ngày 003 — Ba chiến lược bên mép nước",
-          "file": "./field-notes/sycamore/day-003.md"
+          "file": "./field-notes/sycamore/day-003.md",
+          "source_lecture_id": "SS-SYC-D20261127"
         },
         {
           "num": "004",
