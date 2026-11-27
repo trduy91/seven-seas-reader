@@ -9,7 +9,7 @@
 
 ## I. Khoáng vật / Đá — Đá Bọt Bện
 
-![Tranh khoa học Đá Bọt Bện](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-007-MN01.
+![Tranh khoa học Đá Bọt Bện](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-007-MN01.jpg)
 
 ### Nhận diện và hình thái
 
