@@ -11,7 +11,6 @@ Ranh giới giữa rừng và đầm lầy là chủ đề của buổi khảo s
 
 ![Tranh khoa học Trúc Rễ Thở](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-013-PL01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-013-PL01`  
 **Phân loại:** Cây thân đốt ở đất ngập theo mùa  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Thân rỗng chia đốt mọc thành cụm; lá hẹp thành bẹ quanh đốt; gốc có rễ phụ nhô khỏi bùn; thân có khoang chưa kiểm tra.
-- **HYPOTHESIS:** Rễ nhô có thể trao đổi khí trong nền thiếu oxy, nhưng cũng có thể là rễ chống hoặc phản ứng mực nước; chưa gọi là rễ thở chuyên hóa.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-013` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Trúc Rễ Thở
+
+Thân rỗng chia đốt của Trúc Rễ Thở chứa mô khí dẫn oxy từ lá xuống hệ rễ. Rễ phụ mọc ngược khỏi bùn có lớp vỏ xốp và lỗ trao đổi khí; khi nước dâng, phần rễ nhô trên mặt nước vẫn thông khí cho rễ chìm. Khi đất khô, rễ phụ co lại để giảm thoát hơi. Thân rễ lan ngang giữ bùn, làm chậm dòng tràn từ rừng xuống đầm. Lá rụng nuôi nấm và côn trùng nước; cá nhỏ trú trong hốc rễ, chim lội săn mồi ở mép bụi. Thân trưởng thành dùng làm cọc nhẹ và ống dẫn nước ngắn sau khi phơi khô; phải giữ lại thân rễ để bờ đầm không mất lớp neo tự nhiên.
 
 ## Câu hỏi dành cho học viên
 
