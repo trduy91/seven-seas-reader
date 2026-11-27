@@ -113,61 +113,71 @@
           "num": "004",
           "title": "Bài giảng 004 — Những đường sống trong nước mặn",
           "file": "./field-notes/sycamore/lecture-004-nhung-duong-song-trong-nuoc-man.md",
-          "chapter_number": "004"
+          "chapter_number": "004",
+          "source_lecture_id": "SS-SYC-20261127-004"
         },
         {
           "num": "005",
           "title": "Bài giảng 005 — Gió khắc trên sườn đá",
           "file": "./field-notes/sycamore/lecture-005-gio-khac-tren-suon-da.md",
-          "chapter_number": "005"
+          "chapter_number": "005",
+          "source_lecture_id": "SS-SYC-20261127-005"
         },
         {
           "num": "006",
           "title": "Bài giảng 006 — Sinh vật của tầng rừng mù",
           "file": "./field-notes/sycamore/lecture-006-sinh-vat-cua-tang-rung-mu.md",
-          "chapter_number": "006"
+          "chapter_number": "006",
+          "source_lecture_id": "SS-SYC-20261127-006"
         },
         {
           "num": "007",
           "title": "Bài giảng 007 — Sau lớp tro núi lửa",
           "file": "./field-notes/sycamore/lecture-007-sau-lop-tro-nui-lua.md",
-          "chapter_number": "007"
+          "chapter_number": "007",
+          "source_lecture_id": "SS-SYC-20261127-007"
         },
         {
           "num": "008",
           "title": "Bài giảng 008 — Dòng nước trong lòng đá",
           "file": "./field-notes/sycamore/lecture-008-dong-nuoc-trong-long-da.md",
-          "chapter_number": "008"
+          "chapter_number": "008",
+          "source_lecture_id": "SS-SYC-20261127-008"
         },
         {
           "num": "009",
           "title": "Bài giảng 009 — Bí mật của những đụn cát đêm",
           "file": "./field-notes/sycamore/lecture-009-bi-mat-cua-nhung-dun-cat-dem.md",
-          "chapter_number": "009"
+          "chapter_number": "009",
+          "source_lecture_id": "SS-SYC-20261127-009"
         },
         {
           "num": "010",
           "title": "Bài giảng 010 — Những cư dân của vách bão",
           "file": "./field-notes/sycamore/lecture-010-nhung-cu-dan-cua-vach-bao.md",
-          "chapter_number": "010"
+          "chapter_number": "010",
+          "source_lecture_id": "SS-SYC-20261127-010"
         },
         {
           "num": "011",
           "title": "Bài giảng 011 — Nước nóng và những tầng khoáng",
           "file": "./field-notes/sycamore/lecture-011-nuoc-nong-va-nhung-tang-khoang.md",
-          "chapter_number": "011"
+          "chapter_number": "011",
+          "source_lecture_id": "SS-SYC-20261127-011"
         },
         {
           "num": "012",
           "title": "Bài giảng 012 — Những dấu vết dưới đáy sâu",
           "file": "./field-notes/sycamore/lecture-012-nhung-dau-vet-duoi-day-sau.md",
-          "chapter_number": "012"
+          "chapter_number": "012",
+          "source_lecture_id": "SS-SYC-20261127-012"
         },
         {
           "num": "013",
           "title": "Bài giảng 013 — Ranh giới giữa rừng và đầm lầy",
           "file": "./field-notes/sycamore/lecture-013-ranh-gioi-giua-rung-va-dam-lay.md",
-          "chapter_number": "013"
+          "chapter_number": "013",
+          "source_lecture_id": "SS-SYC-20261127-013"
         }
       ]
     },
