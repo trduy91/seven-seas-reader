@@ -5,15 +5,11 @@
 > Mã bài giảng: SS-SYC-20261127-011  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Nước nóng và những tầng khoáng là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Vôi Bậc Nhiệt ghi lại hành trình của nước nóng từ lòng đất lên mặt. Mỗi bậc kết tinh là một lát cắt của nhiệt độ, tốc độ dòng và thành phần khoáng, đồng thời tạo nên một hệ sinh thái chịu nhiệt độc đáo.
 
 ## I. Khoáng vật / Đá — Vôi Bậc Nhiệt
 
-![Tranh khoa học Vôi Bậc Nhiệt](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-011-MN01.jpg)
-
-**Mã hồ sơ:** `SS-SYC-20261127-011-MN01`  
-**Phân loại:** Kết tủa dạng tầng; pha khoáng chưa xác định  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+![Tranh khoa học Vôi Bậc Nhiệt](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-011-MN01.
 
 ### Nhận diện và hình thái
 
@@ -21,15 +17,11 @@ Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác
 
 ### Đặc tính và vai trò sinh thái
 
-Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy.
-
-### Công dụng, nguy cơ và hướng dẫn xử lý
-
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
 ### Ghi chép thực địa
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
 
 **Tags:** `sycamore-lecture-011` · `field-observation` · `evidence-separated`
 
@@ -43,8 +35,8 @@ Vôi Bậc Nhiệt kết tinh quanh mạch nước nóng giàu khoáng khi nư�
 
 ## Câu hỏi dành cho học viên
 
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
+2.
+3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
 
 ---
