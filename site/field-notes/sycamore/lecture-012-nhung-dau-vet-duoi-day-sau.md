@@ -5,11 +5,10 @@
 > Mã bài giảng: SS-SYC-20261127-012  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Cá Mắt Đĩa Sâu là kẻ săn mồi của vùng ánh sáng yếu. Mắt hướng lên, cơ quan phát quang ở bụng và miệng hút mở rộng tạo thành một hệ thống săn mồi thích nghi với bóng tối và dòng thức ăn từ tầng nước phía trên.
+Những dấu vết dưới đáy sâu là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
 
 ## I. Động vật — Cá Mắt Đĩa Sâu
-
-**Mã hồ sơ:** `SS-SYC-20261127-012-AN01`
+**Mã hồ sơ:** `SS-SYC-20261127-012-AN01`  
 
 ### Prompt minh họa — Cá Mắt Đĩa Sâu
 
@@ -17,41 +16,41 @@ Cá Mắt Đĩa Sâu là kẻ săn mồi của vùng ánh sáng yếu. Mắt hư
 High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one small marine FISH with a streamlined fish-shaped body, clearly visible tail fin, dorsal fin, and pectoral fins. It must look like a fish, not a reptile or amphibian. NO legs, NO arms, NO feet, NO skeletal anatomy, NO body sail, NO extra appendages.\n\nSpecimen: Cá Mắt Đĩa Sâu. Archive ID: SS-SYC-20261127-012-AN01. Source description: Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
 ```
 
+**Phân loại:** Cá biển sâu có mắt lớn; loài chưa định danh  
+**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+
 ### Nhận diện và hình thái
 
 Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
 
 ### Đặc tính và vai trò sinh thái
 
-Đôi mắt hướng chếch lên thu ánh sáng xanh yếu và phát hiện bóng chuyển động phía trên. Võng mạc có hai lớp cảm quang: lớp ngoài nhận ánh sáng sinh học, lớp trong phân biệt chuyển động của con mồi. Cá thể dạt bờ vẫn giữ nguyên cấu trúc cơ quan phát quang dưới bụng.
+Hướng mắt có thể phát hiện bóng hoặc ánh sáng yếu phía trên; cần giải phẫu võng mạc. Mẫu ghi từ cá thể dạt bờ.
+
+### Công dụng, nguy cơ và hướng dẫn xử lý
+
+Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
 ### Ghi chép thực địa
 
-Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
+Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+
+### Mức độ xác nhận
+
+- **CANON:** Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
+- **HYPOTHESIS:** Hướng mắt có thể phát hiện bóng hoặc ánh sáng yếu phía trên; cần giải phẫu võng mạc. Mẫu ghi từ cá thể dạt bờ.
+- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
 
 **Tags:** `sycamore-lecture-012` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
-
-## Chuyên luận: Cá Mắt Đĩa Sâu
-
-Đôi mắt lớn hình đĩa hướng chếch lên để thu ánh sáng sinh học từ sinh vật trôi phía trên. Võng mạc hai lớp nhận ánh sáng xanh yếu và phân biệt chuyển động của bóng. Dải cơ quan phát quang ở bụng nhấp nháy ngắn, phá đường viền cơ thể khi nhìn từ dưới lên. Miệng mở rộng nhanh để hút giáp xác phát sáng, cá con và phù du lớn. Cá sống gần vách dốc, nơi dòng hữu cơ từ mặt biển chìm xuống. Trứng nổi ở tầng nước trung gian; con non lớn lên trong vùng phù du rồi hạ sâu. Khi kéo cá lên, phải che tối và thay đổi áp suất từ từ để bảo vệ mắt và túi khí.
-
-### Chiến lược săn mồi
-Cá Mắt Đĩa Sâu giữ thân gần thẳng đứng khi rình mồi, mắt hướng lên để phát hiện bóng cắt ngang nền sáng phía trên. Cơ quan phát quang ở bụng phát xung ngắn, đồng bộ với nhịp co cơ để làm nhiễu đường viền cơ thể. Khi con mồi đến gần, cá mở hàm và hút nước vào khoang miệng; răng nhỏ cong vào trong giữ giáp xác trơn tuột. Nó thường nuốt con mồi nguyên vẹn để tránh làm mất chất dinh dưỡng trong dòng nước.
-
-### Di cư theo dòng thức ăn
-Cá trưởng thành di chuyển dọc các vách sâu theo những dòng nước mang phù du chìm xuống. Mùa sinh sản, cá cái thả trứng nổi ở tầng nước trung gian; cá non phát triển trong vùng giàu thức ăn rồi dần hạ sâu khi cơ quan cảm quang hoàn thiện. Cá lớn là con mồi của những sinh vật săn tầng đáy có hàm khỏe và khả năng cảm nhận điện trường.
-
-### Lời dặn của Sycamore
-Ánh sáng ở đáy biển không phải lúc nào cũng để soi đường. Đôi khi nó là mồi nhử, tín hiệu, hoặc chiếc màn che. Hãy hỏi ánh sáng phục vụ ai trước khi đi theo nó.
+Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
 
 ## Câu hỏi dành cho học viên
 
-1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
-2.
-3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
+1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
+2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
+3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
 
 ---
