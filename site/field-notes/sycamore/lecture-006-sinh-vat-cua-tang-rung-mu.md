@@ -29,6 +29,15 @@ Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ si
 
 Lan Mũ Kim Lam là thực vật biểu sinh, không hút nhựa cây chủ. Rễ có mô xốp hấp thụ sương và mùn lá; rễ áp vỏ tiết chất bám, rễ lộ ngoài hút hơi ẩm. Chóp lá cứng dẫn nước khỏi đỉnh sinh trưởng, tránh thối nõn trong rừng sương. Hoa nở theo đợt sương dày, thu hút bướm đêm tầng tán. Hạt nhỏ phát tán theo luồng khí ẩm và nảy mầm khi gặp nấm cộng sinh trên vỏ gỗ mục. Cụm rễ giữ nước, tạo vi sinh cảnh cho bọ rêu và ấu trùng. Người làm vườn ghép lan lên gỗ mục xốp, không trồng trong đất đặc.
 
+### Vòng đời và cộng sinh
+Lan Mũ Kim Lam bắt đầu đời sống dưới dạng hạt bụi, mang rất ít chất dự trữ. Sợi nấm cộng sinh xâm nhập lớp vỏ mục, chuyển khoáng và đường đơn cho phôi; khi rễ đầu tiên hình thành, lan chuyển dần sang tự quang hợp. Cây trưởng thành ra hoa vào những đợt sương dày, khi bướm đêm tầng tán bay thấp và dễ tìm thấy mùi hương của hoa. Quả nứt thành khe nhỏ, giải phóng hạt theo luồng khí ẩm.
+
+### Vị trí trong tầng rừng
+Lan không làm suy kiệt cây chủ. Cụm rễ giữ nước trên vỏ, làm chậm dòng chảy dọc thân cây và tạo nơi trú cho ve, bọ rêu cùng ấu trùng cánh mỏng. Khi cành mục rơi xuống nền rừng, cụm lan và mạng nấm tiếp tục phân hủy gỗ, trả khoáng về đất. Vì vậy, loài lan này nối tầng tán với tầng mục rữa dưới đất.
+
+### Lời dặn của Sycamore
+Một cây lan biểu sinh không phải kẻ ăn bám. Hãy phân biệt nơi nó đứng với thứ nó lấy làm thức ăn. Trong rừng mù, quan hệ cộng sinh thường quan trọng hơn sự cạnh tranh trực tiếp.
+
 ## Câu hỏi dành cho học viên
 
 1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
