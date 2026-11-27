@@ -8,6 +8,15 @@
 Đá Bọt Bện lưu giữ hình dạng của một dòng vật chất nóng trong khoảnh khắc nó nguội đi. Từ hướng kéo dài của từng khoang khí, người đọc địa chất có thể tái dựng chuyển động và tốc độ đông cứng của dòng núi lửa.
 
 ## I. Khoáng vật / Đá — Đá Bọt Bện
+
+**Mã hồ sơ:** `SS-SYC-20261127-007-MN01`
+
+### Prompt minh họa — Đá Bọt Bện
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: exactly one inanimate natural stone specimen, irregular and dense, dark charcoal gray to nearly black, with a few fine pale-silver veins/markings. Geological rock texture only. Absolutely NOT an animal, reptile, skeleton, fossil, plant, or biological object. No limbs, eyes, scales, bones, crystals, or symbolic sound effects.\n\nSpecimen: Đá Bọt Bện. Archive ID: SS-SYC-20261127-007-MN01. Source description: Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
+```
+
 ### Nhận diện và hình thái
 
 Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
