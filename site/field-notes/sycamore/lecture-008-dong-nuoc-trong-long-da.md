@@ -5,11 +5,10 @@
 > Mã bài giảng: SS-SYC-20261127-008  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh sáng không thể đi theo. Bài học của loài này nằm ở việc chuyển chức năng định hướng từ thị giác sang cảm nhận rung động, dòng chảy và dấu hóa học trong nước.
+Dòng nước trong lòng đá là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
 
 ## I. Động vật — Lươn Ruy Băng Mù
-
-**Mã hồ sơ:** `SS-SYC-20261127-008-AN01`
+**Mã hồ sơ:** `SS-SYC-20261127-008-AN01`  
 
 ### Prompt minh họa — Lươn Ruy Băng Mù
 
@@ -17,45 +16,41 @@ Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh s
 High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one specimen of the named zoological or geological subject. Match its named class and described morphology; do not substitute another class of organism or object.\n\nSpecimen: Lươn Ruy Băng Mù. Archive ID: SS-SYC-20261127-008-AN01. Source description: Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
 ```
 
+**Phân loại:** Cá dạng lươn sống trong dòng ngầm  
+**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+
 ### Nhận diện và hình thái
 
 Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
 
 ### Đặc tính và vai trò sinh thái
 
-Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác.
+
+### Công dụng, nguy cơ và hướng dẫn xử lý
+
+Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
 ### Ghi chép thực địa
 
-Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
+Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+
+### Mức độ xác nhận
+
+- **CANON:** Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
+- **HYPOTHESIS:** Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác.
+- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
 
 **Tags:** `sycamore-lecture-008` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
-
-## Chuyên luận: Lươn Ruy Băng Mù trong dòng ngầm
-
-Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây lưng và vây hậu môn nối thành dải đẩy liên tục, cho phép tiến lùi mà không xoay thân. Mắt tiêu giảm trong bóng tối, nhưng đường bên phát triển thành dải thụ cảm rung động; râu quanh miệng nhận biết mùi khoáng và dấu hóa học của con mồi. Lươn ăn tôm hang, ấu trùng côn trùng nước và trứng cá trong khe. Trứng được đặt ở hốc có dòng chảy nhẹ; con non bám đá bằng miệng hút trước khi chuyển sang săn mồi. Sự hiện diện của lươn là dấu hiệu mạch nước ngầm ổn định và giàu oxy.
-
-## Chuyên luận: Lươn Ruy Băng Mù
-
-Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây lưng và vây hậu môn nối thành dải đẩy liên tục, cho phép tiến lùi mà không xoay thân. Mắt tiêu giảm trong bóng tối, nhưng đường bên phát triển thành dải thụ cảm rung động; râu quanh miệng nhận biết mùi khoáng và dấu hóa học của con mồi. Lươn ăn tôm hang, ấu trùng côn trùng nước và trứng cá trong khe. Trứng được đặt ở hốc có dòng chảy nhẹ; con non bám đá bằng miệng hút trước khi chuyển sang săn mồi. Sự hiện diện của lươn là dấu hiệu mạch nước ngầm ổn định và giàu oxy.
-
-### Săn mồi và sinh sản
-Lươn Ruy Băng Mù thường nằm ngược dòng ở sau các gờ đá, nơi dòng nước mang mùi của con mồi đến trước khi con mồi xuất hiện. Khi phát hiện rung động, nó uốn thân thành chữ S rồi phóng ngược dòng trong một nhịp ngắn. Trứng được đặt thành cụm trong hốc có dòng chảy vừa đủ để đưa oxy đến mà không cuốn trứng đi. Con non sống nhờ túi noãn hoàng, bám đá bằng miệng hút trước khi bắt đầu săn ấu trùng.
-
-### Vai trò trong lòng đất
-Lươn giữ quần thể tôm hang và ấu trùng côn trùng ở mức cân bằng, ngăn chúng phủ kín các màng vi sinh trên đá. Chất thải của lươn nuôi vi khuẩn phân giải khoáng và tạo nguồn thức ăn cho sinh vật nhỏ hơn. Các cộng đồng sống quanh mạch nước vì vậy phụ thuộc vào dòng chảy ổn định cũng như sự hiện diện của loài săn mồi này.
-
-### Lời dặn của Sycamore
-Trong bóng tối, âm thanh và rung động là địa hình. Người đi hang phải học cách đọc tiếng nước, bởi một thay đổi nhỏ trong nhịp chảy thường báo trước một khe sụt hoặc một dòng phụ mới mở.
+Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
 
 ## Câu hỏi dành cho học viên
 
-1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
-2.
-3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
+1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
+2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
+3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
 
 ---
