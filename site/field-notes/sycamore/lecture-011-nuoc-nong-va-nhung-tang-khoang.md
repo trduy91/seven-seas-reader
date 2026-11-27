@@ -17,8 +17,6 @@ Vôi Bậc Nhiệt ghi lại hành trình của nước nóng từ lòng đất 
 High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: exactly one inanimate natural stone specimen, irregular and dense, dark charcoal gray to nearly black, with a few fine pale-silver veins/markings. Geological rock texture only. Absolutely NOT an animal, reptile, skeleton, fossil, plant, or biological object. No limbs, eyes, scales, bones, crystals, or symbolic sound effects.\n\nSpecimen: Vôi Bậc Nhiệt. Archive ID: SS-SYC-20261127-011-MN01. Source description: Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác xốp có lỗ nhỏ; cấu trúc lớp tiếp tục bên trong.
 ```
 
-![Tranh khoa học Vôi Bậc Nhiệt](./images/SS-SYC-20261127-011-MN01.jpg)
-
 ### Nhận diện và hình thái
 
 Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác xốp có lỗ nhỏ; cấu trúc lớp tiếp tục bên trong.
