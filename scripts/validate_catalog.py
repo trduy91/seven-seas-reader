@@ -37,6 +37,7 @@ def main() -> int:
 
         files = set()
         numbers = set()
+        source_ids = set()
         for chapter in story.get("chapters", []):
             total_chapters += 1
             value = chapter.get("file")
@@ -58,6 +59,12 @@ def main() -> int:
                 if number in numbers:
                     fail(f"{story_id}: duplicate chapter number {number}")
                 numbers.add(number)
+
+            source_id = chapter.get("source_lecture_id")
+            if source_id:
+                if source_id in source_ids:
+                    fail(f"{story_id}: duplicate source lecture ID {source_id}")
+                source_ids.add(source_id)
 
             markdown = chapter_path.read_text(encoding="utf-8")
             for match in IMAGE_LINK.finditer(markdown):
