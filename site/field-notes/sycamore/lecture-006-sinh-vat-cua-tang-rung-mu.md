@@ -8,9 +8,6 @@
 Lan Mũ Kim Lam cho thấy đời sống biểu sinh không phải hình thức ký sinh. Loài lan này sử dụng thân cây như một giá đỡ, thu nước từ sương và dựa vào cộng sinh nấm để hoàn tất vòng đời dưới tầng tán thiếu sáng.
 
 ## I. Thực vật — Lan Mũ Kim Lam
-
-![Tranh khoa học Lan Mũ Kim Lam](./images/SS-SYC-20261127-006-PL01.jpg)
-
 ### Nhận diện và hình thái
 
 Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
