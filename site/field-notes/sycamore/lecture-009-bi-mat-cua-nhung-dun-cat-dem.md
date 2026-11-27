@@ -8,6 +8,15 @@
 Bọ Cánh Đêm Đụn sống theo nhịp nhiệt của cát. Nó tránh cái nóng ban ngày bằng cách đào sâu, rồi trở lại mặt đất khi đêm xuống để kiếm ăn, phân tán hạt và tái chế chất hữu cơ.
 
 ## I. Động vật — Bọ Cánh Đêm Đụn
+
+**Mã hồ sơ:** `SS-SYC-20261127-009-AN01`
+
+### Prompt minh họa — Bọ Cánh Đêm Đụn
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one small marine FISH with a streamlined fish-shaped body, clearly visible tail fin, dorsal fin, and pectoral fins. It must look like a fish, not a reptile or amphibian. NO legs, NO arms, NO feet, NO skeletal anatomy, NO body sail, NO extra appendages.\n\nSpecimen: Bọ Cánh Đêm Đụn. Archive ID: SS-SYC-20261127-009-AN01. Source description: Thân bầu dục nhỏ, mai cánh màu cát có rãnh dọc; chân sau dài hơn chân giữa, bàn chân có gai; râu gập khuỷu và chùy ngắn.
+```
+
 ### Nhận diện và hình thái
 
 Thân bầu dục nhỏ, mai cánh màu cát có rãnh dọc; chân sau dài hơn chân giữa, bàn chân có gai; râu gập khuỷu và chùy ngắn. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
