@@ -40,7 +40,7 @@ Mỗi đợt nước nóng tràn qua bậc đá để lại một lớp khoáng 
 Màng vi sinh bám trên bậc ấm tiết chất nhầy giữ khoáng và tạo bề mặt cho ấu trùng côn trùng bám. Côn trùng trưởng thành bay ra khỏi vùng hơi nước vào lúc chiều mát, trở thành thức ăn cho thằn lằn đá và chim suối. Các loài này tạo nên một chuỗi thức ăn ngắn nhưng có năng suất cao quanh mạch nóng.
 
 ### Lời dặn của Sycamore
-Không bước lên lớp vôi trắng chỉ vì nó trông khô. Một lớp vỏ mỏng có thể che dòng nước sôi bên dưới. Hãy đọc màu khoáng, hơi nước và tiếng chảy trước khi chọn đường đi.
+Không bước lên lớp vôi trắng chỉ vì nó trông khô. Lớp vỏ mỏng thường che dòng nước sôi bên dưới. Hãy đọc màu khoáng, hơi nước và tiếng chảy trước khi chọn đường đi.
 
 ## Câu hỏi dành cho học viên
 
