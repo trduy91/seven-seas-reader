@@ -110,13 +110,13 @@
     {
       "id": "sycamore-field-chronicles",
       "title": "Nhật Ký Thực Địa Biển Vỡ — Quyển I",
-      "subtitle": "THE SHATTERED SEAS FIELD CHRONICLES",
-      "description": "Nhật ký thực địa của Toma Lind — học trò Giáo sư Ezekiel Sycamore — qua những vùng biển của The Shattered Seas.",
+      "subtitle": "NHẬT KÝ THỰC ĐỊA",
+      "description": "Nhật ký thực địa của Toma Lind — học trò Giáo sư Ezekiel Sycamore — qua các vùng biển của Shattered Seas.",
       "status": "ongoing",
       "tags": [
-        "fantasy",
-        "adventure",
-        "natural-history"
+        "kỳ ảo",
+        "phiêu lưu",
+        "tự nhiên học"
       ],
       "chapters": [
         {
@@ -178,6 +178,86 @@
           "file": "./chapters/sycamore-field-chronicles/chapter-012-loi-thu-nhan-nua-voi.md",
           "reader_revision": "1.0",
           "source_revision": "v0.2"
+        },
+        {
+          "num": "013",
+          "title": "Chương 13: Hải Trình Tới Blackwake",
+          "file": "./chapters/sycamore-field-chronicles/chapter-013-hai-trinh-toi-blackwake.md",
+          "chapter_number": "013",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
+        },
+        {
+          "num": "014",
+          "title": "Chương 14: Chợ Đen Dưới Mái Bạt",
+          "file": "./chapters/sycamore-field-chronicles/chapter-014-cho-den-duoi-mai-bat.md",
+          "chapter_number": "014",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
+        },
+        {
+          "num": "015",
+          "title": "Chương 15: Màn Sương Trong Hẻm Cảng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-015-man-suong-trong-hem-cang.md",
+          "chapter_number": "015",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "016",
+          "title": "Chương 16: Quyết Định Của Sera",
+          "file": "./chapters/sycamore-field-chronicles/chapter-016-quyet-dinh-cua-sera.md",
+          "chapter_number": "016",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "017",
+          "title": "Chương 17: Ngọn Hải Đăng Tro Tàn",
+          "file": "./chapters/sycamore-field-chronicles/chapter-017-ngon-hai-dang-tro-tan.md",
+          "chapter_number": "017",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "018",
+          "title": "Chương 18: Bóng Đèn Lồng Dưới Tầng Đá",
+          "file": "./chapters/sycamore-field-chronicles/chapter-018-bong-den-long-duoi-tang-da.md",
+          "chapter_number": "018",
+          "reader_revision": "1.0",
+          "source_revision": "v0.3"
+        },
+        {
+          "num": "019",
+          "title": "Chương 19: Phản Ứng Của Lăng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-019-phan-ung-cua-lang.md",
+          "chapter_number": "019",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "020",
+          "title": "Chương 20: Rìa Đầm Lầy Sương",
+          "file": "./chapters/sycamore-field-chronicles/chapter-020-ria-dam-lay-suong.md",
+          "chapter_number": "020",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "021",
+          "title": "Chương 21: Đối Đầu Ở Bến Sương",
+          "file": "./chapters/sycamore-field-chronicles/chapter-021-doi-dau-o-ben-suong.md",
+          "chapter_number": "021",
+          "reader_revision": "1.0",
+          "source_revision": "v0.3"
+        },
+        {
+          "num": "022",
+          "title": "Chương 22: Cái Giá Của Sự Kiềm Chế",
+          "file": "./chapters/sycamore-field-chronicles/chapter-022-cai-gia-cua-su-kiem-che.md",
+          "chapter_number": "022",
+          "reader_revision": "1.0",
+          "source_revision": "v0.3"
         }
       ]
     }
