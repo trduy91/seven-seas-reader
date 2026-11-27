@@ -41,6 +41,10 @@ Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ si
 
 Bọ vùi mình dưới cát ban ngày để tránh nhiệt và mất nước. Chân sau dài, có gai ngược, hoạt động như mái chèo khi đào; râu gập khuỷu cảm nhận mùi xác hữu cơ và nấm. Mai cánh màu cát giảm phản xạ ánh trăng, lớp sáp biểu bì hạn chế bay hơi. Khi cát nguội, bọ trồi lên theo từng đợt, ăn hạt khô, xác côn trùng và nấm quanh rễ cỏ. Con cái đào ổ sâu, đặt trứng thành cụm và phủ cát mịn giữ ẩm. Phân và xác lột nuôi vi sinh vật, góp phần tái chế chất hữu cơ trong đụn.
 
+## Chuyên luận: Bọ Cánh Đêm Đụn
+
+Bọ vùi mình dưới cát ban ngày để tránh nhiệt và mất nước. Chân sau dài, có gai ngược, hoạt động như mái chèo khi đào; râu gập khuỷu cảm nhận mùi xác hữu cơ và nấm. Mai cánh màu cát giảm phản xạ ánh trăng, lớp sáp biểu bì hạn chế bay hơi. Khi cát nguội, bọ trồi lên theo từng đợt, ăn hạt khô, xác côn trùng và nấm quanh rễ cỏ. Con cái đào ổ sâu, đặt trứng thành cụm và phủ cát mịn giữ ẩm. Phân và xác lột nuôi vi sinh vật, góp phần tái chế chất hữu cơ trong đụn.
+
 ## Câu hỏi dành cho học viên
 
 1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
