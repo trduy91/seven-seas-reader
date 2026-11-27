@@ -9,7 +9,7 @@ Trúc Rễ Thở phát triển ở ranh giới nơi đất rừng chuyển thàn
 
 ## I. Thực vật — Trúc Rễ Thở
 
-![Tranh khoa học Trúc Rễ Thở](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-013-PL01. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+![Tranh khoa học Trúc Rễ Thở](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-013-PL01.jpg)
 
 ### Ghi chép thực địa
 
