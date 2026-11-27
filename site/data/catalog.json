@@ -80,6 +80,14 @@
           "file": "./chapters/shattered-sea-saga/chapter-013-so-khong-co-dau.md",
           "reader_revision": "1.0",
           "source_revision": "v0.3"
+        },
+        {
+          "num": "014",
+          "title": "Chương 14: Người Giữ Tên",
+          "file": "./chapters/shattered-sea-saga/chapter-014-nguoi-giu-ten.md",
+          "chapter_number": "014",
+          "reader_revision": "1.0",
+          "source_revision": "v0.2"
         }
       ]
     },
