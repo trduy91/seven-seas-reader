@@ -17,8 +17,6 @@ Cá Mắt Đĩa Sâu là kẻ săn mồi của vùng ánh sáng yếu. Mắt hư
 High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one small marine FISH with a streamlined fish-shaped body, clearly visible tail fin, dorsal fin, and pectoral fins. It must look like a fish, not a reptile or amphibian. NO legs, NO arms, NO feet, NO skeletal anatomy, NO body sail, NO extra appendages.\n\nSpecimen: Cá Mắt Đĩa Sâu. Archive ID: SS-SYC-20261127-012-AN01. Source description: Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
 ```
 
-![Tranh khoa học Cá Mắt Đĩa Sâu](./images/SS-SYC-20261127-012-AN01.jpg)
-
 ### Nhận diện và hình thái
 
 Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
