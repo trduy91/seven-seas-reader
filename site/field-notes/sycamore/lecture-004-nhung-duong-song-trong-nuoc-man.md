@@ -8,9 +8,6 @@
 Tôi chọn Cói Kính Muối để giảng về cách thực vật ven biển quản lý muối, giữ nước và kiến tạo nơi trú ẩn trong hõm triều. Một bụi cỏ nhỏ có thể thay đổi dòng nước, giữ trầm tích và nuôi dưỡng cả một cộng đồng sinh vật.
 
 ## I. Thực vật — Cói Kính Muối
-
-![Tranh khoa học Cói Kính Muối](./images/SS-SYC-20261127-004-PL01.jpg)
-
 ### Nhận diện và hình thái
 
 Búi thưa trên cát pha muối; lá hẹp hình dải phủ sáp mờ, mép lá già có thể có tinh thể trắng; thân ngầm ngắn nối chồi. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
