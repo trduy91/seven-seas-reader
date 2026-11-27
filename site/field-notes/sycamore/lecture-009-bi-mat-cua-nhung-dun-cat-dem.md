@@ -5,31 +5,19 @@
 > Mã bài giảng: SS-SYC-20261127-009  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Bí mật của những đụn cát đêm là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Bọ Cánh Đêm Đụn sống theo nhịp nhiệt của cát. Nó tránh cái nóng ban ngày bằng cách đào sâu, rồi trở lại mặt đất khi đêm xuống để kiếm ăn, phân tán hạt và tái chế chất hữu cơ.
 
 ## I. Động vật — Bọ Cánh Đêm Đụn
 
-![Tranh khoa học Bọ Cánh Đêm Đụn](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-009-AN01.jpg)
-
-**Mã hồ sơ:** `SS-SYC-20261127-009-AN01`  
-**Phân loại:** Bọ cánh cứng hoạt động về đêm  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+![Tranh khoa học Bọ Cánh Đêm Đụn](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-009-AN01.
 
 ### Nhận diện và hình thái
 
-Thân bầu dục nhỏ, mai cánh màu cát có rãnh dọc; chân sau dài hơn chân giữa, bàn chân có gai; râu gập khuỷu và chùy ngắn.
-
-### Đặc tính và vai trò sinh thái
-
-Xuất hiện sau khi nhiệt độ giảm rồi chui xuống cát; chưa rõ định hướng bằng ánh trăng hay mùi.
-
-### Công dụng, nguy cơ và hướng dẫn xử lý
-
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Thân bầu dục nhỏ, mai cánh màu cát có rãnh dọc; chân sau dài hơn chân giữa, bàn chân có gai; râu gập khuỷu và chùy ngắn. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
 ### Ghi chép thực địa
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
 
 **Tags:** `sycamore-lecture-009` · `field-observation` · `evidence-separated`
 
@@ -47,8 +35,8 @@ Bọ vùi mình dưới cát ban ngày để tránh nhiệt và mất nước. C
 
 ## Câu hỏi dành cho học viên
 
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
+2.
+3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
 
 ---
