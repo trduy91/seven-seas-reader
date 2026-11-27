@@ -9,7 +9,7 @@ Trúc Rễ Thở phát triển ở ranh giới nơi đất rừng chuyển thàn
 
 ## I. Thực vật — Trúc Rễ Thở
 
-![Tranh khoa học Trúc Rễ Thở](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-013-PL01.jpg)
+![Tranh khoa học Trúc Rễ Thở](./images/SS-SYC-20261127-013-PL01.jpg)
 
 ### Ghi chép thực địa
 

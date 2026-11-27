@@ -9,7 +9,7 @@ Rêu Chén Gió là bài học về vi khí hậu. Trên một vách đá tưở
 
 ## I. Thực vật — Rêu Chén Gió
 
-![Tranh khoa học Rêu Chén Gió](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-005-PL01.jpg)
+![Tranh khoa học Rêu Chén Gió](./images/SS-SYC-20261127-005-PL01.jpg)
 
 ### Nhận diện và hình thái
 

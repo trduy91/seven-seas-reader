@@ -9,7 +9,7 @@ Vôi Bậc Nhiệt ghi lại hành trình của nước nóng từ lòng đất 
 
 ## I. Khoáng vật / Đá — Vôi Bậc Nhiệt
 
-![Tranh khoa học Vôi Bậc Nhiệt](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-011-MN01.jpg)
+![Tranh khoa học Vôi Bậc Nhiệt](./images/SS-SYC-20261127-011-MN01.jpg)
 
 ### Nhận diện và hình thái
 

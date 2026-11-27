@@ -9,7 +9,7 @@ Tôi chọn Cói Kính Muối để giảng về cách thực vật ven biển q
 
 ## I. Thực vật — Cói Kính Muối
 
-![Tranh khoa học Cói Kính Muối](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-004-PL01.jpg)
+![Tranh khoa học Cói Kính Muối](./images/SS-SYC-20261127-004-PL01.jpg)
 
 ### Nhận diện và hình thái
 

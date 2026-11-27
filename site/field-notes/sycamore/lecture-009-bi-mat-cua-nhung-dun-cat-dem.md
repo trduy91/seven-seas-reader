@@ -9,7 +9,7 @@ Bọ Cánh Đêm Đụn sống theo nhịp nhiệt của cát. Nó tránh cái n
 
 ## I. Động vật — Bọ Cánh Đêm Đụn
 
-![Tranh khoa học Bọ Cánh Đêm Đụn](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-009-AN01.jpg)
+![Tranh khoa học Bọ Cánh Đêm Đụn](./images/SS-SYC-20261127-009-AN01.jpg)
 
 ### Nhận diện và hình thái
 
