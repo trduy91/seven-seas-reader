@@ -17,7 +17,7 @@ Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; v�
 
 ### Đặc tính và vai trò sinh thái
 
-Hướng mắt có thể phát hiện bóng hoặc ánh sáng yếu phía trên; cần giải phẫu võng mạc. Mẫu ghi từ cá thể dạt bờ. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Đôi mắt hướng chếch lên thu ánh sáng xanh yếu và phát hiện bóng chuyển động phía trên. Võng mạc có hai lớp cảm quang: lớp ngoài nhận ánh sáng sinh học, lớp trong phân biệt chuyển động của con mồi. Cá thể dạt bờ vẫn giữ nguyên cấu trúc cơ quan phát quang dưới bụng.
 
 ### Ghi chép thực địa
 
