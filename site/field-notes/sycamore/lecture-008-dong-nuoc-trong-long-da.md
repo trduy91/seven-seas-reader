@@ -5,15 +5,11 @@
 > Mã bài giảng: SS-SYC-20261127-008  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Dòng nước trong lòng đá là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Lươn Ruy Băng Mù là cư dân của những dòng nước ngầm nơi ánh sáng không thể đi theo. Bài học của loài này nằm ở việc chuyển chức năng định hướng từ thị giác sang cảm nhận rung động, dòng chảy và dấu hóa học trong nước.
 
 ## I. Động vật — Lươn Ruy Băng Mù
 
-![Tranh khoa học Lươn Ruy Băng Mù](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-008-AN01.jpg)
-
-**Mã hồ sơ:** `SS-SYC-20261127-008-AN01`  
-**Phân loại:** Cá dạng lươn sống trong dòng ngầm  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+![Tranh khoa học Lươn Ruy Băng Mù](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-008-AN01.
 
 ### Nhận diện và hình thái
 
@@ -21,15 +17,11 @@ Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vâ
 
 ### Đặc tính và vai trò sinh thái
 
-Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác.
-
-### Công dụng, nguy cơ và hướng dẫn xử lý
-
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
 ### Ghi chép thực địa
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
 
 **Tags:** `sycamore-lecture-008` · `field-observation` · `evidence-separated`
 
@@ -47,8 +39,8 @@ Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây 
 
 ## Câu hỏi dành cho học viên
 
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
+2.
+3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
 
 ---
