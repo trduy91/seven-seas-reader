@@ -11,7 +11,6 @@ Sinh vật của tầng rừng mù là chủ đề của buổi khảo sát này
 
 ![Tranh khoa học Lan Mũ Kim Lam](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-006-PL01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-006-PL01`  
 **Phân loại:** Thực vật biểu sinh nhỏ trên gỗ mục  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm.
-- **HYPOTHESIS:** Rễ bám giúp tận dụng bề mặt ẩm; chưa rõ dinh dưỡng đến từ bụi hữu cơ hay vi sinh vật.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-006` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Lan Mũ Kim Lam trên tầng rừng mù
+
+Lan Mũ Kim Lam là thực vật biểu sinh, không hút nhựa cây chủ. Rễ có mô xốp hấp thụ sương và mùn lá; rễ áp vỏ tiết chất bám, rễ lộ ngoài hút hơi ẩm. Chóp lá cứng dẫn nước khỏi đỉnh sinh trưởng, tránh thối nõn trong rừng sương. Hoa nở theo đợt sương dày, thu hút bướm đêm tầng tán. Hạt nhỏ phát tán theo luồng khí ẩm và nảy mầm khi gặp nấm cộng sinh trên vỏ gỗ mục. Cụm rễ giữ nước, tạo vi sinh cảnh cho bọ rêu và ấu trùng. Người làm vườn ghép lan lên gỗ mục xốp, không trồng trong đất đặc.
 
 ## Câu hỏi dành cho học viên
 
