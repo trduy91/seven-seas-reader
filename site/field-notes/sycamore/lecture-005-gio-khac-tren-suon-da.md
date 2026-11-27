@@ -8,6 +8,15 @@
 Rêu Chén Gió là bài học về vi khí hậu. Trên một vách đá tưởng như trơ trụi, lớp rêu thấp có thể giữ hơi ẩm, làm chậm phong hóa và mở đường cho cả một quần xã thực vật khác.
 
 ## I. Thực vật — Rêu Chén Gió
+
+**Mã hồ sơ:** `SS-SYC-20261127-005-PL01`
+
+### Prompt minh họa — Rêu Chén Gió
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one complete specimen of the named plant. Use the described growth form and leaf/stem/root structures only where explicitly stated. Do not add flowers or fruits. Do not turn a low grass tuft into a tree or shrub.\n\nSpecimen: Rêu Chén Gió. Archive ID: SS-SYC-20261127-005-PL01. Source description: Đệm thấp chia thùy nhỏ áp sát đá; mặt trên xanh xám, mặt khuất gió sẫm hơn và giữ ẩm lâu; lá nhỏ xếp chồng.
+```
+
 ### Nhận diện và hình thái
 
 Đệm thấp chia thùy nhỏ áp sát đá; mặt trên xanh xám, mặt khuất gió sẫm hơn và giữ ẩm lâu; lá nhỏ xếp chồng.
