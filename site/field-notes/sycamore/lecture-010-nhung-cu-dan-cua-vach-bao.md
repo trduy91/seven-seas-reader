@@ -9,6 +9,14 @@
 
 ## I. Động vật — Ốc Bám Mỏ Neo
 
+**Mã hồ sơ:** `SS-SYC-20261127-010-AN01`
+
+### Prompt minh họa — Ốc Bám Mỏ Neo
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one specimen of the named zoological or geological subject. Match its named class and described morphology; do not substitute another class of organism or object.\n\nSpecimen: Ốc Bám Mỏ Neo. Archive ID: SS-SYC-20261127-010-AN01. Source description: Vỏ thấp hình nón tù có gờ đồng tâm, nâu xám lẫn vệt trắng; miệng rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn.
+```
+
 ![Tranh khoa học Ốc Bám Mỏ Neo](./images/SS-SYC-20261127-010-AN01.jpg)
 
 ### Nhận diện và hình thái
