@@ -9,7 +9,7 @@ Cá Mắt Đĩa Sâu là kẻ săn mồi của vùng ánh sáng yếu. Mắt hư
 
 ## I. Động vật — Cá Mắt Đĩa Sâu
 
-![Tranh khoa học Cá Mắt Đĩa Sâu](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-012-AN01.
+![Tranh khoa học Cá Mắt Đĩa Sâu](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-012-AN01.jpg)
 
 ### Nhận diện và hình thái
 
