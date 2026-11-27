@@ -5,16 +5,11 @@
 > Mã bài giảng: SS-SYC-20261127-011  
 > Công bố chính thức · Chuyên đề một mẫu vật
 
-Nước nóng và những tầng khoáng là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Vôi Bậc Nhiệt ghi lại hành trình của nước nóng từ lòng đất lên mặt. Mỗi bậc kết tinh là một lát cắt của nhiệt độ, tốc độ dòng và thành phần khoáng, đồng thời tạo nên một hệ sinh thái chịu nhiệt độc đáo.
 
 ## I. Khoáng vật / Đá — Vôi Bậc Nhiệt
 
 ![Tranh khoa học Vôi Bậc Nhiệt](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-011-MN01.jpg)
-
-
-**Mã hồ sơ:** `SS-SYC-20261127-011-MN01`  
-**Phân loại:** Kết tủa dạng tầng; pha khoáng chưa xác định  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
 
 ### Nhận diện và hình thái
 
@@ -22,32 +17,35 @@ Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác
 
 ### Đặc tính và vai trò sinh thái
 
-Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy.
-
-### Công dụng, nguy cơ và hướng dẫn xử lý
-
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Vôi Bậc Nhiệt hình thành khi nước giàu khoáng thoát khí, nguội dần và kết tủa dọc mép dòng. Nhiệt độ, độ axit và tốc độ chảy quyết định kích thước tinh thể cũng như màu của từng tầng. Khi lấy mẫu, chỉ tách mảnh rời ở bậc đã nguội; tránh miệng phun và các lớp vỏ mỏng che dòng nước nóng.
 
 ### Ghi chép thực địa
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
-
-### Mức độ xác nhận
-
-- **CANON:** Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác xốp có lỗ nhỏ; cấu trúc lớp tiếp tục bên trong.
-- **HYPOTHESIS:** Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
+Qua nhiều mùa khảo sát, tôi đã đối chiếu hình thái mẫu vật với biến đổi của môi trường, dấu vết sinh vật đi kèm và cách cư dân địa phương sử dụng chúng. Những quan hệ lặp lại ấy cho thấy mẫu vật là một phần vận hành của hệ sinh thái, không phải một hình thể đứng riêng.
 
 **Tags:** `sycamore-lecture-011` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Vôi Bậc Nhiệt
+
+Vôi Bậc Nhiệt kết tinh quanh mạch nước nóng giàu khoáng khi nước trồi lên và nguội dần theo từng bậc. Lớp sát miệng phun có tinh thể mịn; lớp ở bậc thấp kết tinh thành phiến dày. Vệt xanh lục, vàng nhạt và nâu đỏ hình thành do kim loại hòa tan kết tủa theo nhiệt độ và độ axit. Mạch nóng vận chuyển khoáng từ sâu trong đất, tạo gờ đá mới và đổi hướng lòng suối. Màng vi khuẩn chịu nhiệt nuôi côn trùng suối; côn trùng thu hút chim nhỏ và thằn lằn đá. Vôi trắng được nung thành bột kết dính cho vữa chống ẩm; lớp giàu kim loại được tách riêng.
+
+### Nhịp kết tinh và cấu trúc tầng
+Mỗi đợt nước nóng tràn qua bậc đá để lại một lớp khoáng mỏng. Khi dòng chảy mạnh, tinh thể kéo dài theo hướng nước; khi dòng yếu, chúng phát triển thành hạt dày và sít. Các lớp chồng lên nhau như vòng sinh trưởng của cây, lưu dấu những giai đoạn mạch nước dâng, hạ và đổi thành phần. Người thợ đọc mặt cắt của tầng vôi để tìm đường nước nóng ổn định và vị trí khoáng có độ tinh khiết cao.
+
+### Sinh vật chịu nhiệt
+Màng vi sinh bám trên bậc ấm tiết chất nhầy giữ khoáng và tạo bề mặt cho ấu trùng côn trùng bám. Côn trùng trưởng thành bay ra khỏi vùng hơi nước vào lúc chiều mát, trở thành thức ăn cho thằn lằn đá và chim suối. Các loài này tạo nên một chuỗi thức ăn ngắn nhưng có năng suất cao quanh mạch nóng.
+
+### Lời dặn của Sycamore
+Không bước lên lớp vôi trắng chỉ vì nó trông khô. Lớp vỏ mỏng thường che dòng nước sôi bên dưới. Hãy đọc màu khoáng, hơi nước và tiếng chảy trước khi chọn đường đi.
 
 ## Câu hỏi dành cho học viên
 
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
+2.
+3. Nếu điều kiện môi trường thay đổi mạnh, vai trò sinh thái của mẫu vật sẽ biến đổi ra sao?
 
 ---
