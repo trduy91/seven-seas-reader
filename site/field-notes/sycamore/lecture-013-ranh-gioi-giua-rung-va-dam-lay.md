@@ -9,6 +9,14 @@ Trúc Rễ Thở phát triển ở ranh giới nơi đất rừng chuyển thàn
 
 ## I. Thực vật — Trúc Rễ Thở
 
+**Mã hồ sơ:** `SS-SYC-20261127-013-PL01`
+
+### Prompt minh họa — Trúc Rễ Thở
+
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one complete specimen of the named plant. Use the described growth form and leaf/stem/root structures only where explicitly stated. Do not add flowers or fruits. Do not turn a low grass tuft into a tree or shrub.\n\nSpecimen: Trúc Rễ Thở. Archive ID: SS-SYC-20261127-013-PL01. Source description: Thân rỗng chia đốt mọc thành cụm; lá hẹp thành bẹ quanh đốt; gốc có rễ phụ nhô khỏi bùn; thân có khoang chưa kiểm tra.
+```
+
 ![Tranh khoa học Trúc Rễ Thở](./images/SS-SYC-20261127-013-PL01.jpg)
 
 ### Ghi chép thực địa
