@@ -11,7 +11,6 @@ Những cư dân của vách bão là chủ đề của buổi khảo sát này.
 
 ![Tranh khoa học Ốc Bám Mỏ Neo](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-010-AN01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-010-AN01`  
 **Phân loại:** Thân mềm chân bụng sống trên đá triều  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Vỏ thấp hình nón tù có gờ đồng tâm, nâu xám lẫn vệt trắng; miệng rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn.
-- **HYPOTHESIS:** Khi sóng rút, cá thể ép chân sát nền; cơ chế có thể dựa vào lực cơ và dịch tiết, chưa đo lực kéo.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-010` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Ốc Bám Mỏ Neo
+
+Ốc bám đá bằng bàn chân cơ rộng, tiết keo khoáng hóa đông nhanh khi gặp nước biển. Gờ móc quanh vỏ ăn khớp với hốc đá, giúp cơ thể chịu sóng tạt ngang. Khi bão đến, ốc ép sát thân, khép miệng vỏ và giảm diện tích hứng dòng; khi biển lặng, nó dùng lưỡi gai cạo tảo và vi sinh vật. Ấu trùng trôi nổi vài ngày trước khi bám vào vùng đá có màng tảo non. Các cụm trưởng thành giữ mùn và trứng sinh vật nhỏ trong vành vũng triều. Keo chân ốc được thu gom sau khi ốc tự rời đá, dùng trám tạm đồ gỗ ướt; không cạy cá thể sống.
 
 ## Câu hỏi dành cho học viên
 
