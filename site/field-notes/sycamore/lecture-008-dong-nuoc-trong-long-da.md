@@ -37,6 +37,15 @@ Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây 
 
 Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây lưng và vây hậu môn nối thành dải đẩy liên tục, cho phép tiến lùi mà không xoay thân. Mắt tiêu giảm trong bóng tối, nhưng đường bên phát triển thành dải thụ cảm rung động; râu quanh miệng nhận biết mùi khoáng và dấu hóa học của con mồi. Lươn ăn tôm hang, ấu trùng côn trùng nước và trứng cá trong khe. Trứng được đặt ở hốc có dòng chảy nhẹ; con non bám đá bằng miệng hút trước khi chuyển sang săn mồi. Sự hiện diện của lươn là dấu hiệu mạch nước ngầm ổn định và giàu oxy.
 
+### Săn mồi và sinh sản
+Lươn Ruy Băng Mù thường nằm ngược dòng ở sau các gờ đá, nơi dòng nước mang mùi của con mồi đến trước khi con mồi xuất hiện. Khi phát hiện rung động, nó uốn thân thành chữ S rồi phóng ngược dòng trong một nhịp ngắn. Trứng được đặt thành cụm trong hốc có dòng chảy vừa đủ để đưa oxy đến mà không cuốn trứng đi. Con non sống nhờ túi noãn hoàng, bám đá bằng miệng hút trước khi bắt đầu săn ấu trùng.
+
+### Vai trò trong lòng đất
+Lươn giữ quần thể tôm hang và ấu trùng côn trùng ở mức cân bằng, ngăn chúng phủ kín các màng vi sinh trên đá. Chất thải của lươn nuôi vi khuẩn phân giải khoáng và tạo nguồn thức ăn cho sinh vật nhỏ hơn. Các cộng đồng sống quanh mạch nước vì vậy phụ thuộc vào dòng chảy ổn định cũng như sự hiện diện của loài săn mồi này.
+
+### Lời dặn của Sycamore
+Trong bóng tối, âm thanh và rung động là địa hình. Người đi hang phải học cách đọc tiếng nước, bởi một thay đổi nhỏ trong nhịp chảy thường báo trước một khe sụt hoặc một dòng phụ mới mở.
+
 ## Câu hỏi dành cho học viên
 
 1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
