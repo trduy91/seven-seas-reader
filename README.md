@@ -7,17 +7,17 @@ Trang đọc công khai của **Seven Seas** — gồm các series truyện và 
 ## Nội dung đã xuất bản
 
 - **THE SHATTERED SEA SAGA** — đã có Quyển I, các chương 1–10 (Chương 1–10). Mở Reader, chọn series để đọc theo thứ tự.
-- **Nhật Ký Thực Địa của Giáo sư Sycamore** — mở trang Reader, chọn bộ sưu tập cùng tên để đọc các bài giảng. Đã có [Ngày 001](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-001.md) và [Ngày 002](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-002.md).
+- **Nhật Ký Thực Địa của Giáo sư Sycamore** — mở trang Reader, chọn bộ sưu tập cùng tên để đọc các bài giảng. Hiện có 13 bài đã công bố, từ [Ngày 001](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-001.md), [Ngày 002](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-002.md), [Ngày 003](https://github.com/trduy91/seven-seas-reader/blob/main/site/field-notes/sycamore/day-003.md) đến các bài 004–013.
 
 Kho này chỉ chứa nội dung đã được chọn để độc giả theo dõi. Bản thảo, sổ theo dõi liên tục và tư liệu canon dành riêng cho tác giả vẫn được lưu trong [trduy91/seven-seas](https://github.com/trduy91/seven-seas).
 
 ## Xuất bản
 
-1. Chuẩn bị và kiểm tra nội dung trong kho sáng tác riêng.
-2. Chỉ sao chép bản đã duyệt, an toàn cho độc giả vào thư mục tương ứng trong `site/`.
-3. Cập nhật `site/data/catalog.json`, giữ nguyên mọi series và chương đã xuất bản trước đó.
-4. Kiểm tra đường dẫn nội dung và hợp nhất thay đổi vào `main`.
-5. Xác minh GitHub Actions triển khai Pages và mở Reader để kiểm tra nội dung hiển thị.
+1. Chuẩn bị và kiểm tra nội dung canon trong kho sáng tác riêng.
+2. Quy trình Sycamore tự đóng gói bài giảng reader-safe sau khi workflow ảnh hoàn tất; ảnh thật dùng raw URL từ source repository, asset thiếu giữ placeholder rõ ràng.
+3. Tạo/cập nhật PR riêng, giữ nguyên mọi series và chương đã xuất bản trước đó.
+4. CI kiểm tra catalog, đường dẫn chapter và ảnh local; chỉ merge khi validation thành công.
+5. Sau merge, chờ Pages deployment thành công và xác minh catalog công khai chứa đúng lecture IDs trước khi ghi nhận PUBLISHED.
 
 Việc cập nhật kho sáng tác riêng không tự động xuất bản nội dung. Một bài chỉ được coi là đã xuất bản trên Reader sau khi triển khai Pages thành công và trang công khai được xác minh.
 
@@ -31,6 +31,7 @@ Trang Reader hiện dùng ứng dụng tĩnh trong `site/`. Có thể phục v�
 - Chỉ cập nhật mục của series đang xuất bản; phải giữ nguyên toàn bộ series và danh sách chương của các series khác.
 - Không thay thế danh mục bằng một JSON chỉ chứa series đang được cập nhật.
 - Trước khi commit, kiểm tra rằng mọi mục series/chương đã xuất bản trước đó vẫn còn và đường dẫn `file` của từng chương tồn tại.
+- `scripts/validate_catalog.py` là cổng CI bắt buộc cho thay đổi Reader: kiểm tra ID, số chương, file chapter và đường dẫn ảnh local.
 - Sau khi deploy, mở Reader và xác minh cả series vừa cập nhật lẫn các series đã xuất bản trước đó.
 
 
