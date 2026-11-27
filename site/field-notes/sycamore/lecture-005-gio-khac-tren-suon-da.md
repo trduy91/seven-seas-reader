@@ -8,9 +8,6 @@
 Rêu Chén Gió là bài học về vi khí hậu. Trên một vách đá tưởng như trơ trụi, lớp rêu thấp có thể giữ hơi ẩm, làm chậm phong hóa và mở đường cho cả một quần xã thực vật khác.
 
 ## I. Thực vật — Rêu Chén Gió
-
-![Tranh khoa học Rêu Chén Gió](./images/SS-SYC-20261127-005-PL01.jpg)
-
 ### Nhận diện và hình thái
 
 Đệm thấp chia thùy nhỏ áp sát đá; mặt trên xanh xám, mặt khuất gió sẫm hơn và giữ ẩm lâu; lá nhỏ xếp chồng.
