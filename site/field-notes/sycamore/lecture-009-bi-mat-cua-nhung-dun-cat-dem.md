@@ -8,9 +8,6 @@
 Bọ Cánh Đêm Đụn sống theo nhịp nhiệt của cát. Nó tránh cái nóng ban ngày bằng cách đào sâu, rồi trở lại mặt đất khi đêm xuống để kiếm ăn, phân tán hạt và tái chế chất hữu cơ.
 
 ## I. Động vật — Bọ Cánh Đêm Đụn
-
-![Tranh khoa học Bọ Cánh Đêm Đụn](./images/SS-SYC-20261127-009-AN01.jpg)
-
 ### Nhận diện và hình thái
 
 Thân bầu dục nhỏ, mai cánh màu cát có rãnh dọc; chân sau dài hơn chân giữa, bàn chân có gai; râu gập khuỷu và chùy ngắn. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
