@@ -11,7 +11,6 @@ Nước nóng và những tầng khoáng là chủ đề của buổi khảo sá
 
 ![Tranh khoa học Vôi Bậc Nhiệt](https://raw.githubusercontent.com/trduy91/seven-seas/main/docs/world/geography/ecology/sycamore-field-notes/images/SS-SYC-20261127-011-MN01.jpg)
 
-
 **Mã hồ sơ:** `SS-SYC-20261127-011-MN01`  
 **Phân loại:** Kết tủa dạng tầng; pha khoáng chưa xác định  
 **Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
@@ -32,17 +31,15 @@ Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụ
 
 Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-### Mức độ xác nhận
-
-- **CANON:** Mẫu trắng kem có lớp mỏng xếp bậc; vài tầng nhẵn, tầng khác xốp có lỗ nhỏ; cấu trúc lớp tiếp tục bên trong.
-- **HYPOTHESIS:** Có thể hình thành khi nước giàu khoáng thoát khí và kết tủa theo mép dòng; tốc độ phụ thuộc nhiệt độ, pH và dòng chảy.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
 **Tags:** `sycamore-lecture-011` · `field-observation` · `evidence-separated`
 
 ## Tổng kết giảng dạy
 
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ sinh thái: môi trường tạo nên hình thái, hình thái chi phối cách tồn tại, và cách tồn tại lại làm thay đổi môi trường.
+
+## Chuyên luận: Vôi Bậc Nhiệt
+
+Vôi Bậc Nhiệt kết tinh quanh mạch nước nóng giàu khoáng khi nước trồi lên và nguội dần theo từng bậc. Lớp sát miệng phun có tinh thể mịn; lớp ở bậc thấp kết tinh thành phiến dày. Vệt xanh lục, vàng nhạt và nâu đỏ hình thành do kim loại hòa tan kết tủa theo nhiệt độ và độ axit. Mạch nóng vận chuyển khoáng từ sâu trong đất, tạo gờ đá mới và đổi hướng lòng suối. Màng vi khuẩn chịu nhiệt nuôi côn trùng suối; côn trùng thu hút chim nhỏ và thằn lằn đá. Vôi trắng được nung thành bột kết dính cho vữa chống ẩm; lớp giàu kim loại được tách riêng.
 
 ## Câu hỏi dành cho học viên
 
