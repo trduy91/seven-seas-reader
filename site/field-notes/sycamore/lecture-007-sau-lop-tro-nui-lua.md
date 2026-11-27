@@ -8,9 +8,6 @@
 Đá Bọt Bện lưu giữ hình dạng của một dòng vật chất nóng trong khoảnh khắc nó nguội đi. Từ hướng kéo dài của từng khoang khí, người đọc địa chất có thể tái dựng chuyển động và tốc độ đông cứng của dòng núi lửa.
 
 ## I. Khoáng vật / Đá — Đá Bọt Bện
-
-![Tranh khoa học Đá Bọt Bện](./images/SS-SYC-20261127-007-MN01.jpg)
-
 ### Nhận diện và hình thái
 
 Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
