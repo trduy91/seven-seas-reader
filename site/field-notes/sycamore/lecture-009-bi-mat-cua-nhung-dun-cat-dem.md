@@ -33,6 +33,15 @@ Bọ vùi mình dưới cát ban ngày để tránh nhiệt và mất nước. C
 
 Bọ vùi mình dưới cát ban ngày để tránh nhiệt và mất nước. Chân sau dài, có gai ngược, hoạt động như mái chèo khi đào; râu gập khuỷu cảm nhận mùi xác hữu cơ và nấm. Mai cánh màu cát giảm phản xạ ánh trăng, lớp sáp biểu bì hạn chế bay hơi. Khi cát nguội, bọ trồi lên theo từng đợt, ăn hạt khô, xác côn trùng và nấm quanh rễ cỏ. Con cái đào ổ sâu, đặt trứng thành cụm và phủ cát mịn giữ ẩm. Phân và xác lột nuôi vi sinh vật, góp phần tái chế chất hữu cơ trong đụn.
 
+### Chu kỳ hoạt động
+Bọ Cánh Đêm Đụn trải qua ba giai đoạn sống rõ rệt: ấu trùng đào sâu dưới cát và ăn rễ mục; nhộng nằm trong buồng cát được gia cố bằng dịch tiết; con trưởng thành trồi lên vào đêm mát để kiếm ăn và giao phối. Con cái chọn vùng cát có độ ẩm thấp vừa phải để trứng không bị úng nhưng vẫn giữ được nước. Khi gió mùa đổi hướng, bọ di chuyển theo chân đụn và góp phần phát tán hạt của các loài cỏ cát.
+
+### Vai trò trong chuỗi thức ăn
+Bọ trưởng thành là thức ăn của thằn lằn cát, chim săn đêm và nhện đào hang. Ấu trùng phân giải rễ chết, xác côn trùng và mùn hữu cơ, giúp cát nghèo dinh dưỡng vẫn duy trì một vòng tuần hoàn vật chất. Những đụn cát có mật độ bọ ổn định thường có lớp đất mặt giàu mùn hơn các đụn trơ.
+
+### Lời dặn của Sycamore
+Đừng đào tung một đụn cát chỉ để tìm con bọ. Hãy quan sát dấu chân, lỗ thoát khí và đường hầm trước; những dấu vết ấy cho ta biết nhịp hoạt động của cả quần thể mà không phá hủy nơi cư trú.
+
 ## Câu hỏi dành cho học viên
 
 1. Cấu trúc nào của mẫu vật trực tiếp tạo nên lợi thế sinh tồn của nó?
