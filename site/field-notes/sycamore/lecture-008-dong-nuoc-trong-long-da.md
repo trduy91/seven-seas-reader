@@ -41,6 +41,10 @@ Mẫu vật chỉ thực sự được hiểu khi đặt vào toàn bộ hệ si
 
 Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây lưng và vây hậu môn nối thành dải đẩy liên tục, cho phép tiến lùi mà không xoay thân. Mắt tiêu giảm trong bóng tối, nhưng đường bên phát triển thành dải thụ cảm rung động; râu quanh miệng nhận biết mùi khoáng và dấu hóa học của con mồi. Lươn ăn tôm hang, ấu trùng côn trùng nước và trứng cá trong khe. Trứng được đặt ở hốc có dòng chảy nhẹ; con non bám đá bằng miệng hút trước khi chuyển sang săn mồi. Sự hiện diện của lươn là dấu hiệu mạch nước ngầm ổn định và giàu oxy.
 
+## Chuyên luận: Lươn Ruy Băng Mù
+
+Thân dẹt hai bên giúp lươn giữ vị trí trong khe nước hẹp; vây lưng và vây hậu môn nối thành dải đẩy liên tục, cho phép tiến lùi mà không xoay thân. Mắt tiêu giảm trong bóng tối, nhưng đường bên phát triển thành dải thụ cảm rung động; râu quanh miệng nhận biết mùi khoáng và dấu hóa học của con mồi. Lươn ăn tôm hang, ấu trùng côn trùng nước và trứng cá trong khe. Trứng được đặt ở hốc có dòng chảy nhẹ; con non bám đá bằng miệng hút trước khi chuyển sang săn mồi. Sự hiện diện của lươn là dấu hiệu mạch nước ngầm ổn định và giàu oxy.
+
 ## Câu hỏi dành cho học viên
 
 1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
