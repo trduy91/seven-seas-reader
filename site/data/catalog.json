@@ -88,6 +88,14 @@
           "chapter_number": "014",
           "reader_revision": "1.0",
           "source_revision": "v0.2"
+        },
+        {
+          "num": "015",
+          "title": "Chương 15: Lời Hứa Không Có Ngai",
+          "file": "./chapters/shattered-sea-saga/chapter-015-loi-hua-khong-co-ngai.md",
+          "chapter_number": "015",
+          "reader_revision": "1.0",
+          "source_revision": "v0.3"
         }
       ]
     },
