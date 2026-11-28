@@ -3,54 +3,40 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-010  
-> Công bố chính thức · Chuyên đề một mẫu vật
+> Công bố chính thức · Canon
 
-Những cư dân của vách bão là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Ốc Bám Mỏ Neo là chuyên gia bám trụ trên vách bão. Cấu trúc bàn chân, lớp keo khoáng và hình dạng vỏ phối hợp để chống lực sóng; cách kiếm ăn của nó duy trì màng sinh học trên đá.
 
 ## I. Động vật — Ốc Bám Mỏ Neo
+
+**Tên học thuật:** *Ancoralima rupicola*  
 **Mã hồ sơ:** `SS-SYC-20261127-010-AN01`  
+**Sinh cảnh:** Vách đá ven biển chịu sóng tạt và các vũng triều nhiều màng tảo.
 
-### Prompt minh họa — Ốc Bám Mỏ Neo
+### Nhận diện và giải phẫu
 
-```text
-High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one specimen of the named zoological or geological subject. Match its named class and described morphology; do not substitute another class of organism or object.\n\nSpecimen: Ốc Bám Mỏ Neo. Archive ID: SS-SYC-20261127-010-AN01. Source description: Vỏ thấp hình nón tù có gờ đồng tâm, nâu xám lẫn vệt trắng; miệng rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn.
-```
+Vỏ thấp hình nón tù, có gờ đồng tâm màu nâu xám xen vệt trắng. Miệng vỏ rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn mang cơ quan hóa cảm. Mặt dưới bàn chân có các tuyến tiết keo chia thành hai vùng: tuyến nhầy lấp vi khe và tuyến khoáng tạo lớp bám cứng.
 
-**Phân loại:** Thân mềm chân bụng sống trên đá triều  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+### Cơ chế bám và sinh trưởng
 
-### Nhận diện và hình thái
+Khi ốc đặt chân xuống đá, lớp nhầy đầu tiên lấp đầy các khe nhỏ và đẩy nước khỏi bề mặt tiếp xúc. Sau đó ion khoáng trong dịch tiết kết tinh thành mạng vi sợi, khóa chân vào nền đá. Khi di chuyển, ốc làm mềm mép keo cũ, bóc một phần và tái hấp thu khoáng, nhờ vậy không phải tạo toàn bộ lớp bám mới ở mỗi bước. Gờ móc quanh vỏ ăn khớp với hốc đá, phân tán lực sóng tạt ngang. Vỏ lớn dần theo mép miệng; gờ mới hình thành theo hướng sóng chủ đạo.
 
-Vỏ thấp hình nón tù có gờ đồng tâm, nâu xám lẫn vệt trắng; miệng rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn.
+### Tập tính, vòng đời và quần thể
 
-### Đặc tính và vai trò sinh thái
+Khi bão đến, ốc ép sát thân, khép miệng vỏ và giảm diện tích hứng dòng. Khi biển lặng, nó dùng lưỡi gai cạo tảo và vi sinh vật. Trứng nở thành ấu trùng trôi nổi vài ngày, sau đó bám vào vùng đá có màng tảo non. Ốc non định cư ở vùng cao có nhiều bọt khí; khi vỏ dày, chúng dịch xuống vùng triều thấp hơn. Cụm trưởng thành giữ mùn và trứng giáp xác nhỏ trong vành vũng triều.
 
-Khi sóng rút, cá thể ép chân sát nền; cơ chế có thể dựa vào lực cơ và dịch tiết, chưa đo lực kéo.
+### Quan hệ với cư dân và an toàn
 
-### Công dụng, nguy cơ và hướng dẫn xử lý
+Keo chân ốc được thu gom từ lớp keo khô còn lại sau khi cá thể tự rời đá, dùng trám tạm đồ gỗ ướt. Không cạy cá thể sống: việc đó làm rách chân và phá lớp màng sinh học quanh nơi bám. Cạnh vỏ sắc; dùng găng khi khảo sát.
 
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+### Lời dặn của Sycamore
 
-### Ghi chép thực địa
+Sức bám không chỉ nằm ở chất keo. Hình dạng vỏ, hướng gờ và lựa chọn vị trí đều quan trọng như nhau. Một chiếc neo tốt là kết quả của cả cơ thể.
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+### Câu hỏi vận dụng
 
-### Mức độ xác nhận
-
-- **CANON:** Vỏ thấp hình nón tù có gờ đồng tâm, nâu xám lẫn vệt trắng; miệng rộng, mép dày; chân cơ lớn áp sát đá; râu ngắn.
-- **HYPOTHESIS:** Khi sóng rút, cá thể ép chân sát nền; cơ chế có thể dựa vào lực cơ và dịch tiết, chưa đo lực kéo.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
-**Tags:** `sycamore-lecture-010` · `field-observation` · `evidence-separated`
-
-## Tổng kết giảng dạy
-
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
-
-## Câu hỏi dành cho học viên
-
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Hai thành phần của keo chân thực hiện hai công đoạn nào trong quá trình bám?
+2. Vì sao ốc non sống ở vùng cao trước khi chuyển xuống vùng triều thấp?
+3. Việc cạy ốc khỏi đá làm tổn hại đồng thời cá thể và quần xã vũng triều ra sao?
 
 ---
