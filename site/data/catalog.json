@@ -205,44 +205,24 @@
       ],
       "chapters": [
         {
-          "num": "001",
-          "title": "Chương 1: Cửa Sông Màu Ngọc",
-          "file": "./chapters/sycamore-field-chronicles/chapter-001-cua-song-mau-ngoc.md",
-          "chapter_number": "001",
-          "reader_revision": "1.0",
-          "source_revision": "v0.1"
+          "title": "Chương 1: Bài Kiểm Tra Bên Vũng Cạn",
+          "file": "./chapters/sycamore-field-chronicles/chapter-001-bai-kiem-tra-ben-vung-can.md"
         },
         {
-          "num": "002",
-          "title": "Chương 2: Vệt Trắng Trên Rạn Cạn",
-          "file": "./chapters/sycamore-field-chronicles/chapter-002-vet-trang-tren-ran-can.md",
-          "chapter_number": "002",
-          "reader_revision": "1.0",
-          "source_revision": "v0.1"
+          "title": "Chương 2: Chiếc Hòm Mười Bốn Ký",
+          "file": "./chapters/sycamore-field-chronicles/chapter-002-chiec-hom-muoi-bon-ky.md"
         },
         {
-          "num": "003",
-          "title": "Chương 3: Những Rễ Cây Giữ Nước",
-          "file": "./chapters/sycamore-field-chronicles/chapter-003-nhung-re-cay-giu-nuoc.md",
-          "chapter_number": "003",
-          "reader_revision": "1.0",
-          "source_revision": "v0.1"
+          "title": "Chương 3: Tên Của Lần Quan Sát Sai",
+          "file": "./chapters/sycamore-field-chronicles/chapter-003-ten-cua-lan-quan-sat-sai.md"
         },
         {
-          "num": "004",
-          "title": "Chương 4: Hàng Hóa Không Có Trong Sổ",
-          "file": "./chapters/sycamore-field-chronicles/chapter-004-hang-hoa-khong-co-trong-so.md",
-          "chapter_number": "004",
-          "reader_revision": "1.0",
-          "source_revision": "v0.1"
+          "title": "Chương 4: Tiếng Chuông Ở Bến Hàng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-004-tieng-chuong-o-ben-hang.md"
         },
         {
-          "num": "005",
-          "title": "Chương 5: Mưa Trên Đỉnh Rừng",
-          "file": "./chapters/sycamore-field-chronicles/chapter-005-mua-tren-dinh-rung.md",
-          "chapter_number": "005",
-          "reader_revision": "1.0",
-          "source_revision": "v0.1"
+          "title": "Chương 5: Bản Hợp Đồng Màu Tro",
+          "file": "./chapters/sycamore-field-chronicles/chapter-005-ban-hop-dong-mau-tro.md"
         },
         {
           "title": "Chương 6: Cơn Đau Của Người Thầy",
@@ -379,6 +359,46 @@
           "chapter_number": "024",
           "reader_revision": "1.0",
           "source_revision": "v0.2"
+        },
+        {
+          "num": "025",
+          "title": "Quyển II — Chương 1: Cửa Sông Màu Ngọc",
+          "file": "./chapters/sycamore-field-chronicles/chapter-025-cua-song-mau-ngoc.md",
+          "chapter_number": "025",
+          "reader_revision": "1.1",
+          "source_revision": "v0.3"
+        },
+        {
+          "num": "026",
+          "title": "Quyển II — Chương 2: Vệt Trắng Trên Rạn Cạn",
+          "file": "./chapters/sycamore-field-chronicles/chapter-026-vet-trang-tren-ran-can.md",
+          "chapter_number": "026",
+          "reader_revision": "1.1",
+          "source_revision": "v0.2"
+        },
+        {
+          "num": "027",
+          "title": "Quyển II — Chương 3: Những Rễ Cây Giữ Nước",
+          "file": "./chapters/sycamore-field-chronicles/chapter-027-nhung-re-cay-giu-nuoc.md",
+          "chapter_number": "027",
+          "reader_revision": "1.1",
+          "source_revision": "v0.3"
+        },
+        {
+          "num": "028",
+          "title": "Quyển II — Chương 4: Hàng Hóa Không Có Trong Sổ",
+          "file": "./chapters/sycamore-field-chronicles/chapter-028-hang-hoa-khong-co-trong-so.md",
+          "chapter_number": "028",
+          "reader_revision": "1.1",
+          "source_revision": "v0.3"
+        },
+        {
+          "num": "029",
+          "title": "Quyển II — Chương 5: Mưa Trên Đỉnh Rừng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-029-mua-tren-dinh-rung.md",
+          "chapter_number": "029",
+          "reader_revision": "1.1",
+          "source_revision": "v0.3"
         }
       ]
     }
