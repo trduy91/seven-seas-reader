@@ -27,7 +27,7 @@ Cỏ Dải Ngọc ra hoa khi đầm phá bước vào chu kỳ nước ấm và 
 
 Lá làm chậm dòng nước sát nền, giữ hạt cát và bùn mịn; thân rễ khóa lớp trầm tích, giảm đục nước sau những đợt sóng. Các khe giữa lá là nơi cá non, tôm nhỏ và cua trú khỏi cá săn mồi. Ốc ăn màng tảo bám trên lá; sinh vật phân hủy xử lý lá già, đưa chất dinh dưỡng trở lại nền. Thảm cỏ vì thế nối vùng đầm phá với rạn: nó giữ trầm tích ở nơi lắng, giảm lượng bụi cát bị đưa lên mặt rạn và cung cấp nơi nuôi dưỡng cho các loài sẽ chuyển ra rạn khi lớn.
 
-Cư dân ven đầm dùng lá già đã rụng để lót giỏ, đệm hàng và làm lớp phủ giữ ẩm cho vườn. Sợi lá không chịu lực kéo đủ để làm dây neo. Không cắt thân rễ để lấy lá; việc cắt mạng thân rễ mở đường cho cát trôi và làm thảm cỏ tách thành những mảng nhỏ. Lá khỏe không gây độc, nhưng các bó lá rối có thể quấn vào lưới và chân người ở vùng nước sâu hơn đầu gối.
+Cư dân ven đầm dùng lá già đã rụng để lót giỏ, đệm hàng và làm lớp phủ giữ ẩm cho vườn. Sợi lá không chịu lực kéo đủ để làm dây neo. Không cắt thân rễ để lấy lá; việc cắt mạng thân rễ mở đường cho cát trôi và làm thảm cỏ tách thành những mảng nhỏ. Lá khỏe không gây độc, nhưng các bó lá rối quấn vào lưới và chân người ở vùng nước sâu hơn đầu gối.
 
 ### Ghi chép thực địa của Sycamore
 
@@ -62,7 +62,7 @@ Khung đá tạo khe trú, mặt bám và đường đi của nước; rạn là
 
 Sau một trận sóng lớn, tôi nhặt một mảnh đá rời ở bãi phía trong rạn. Mặt ngoài bị mài tròn, nhưng mặt vỡ cho thấy các nhánh khung cũ nối với nhau bởi lớp carbonate hạt mịn. Chính những khoảng rỗng ấy giữ nước và tạo nơi ẩn cho các sinh vật nhỏ; một viên đá rạn là cả kiến trúc thu nhỏ.
 
-**Hướng dẫn xử lý:** Mang găng dày, kính bảo vệ mắt và bọc mẫu trong túi cứng. Không bước lên đỉnh rạn khi nước phủ mỏng vì các hốc có thể che khe sâu; chỉ thu mẫu rời trên bãi khô và tránh làm vỡ khung đang có sinh vật bám.
+**Hướng dẫn xử lý:** Mang găng dày, kính bảo vệ mắt và bọc mẫu trong túi cứng. Không bước lên đỉnh rạn khi nước phủ mỏng vì các hốc che những khe sâu; chỉ thu mẫu rời trên bãi khô và tránh làm vỡ khung đang có sinh vật bám.
 
 **Thẩm quyền công bố:** Bài giảng chính thức của Sycamore; nội dung là tri thức canon.  
 **Thẻ liên quan:** `#ĐịaChất` · `#ĐáVôiSinhHọc` · `#RạnSanHô` · `#Carbonate` · `#ShorelineProtection` · `#ReefStructure`
