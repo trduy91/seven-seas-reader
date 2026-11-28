@@ -95,7 +95,7 @@
       "id": "sycamore-field-notes",
       "title": "Nhật Ký Thực Địa của Giáo sư Sycamore",
       "subtitle": "BÁCH KHOA TỰ NHIÊN HỌC SHATTERED SEAS",
-      "description": "Các bài giảng và ghi chép thực địa về thực vật, khoáng vật và sinh vật của Shattered Seas, dưới danh nghĩa Giáo sư Ezekiel Sycamore. Prompt minh họa chi tiết được lưu dưới dạng văn bản; Reader không nhúng ảnh.",
+      "description": "Các bài giảng chính thức của Giáo sư Ezekiel Sycamore về thực vật, địa chất và động vật Shattered Seas; mỗi bài gồm ba mẫu vật và tranh khoa học hoặc placeholder được ghi rõ.",
       "status": "ongoing",
       "tags": [
         "tự nhiên học",
@@ -189,6 +189,13 @@
           "file": "./field-notes/sycamore/lecture-013-ranh-gioi-giua-rung-va-dam-lay.md",
           "chapter_number": "013",
           "source_lecture_id": "SS-SYC-20261127-013"
+        },
+        {
+          "num": "014",
+          "chapter_number": "014",
+          "title": "Bài giảng 014 — Rạn cạn, thảm cỏ và dòng cát",
+          "file": "./field-notes/sycamore/lecture-014-ran-can-tham-co-va-dong-cat.md",
+          "source_lecture_id": "SS-SYC-20261128-001"
         }
       ]
     },
