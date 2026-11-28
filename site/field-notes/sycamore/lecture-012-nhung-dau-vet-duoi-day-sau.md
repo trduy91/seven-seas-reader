@@ -3,54 +3,40 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-012  
-> Công bố chính thức · Chuyên đề một mẫu vật
+> Công bố chính thức · Canon
 
-Những dấu vết dưới đáy sâu là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Cá Mắt Đĩa Sâu là kẻ săn mồi của vùng ánh sáng yếu. Mắt hướng lên, cơ quan phát quang ở bụng và miệng hút mở rộng tạo thành hệ thống săn mồi thích nghi với bóng tối và dòng thức ăn từ tầng nước phía trên.
 
 ## I. Động vật — Cá Mắt Đĩa Sâu
+
+**Tên học thuật:** *Discoculus abyssalis*  
 **Mã hồ sơ:** `SS-SYC-20261127-012-AN01`  
+**Sinh cảnh:** Vách dốc biển sâu, nơi dòng hữu cơ từ mặt biển chìm xuống.
 
-### Prompt minh họa — Cá Mắt Đĩa Sâu
+### Nhận diện và giải phẫu
 
-```text
-High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one small marine FISH with a streamlined fish-shaped body, clearly visible tail fin, dorsal fin, and pectoral fins. It must look like a fish, not a reptile or amphibian. NO legs, NO arms, NO feet, NO skeletal anatomy, NO body sail, NO extra appendages.\n\nSpecimen: Cá Mắt Đĩa Sâu. Archive ID: SS-SYC-20261127-012-AN01. Source description: Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
-```
+Thân thuôn, đầu lớn tương đối, mắt tròn hình đĩa hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông. Da xám bạc, bụng có dải cơ quan phát quang gồm các túi ánh sáng nhỏ xếp thành hàng. Miệng mở rộng, hàm có răng nhỏ cong vào trong. Võng mạc gồm hai lớp cảm quang: lớp ngoài thu ánh sáng xanh yếu, lớp trong phân biệt chuyển động của bóng phía trên.
 
-**Phân loại:** Cá biển sâu có mắt lớn; loài chưa định danh  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+### Chiến lược săn mồi
 
-### Nhận diện và hình thái
+Cá giữ thân gần thẳng đứng gần vách dốc, mắt hướng lên để phát hiện bóng cắt ngang nền sáng. Dải cơ quan phát quang ở bụng phát xung ngắn đồng bộ với nhịp co cơ, phá đường viền cơ thể khi nhìn từ dưới lên. Khi con mồi đến gần, cá mở hàm nhanh, hút nước vào khoang miệng; răng cong giữ giáp xác trơn tuột. Thức ăn gồm giáp xác phát sáng, cá con và phù du lớn.
 
-Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
+### Di cư và sinh sản
 
-### Đặc tính và vai trò sinh thái
+Cá trưởng thành di chuyển dọc vách sâu theo dòng nước mang phù du chìm xuống. Mùa sinh sản, cá cái thả trứng nổi ở tầng nước trung gian. Cá non phát triển trong vùng phù du, nơi thức ăn dồi dào; khi võng mạc hai lớp và dải cơ quan phát quang hoàn thiện, chúng hạ dần xuống tầng sâu. Cá lớn là con mồi của sinh vật săn tầng đáy có hàm khỏe và cơ quan cảm nhận điện trường.
 
-Hướng mắt có thể phát hiện bóng hoặc ánh sáng yếu phía trên; cần giải phẫu võng mạc. Mẫu ghi từ cá thể dạt bờ.
+### Vai trò sinh thái và xử lý
 
-### Công dụng, nguy cơ và hướng dẫn xử lý
+Cá Mắt Đĩa Sâu chuyển sinh khối từ tầng phù du xuống các loài săn mồi đáy sâu, đồng thời kiểm soát đàn giáp xác và cá con. Khi kéo cá lên, phải che tối và thay đổi áp suất theo từng bước để bảo vệ mắt, túi khí và mô phát quang. Không chạm trực tiếp vào dải túi ánh sáng; lớp màng mỏng dễ rách.
 
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+### Lời dặn của Sycamore
 
-### Ghi chép thực địa
+Ánh sáng ở đáy biển không phải lúc nào cũng để soi đường. Đôi khi nó là mồi nhử, tín hiệu hoặc chiếc màn che. Hãy hỏi ánh sáng phục vụ ai trước khi đi theo nó.
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+### Câu hỏi vận dụng
 
-### Mức độ xác nhận
-
-- **CANON:** Thân thuôn, đầu lớn tương đối, mắt tròn hướng chếch lên; vây ngực rộng mỏng, đuôi chẻ nông; da xám bạc, không thấy cơ quan phát quang.
-- **HYPOTHESIS:** Hướng mắt có thể phát hiện bóng hoặc ánh sáng yếu phía trên; cần giải phẫu võng mạc. Mẫu ghi từ cá thể dạt bờ.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
-
-**Tags:** `sycamore-lecture-012` · `field-observation` · `evidence-separated`
-
-## Tổng kết giảng dạy
-
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
-
-## Câu hỏi dành cho học viên
-
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+1. Vì sao cá cần hai lớp cảm quang thay vì một lớp võng mạc đồng nhất?
+2. Dải phát quang ở bụng phá đường viền cơ thể khi nhìn từ phía nào?
+3. Điều gì xảy ra với nguồn thức ăn tầng sâu nếu dòng hữu cơ từ mặt biển suy giảm?
 
 ---
