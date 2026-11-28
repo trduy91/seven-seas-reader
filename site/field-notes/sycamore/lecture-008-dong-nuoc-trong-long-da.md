@@ -3,11 +3,13 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-008  
-> Công bố chính thức · Chuyên đề một mẫu vật
+> Công bố chính thức · Canon
 
-Dòng nước trong lòng đá là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
+Lươn Ruy Băng Mù sống trong dòng nước ngầm không có ánh sáng. Cơ thể nó chuyển chức năng định hướng sang rung động, dòng chảy và dấu hóa học; đó là một hệ cảm giác phù hợp với địa hình ba chiều của hang ngập.
 
 ## I. Động vật — Lươn Ruy Băng Mù
+
+**Tên học thuật:** *Taenioanguilla caeca*  
 **Mã hồ sơ:** `SS-SYC-20261127-008-AN01`  
 
 ### Prompt minh họa — Lươn Ruy Băng Mù
@@ -16,41 +18,30 @@ Dòng nước trong lòng đá là chủ đề của buổi khảo sát này. T�
 High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one specimen of the named zoological or geological subject. Match its named class and described morphology; do not substitute another class of organism or object.\n\nSpecimen: Lươn Ruy Băng Mù. Archive ID: SS-SYC-20261127-008-AN01. Source description: Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
 ```
 
-**Phân loại:** Cá dạng lươn sống trong dòng ngầm  
-**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
+**Sinh cảnh:** Suối ngầm giàu oxy, khe đá ngập và hồ hang có dòng chảy liên tục.
 
-### Nhận diện và hình thái
+### Nhận diện và giải phẫu
 
-Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
+Thân dài, dẹt hai bên, trắng ngà pha hồng ở vùng mang. Vây lưng và vây hậu môn nối thành dải thấp đến cuống đuôi, cho phép tiến và lùi mà không xoay thân. Mắt tiêu giảm dưới da; miệng có râu ngắn và vành hút. Đường bên phát triển thành dải thụ cảm rung động chạy từ đầu đến đuôi.
 
-### Đặc tính và vai trò sinh thái
+### Cảm giác và săn mồi
 
-Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác.
+Lươn giữ thân sát nền đá, đầu hướng ngược dòng. Đường bên nhận rung động do con mồi di chuyển; râu quanh miệng nhận dấu hóa học của tôm hang, ấu trùng côn trùng nước và trứng cá. Khi xác định vị trí, lươn uốn thân thành chữ S rồi phóng ngược dòng trong một nhịp ngắn. Vây nối dải giúp nó dừng và lùi trong khe hẹp mà không cần quay đầu.
 
-### Công dụng, nguy cơ và hướng dẫn xử lý
+### Sinh sản và vòng đời
 
-Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
+Lươn đẻ trứng thành cụm trong hốc có dòng chảy nhẹ, đủ đưa oxy đến nhưng không cuốn trứng đi. Con non sống nhờ túi noãn hoàng, bám đá bằng vành miệng hút trước khi bắt đầu săn ấu trùng. Cá trưởng thành giữ lãnh địa kiếm ăn quanh các gờ đá, nhưng nhiều cá thể cùng chia sẻ một hồ hang khi nguồn thức ăn dồi dào.
 
-### Ghi chép thực địa
+### Vai trò trong hệ sinh thái và an toàn
 
-Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+Lươn kiểm soát tôm hang và ấu trùng côn trùng, ngăn chúng phủ kín màng vi sinh trên đá. Chất thải nuôi vi khuẩn phân giải khoáng, tạo thức ăn cho sinh vật nhỏ hơn. Sự hiện diện của đàn lươn gắn với mạch nước ổn định và giàu oxy. Khi khảo sát hang, không khuấy bùn ở hốc sinh sản; dòng bùn đặc làm trứng thiếu oxy. Không đưa tay vào khe tối vì lươn phòng vệ bằng cú cắn nhanh.
 
-### Mức độ xác nhận
+### Lời dặn của Sycamore
 
-- **CANON:** Thân dài dẹt nhẹ, trắng ngà pha hồng vùng mang; vây lưng nối vây đuôi thấp; mắt rất nhỏ dưới da, miệng có râu ngắn.
-- **HYPOTHESIS:** Giữ sát nền đá và phản ứng với rung động nước; gợi ý cảm giác cơ học quan trọng nhưng không chứng minh mất thị giác.
-- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
+Trong bóng tối, âm thanh và rung động là địa hình. Người đi hang phải học cách đọc tiếng nước; thay đổi nhịp chảy thường báo trước một khe sụt hoặc dòng phụ mới mở.
 
-**Tags:** `sycamore-lecture-008` · `field-observation` · `evidence-separated`
+### Câu hỏi vận dụng
 
-## Tổng kết giảng dạy
-
-Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
-
-## Câu hỏi dành cho học viên
-
-1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
-2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
-3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
-
----
+1. Vì sao vây lưng và vây hậu môn nối thành dải lại hữu ích trong khe hẹp?
+2. Đường bên và râu quanh miệng cung cấp hai loại thông tin khác nhau nào?
+3. Một dòng nước ngầm bị bồi lấp sẽ tác động thế nào đến trứng, con non và nguồn thức ăn của lươn?

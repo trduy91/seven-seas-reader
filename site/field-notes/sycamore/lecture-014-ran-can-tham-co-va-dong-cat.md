@@ -8,9 +8,6 @@
 Rạn san hô không phải một bức tường đá nằm im dưới nước. Nó là một cấu trúc được sinh vật xây dựng, được khoáng hóa, được dòng chảy sửa đổi, và được các loài khác giữ cho những bề mặt sống của nó không bị phủ kín. Hôm nay, tại vùng đầm phá nông phía trong rạn viền của Verdant Outer Isle I, chúng ta sẽ xem ba mắt xích của hệ ấy: thảm cỏ biển giữ nền cát, đá khung rạn tạo nơi cư trú, và một loài cá chuyên mài tảo khỏi bề mặt đá.
 
 ## I. Thực vật — Cỏ Dải Ngọc
-
-![Ảnh minh họa đang chờ bổ sung — Cỏ Dải Ngọc — SS-SYC-20261128-001-PL01 — 2026-11-28-PL01.png](./images/2026-11-28-PL01.svg)
-
 **Mã hồ sơ:** `SS-SYC-20261128-001-PL01`  
 **Tên khoa học:** *Thalassonema nodosa*  
 **Phân loại:** Thực vật hạt kín; họ Thalassonemaceae; cây cỏ biển có hoa, sống chìm hoàn toàn.  
@@ -42,9 +39,6 @@ Tôi từng đứng ở mép một thảm cỏ sau đợt triều rút, nơi m�
 **Thẻ liên quan:** `#ThựcVật` · `#CỏBiển` · `#VerdantChain` · `#Lagoon` · `#SedimentStabilization` · `#NurseryHabitat`
 
 ## II. Địa chất — Đá Khung Rạn
-
-![Ảnh minh họa đang chờ bổ sung — Đá Khung Rạn — SS-SYC-20261128-001-MN01 — 2026-11-28-MN01.png](./images/2026-11-28-MN01.svg)
-
 **Mã hồ sơ:** `SS-SYC-20261128-001-MN01`  
 **Tên địa chất:** *Rifcalx reticulata*  
 **Phân loại:** Đá carbonate sinh học; đá vôi khung rạn, gồm carbonate của sinh vật xây rạn, mảnh vỏ và vật liệu kết dính.  
@@ -74,9 +68,6 @@ Sau một trận sóng lớn, tôi nhặt một mảnh đá rời ở bãi phía
 **Thẻ liên quan:** `#ĐịaChất` · `#ĐáVôiSinhHọc` · `#RạnSanHô` · `#Carbonate` · `#ShorelineProtection` · `#ReefStructure`
 
 ## III. Động vật — Cá Mài Rạn
-
-![Ảnh minh họa đang chờ bổ sung — Cá Mài Rạn — SS-SYC-20261128-001-AN01 — 2026-11-28-AN01.png](./images/2026-11-28-AN01.svg)
-
 **Mã hồ sơ:** `SS-SYC-20261128-001-AN01`  
 **Tên khoa học:** *Raspidens verdantica*  
 **Phân loại:** Động vật có xương sống; cá vây tia; họ Raspidae, nhóm cá ăn tảo rạn.  
