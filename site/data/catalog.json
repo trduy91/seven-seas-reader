@@ -205,24 +205,44 @@
       ],
       "chapters": [
         {
-          "title": "Chương 1: Bài Kiểm Tra Bên Vũng Cạn",
-          "file": "./chapters/sycamore-field-chronicles/chapter-001-bai-kiem-tra-ben-vung-can.md"
+          "num": "001",
+          "title": "Chương 1: Cửa Sông Màu Ngọc",
+          "file": "./chapters/sycamore-field-chronicles/chapter-001-cua-song-mau-ngoc.md",
+          "chapter_number": "001",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
         },
         {
-          "title": "Chương 2: Chiếc Hòm Mười Bốn Ký",
-          "file": "./chapters/sycamore-field-chronicles/chapter-002-chiec-hom-muoi-bon-ky.md"
+          "num": "002",
+          "title": "Chương 2: Vệt Trắng Trên Rạn Cạn",
+          "file": "./chapters/sycamore-field-chronicles/chapter-002-vet-trang-tren-ran-can.md",
+          "chapter_number": "002",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
         },
         {
-          "title": "Chương 3: Tên Của Lần Quan Sát Sai",
-          "file": "./chapters/sycamore-field-chronicles/chapter-003-ten-cua-lan-quan-sat-sai.md"
+          "num": "003",
+          "title": "Chương 3: Những Rễ Cây Giữ Nước",
+          "file": "./chapters/sycamore-field-chronicles/chapter-003-nhung-re-cay-giu-nuoc.md",
+          "chapter_number": "003",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
         },
         {
-          "title": "Chương 4: Tiếng Chuông Ở Bến Hàng",
-          "file": "./chapters/sycamore-field-chronicles/chapter-004-tieng-chuong-o-ben-hang.md"
+          "num": "004",
+          "title": "Chương 4: Hàng Hóa Không Có Trong Sổ",
+          "file": "./chapters/sycamore-field-chronicles/chapter-004-hang-hoa-khong-co-trong-so.md",
+          "chapter_number": "004",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
         },
         {
-          "title": "Chương 5: Bản Hợp Đồng Màu Tro",
-          "file": "./chapters/sycamore-field-chronicles/chapter-005-ban-hop-dong-mau-tro.md"
+          "num": "005",
+          "title": "Chương 5: Mưa Trên Đỉnh Rừng",
+          "file": "./chapters/sycamore-field-chronicles/chapter-005-mua-tren-dinh-rung.md",
+          "chapter_number": "005",
+          "reader_revision": "1.0",
+          "source_revision": "v0.1"
         },
         {
           "title": "Chương 6: Cơn Đau Của Người Thầy",
@@ -349,8 +369,16 @@
           "title": "Chương 23: Phiên Điều Trần Ở Saint Veyra",
           "file": "./chapters/sycamore-field-chronicles/chapter-023-phien-dieu-tran-o-saint-veyra.md",
           "chapter_number": "023",
+          "reader_revision": "1.1",
+          "source_revision": "v0.4"
+        },
+        {
+          "num": "024",
+          "title": "Chương 24: Trang Sổ Thứ Hai",
+          "file": "./chapters/sycamore-field-chronicles/chapter-024-trang-so-thu-hai.md",
+          "chapter_number": "024",
           "reader_revision": "1.0",
-          "source_revision": "v0.2"
+          "source_revision": "v0.1"
         }
       ]
     }
