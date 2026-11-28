@@ -3,38 +3,54 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-013  
-> Công bố chính thức · Canon
+> Công bố chính thức · Chuyên đề một mẫu vật
 
-Trúc Rễ Thở phát triển ở ranh giới nơi đất rừng chuyển thành đầm ngập. Hệ thống mô khí trong thân và rễ phụ nhô khỏi bùn duy trì trao đổi khí, đồng thời giữ đất và tạo hành lang trú ẩn cho sinh vật đầm lầy.
+Ranh giới giữa rừng và đầm lầy là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
 
 ## I. Thực vật — Trúc Rễ Thở
-
-**Tên học thuật:** *Bambusa pneumatica*  
 **Mã hồ sơ:** `SS-SYC-20261127-013-PL01`  
-**Sinh cảnh:** Dải chuyển tiếp giữa rừng đất thấp và đầm ngập theo chu kỳ triều.
 
-### Nhận diện và cấu tạo
+### Prompt minh họa — Trúc Rễ Thở
 
-Trúc Rễ Thở mọc thành bụi thân rỗng chia đốt. Thân xanh xám, thành thân dày ở các đốt gốc và mỏng dần về phía ngọn. Lá thuôn dài, gân song song; bẹ lá ôm thân và có lớp sáp hạn chế nước bám. Quanh gốc mọc các rễ phụ hướng ngược lên khỏi bùn, đầu rễ xốp có nhiều lỗ trao đổi khí. Thân rễ lan ngang nối các bụi thành dải.
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one complete specimen of the named plant. Use the described growth form and leaf/stem/root structures only where explicitly stated. Do not add flowers or fruits. Do not turn a low grass tuft into a tree or shrub.\n\nSpecimen: Trúc Rễ Thở. Archive ID: SS-SYC-20261127-013-PL01. Source description: Thân rỗng chia đốt mọc thành cụm; lá hẹp thành bẹ quanh đốt; gốc có rễ phụ nhô khỏi bùn; thân có khoang chưa kiểm tra.
+```
 
-### Cơ chế mô khí và điều tiết nước
+**Phân loại:** Cây thân đốt ở đất ngập theo mùa  
+**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
 
-Khoang thân nối với mô khí chạy dọc các đốt, dẫn oxy từ lá xuống rễ. Khi bùn ngập, oxy đi theo khoang thân tới phần rễ chìm; khi nước rút, lỗ trên rễ phụ trao đổi khí trực tiếp với không khí. Rễ non mềm, sáng màu và trao đổi khí mạnh; rễ già hóa gỗ, trở thành cọc neo bùn. Khi đất khô, lớp vỏ rễ co lại, giảm thoát hơi và giữ ẩm trong mô dẫn.
+### Nhận diện và hình thái
 
-### Sinh trưởng và vai trò ở ranh giới sinh cảnh
+Thân rỗng chia đốt mọc thành cụm; lá hẹp thành bẹ quanh đốt; gốc có rễ phụ nhô khỏi bùn; thân có khoang chưa kiểm tra.
 
-Thân rễ lan ngang tạo chồi mới sau mỗi mùa nước rút. Bụi trưởng thành ra hoa đồng loạt theo chu kỳ nhiều năm; hạt rơi xuống bùn, được nước triều phân tán rồi nảy mầm trên nền có lớp mùn mỏng. Bụi trúc làm chậm dòng nước từ rừng đổ vào đầm, giữ phù sa và tạo hành lang nước nông cho cá non. Chim lội săn cá ở rìa bụi; rắn nước và cua trú giữa các rễ. Lá rụng phân hủy chậm trong bùn, nuôi nấm chịu ngập và côn trùng nước.
+### Đặc tính và vai trò sinh thái
 
-### Công dụng và bảo tồn
+Rễ nhô có thể trao đổi khí trong nền thiếu oxy, nhưng cũng có thể là rễ chống hoặc phản ứng mực nước; chưa gọi là rễ thở chuyên hóa.
 
-Thân trưởng thành sau khi phơi khô dùng làm cọc nhẹ, ống dẫn nước ngắn và nan đan. Thân rễ phải được giữ nguyên để bờ đầm không mất lớp neo tự nhiên; khai thác thân theo cụm luân phiên, không chặt toàn bộ dải ven nước.
+### Công dụng, nguy cơ và hướng dẫn xử lý
 
-### Lời dặn của Sycamore
+Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
-Ranh giới sinh thái là nơi hai thế giới trao đổi vật chất, không phải bức tường ngăn cách. Muốn hiểu đầm lầy, hãy nghiên cứu cả khu rừng đang nuôi dưỡng nó.
+### Ghi chép thực địa
 
-### Câu hỏi vận dụng
+Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-1. Mô khí nối từ lá đến rễ giải quyết vấn đề thiếu oxy trong bùn ngập như thế nào?
-2. Vì sao rễ non đảm nhiệm trao đổi khí còn rễ già trở thành cọc neo?
-3. Khai thác toàn bộ thân rễ sẽ làm thay đổi dòng nước, phù sa và nơi trú của cá non ra sao?
+### Mức độ xác nhận
+
+- **CANON:** Thân rỗng chia đốt mọc thành cụm; lá hẹp thành bẹ quanh đốt; gốc có rễ phụ nhô khỏi bùn; thân có khoang chưa kiểm tra.
+- **HYPOTHESIS:** Rễ nhô có thể trao đổi khí trong nền thiếu oxy, nhưng cũng có thể là rễ chống hoặc phản ứng mực nước; chưa gọi là rễ thở chuyên hóa.
+- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
+
+**Tags:** `sycamore-lecture-013` · `field-observation` · `evidence-separated`
+
+## Tổng kết giảng dạy
+
+Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+
+## Câu hỏi dành cho học viên
+
+1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
+2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
+3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
+
+---
