@@ -3,40 +3,54 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-007  
-> Công bố chính thức · Canon
+> Công bố chính thức · Chuyên đề một mẫu vật
 
-Đá Bọt Bện lưu giữ hướng chuyển động của dòng núi lửa trong cấu trúc khoang khí. Nó cũng là nền móng đầu tiên cho quá trình tái sinh sinh học sau một đợt tro bụi.
+Sau lớp tro núi lửa là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
 
 ## I. Khoáng vật / Đá — Đá Bọt Bện
-
-**Tên địa chất:** *Pumex reticulatus*  
 **Mã hồ sơ:** `SS-SYC-20261127-007-MN01`  
-**Sinh cảnh địa chất:** Dòng dung nham giàu khí ở sườn núi lửa và lớp tro ven biển.
 
-### Nhận diện và cấu trúc
+### Prompt minh họa — Đá Bọt Bện
 
-Đá sáng màu, nhẹ, có nhiều lỗ kéo dài cùng hướng. Vách lỗ mỏng nối thành mạng bện; mép vỡ sắc và thân đá dễ vụn. Nền đá là thủy tinh núi lửa đã kết tinh một phần, xen hạt silicat và lớp oxit sắt mỏng trên thành khoang.
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: exactly one inanimate natural stone specimen, irregular and dense, dark charcoal gray to nearly black, with a few fine pale-silver veins/markings. Geological rock texture only. Absolutely NOT an animal, reptile, skeleton, fossil, plant, or biological object. No limbs, eyes, scales, bones, crystals, or symbolic sound effects.\n\nSpecimen: Đá Bọt Bện. Archive ID: SS-SYC-20261127-007-MN01. Source description: Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
+```
 
-### Nguồn gốc hình thành
+**Phân loại:** Đá núi lửa nhiều lỗ rỗng; nguồn chưa rõ  
+**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
 
-Dung nham giàu khí trào ra khỏi khe nứt, giảm áp và giải phóng bọt khí. Dòng nóng kéo các bọt thành khoang dài song song; độ nhớt cao giữ vách khoang không sụp trước khi nguội. Hướng kéo dài của khoang ghi lại hướng dòng chảy cuối cùng. Khoang nhỏ dày đặc hình thành ở phần dòng nguội nhanh; khoang dài hơn tập trung ở vùng dòng bị kéo mạnh.
+### Nhận diện và hình thái
 
-### Biến đổi sau khi nguội và ứng dụng
+Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
 
-Khi mới nguội, các khoang kín giữ khí khiến đá có khối lượng riêng thấp và nổi tạm thời. Qua nhiều mùa mưa, nước thấm vào khe nối, mang sét và oxit kim loại lấp một phần khoang; đá tăng khối lượng và chìm. Hạt đá nghiền sàng dùng làm lớp thoát nước và vật liệu chèn nhẹ. Không dùng nguyên khối làm trụ hoặc dầm chịu tải vì vách khoang mỏng vỡ giòn khi chịu uốn.
+### Đặc tính và vai trò sinh thái
 
-### Tác động sinh thái
+Lỗ có thể hình thành khi khí thoát khỏi vật liệu nóng nguội nhanh; hướng lỗ có thể ghi lại dòng chảy hoặc biến dạng.
 
-Bề mặt xốp giữ nước và khoáng, cho địa y tiên phong bám vào. Rêu mọc sau đó giữ bụi, tạo mùn; cỏ chịu nhiệt bén rễ trong hốc lớn. Khe đá là nơi thằn lằn nhỏ và côn trùng tránh nắng. Đá Bọt Bện vì thế mở đầu quá trình tái sinh sau tro bụi.
+### Công dụng, nguy cơ và hướng dẫn xử lý
 
-### Lời dặn của Sycamore
+Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
-Một tảng đá là lịch sử của vật chất đã nguội. Hãy đọc hướng khoang, độ dày vách và lớp khoáng bám trên thành lỗ; chúng kể về chuyển động, nhiệt và thời gian.
+### Ghi chép thực địa
 
-### Câu hỏi vận dụng
+Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
 
-1. Vì sao độ nhớt của dung nham quyết định việc khoang khí giữ được hình dạng?
-2. Nước thấm vào khoang làm thay đổi khối lượng riêng của đá như thế nào?
-3. Hãy giải thích trình tự địa y, rêu và cỏ chịu nhiệt định cư trên một dòng đá mới nguội.
+### Mức độ xác nhận
+
+- **CANON:** Mảnh đá sáng màu, nhẹ, nhiều lỗ kéo dài cùng hướng; vách lỗ mỏng nối như mạng; mép vỡ sắc, thân dễ vụn.
+- **HYPOTHESIS:** Lỗ có thể hình thành khi khí thoát khỏi vật liệu nóng nguội nhanh; hướng lỗ có thể ghi lại dòng chảy hoặc biến dạng.
+- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
+
+**Tags:** `sycamore-lecture-007` · `field-observation` · `evidence-separated`
+
+## Tổng kết giảng dạy
+
+Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+
+## Câu hỏi dành cho học viên
+
+1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
+2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
+3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
 
 ---

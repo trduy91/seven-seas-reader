@@ -3,38 +3,54 @@
 > Ngày công bố: 27-11-2026  
 > Tác giả: Giáo sư Ezekiel Sycamore  
 > Mã bài giảng: SS-SYC-20261127-006  
-> Công bố chính thức · Canon
+> Công bố chính thức · Chuyên đề một mẫu vật
 
-Lan Mũ Kim Lam là thực vật biểu sinh. Nó dùng thân cây làm giá đỡ, thu nước từ sương và hoàn tất giai đoạn nảy mầm nhờ cộng sinh nấm, nhưng không lấy nhựa hay chất dinh dưỡng trực tiếp từ cây chủ.
+Sinh vật của tầng rừng mù là chủ đề của buổi khảo sát này. Tôi chọn mẫu vật để xem xét một cơ chế sinh tồn hoặc một quá trình địa chất trong điều kiện cụ thể. Các em cần phân biệt điều quan sát trực tiếp với diễn giải và phép đo còn thiếu.
 
 ## I. Thực vật — Lan Mũ Kim Lam
-
-**Tên học thuật:** *Orchidea caeruleacrista*  
 **Mã hồ sơ:** `SS-SYC-20261127-006-PL01`  
-**Sinh cảnh:** Tầng giữa của rừng mù, trên vỏ cây già và cành mục.
 
-### Nhận diện và cấu tạo
+### Prompt minh họa — Lan Mũ Kim Lam
 
-Cây nhỏ bám vỏ gỗ bằng rễ mảnh. Lá mọc thành hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc lá có mô xốp giữ nước. Chóp lá cứng dẫn giọt sương khỏi đỉnh sinh trưởng. Rễ gồm ba vùng chức năng: rễ áp vỏ tạo chất bám, rễ xốp hút nước và mùn, rễ lộ ngoài hấp thu hơi ẩm.
+```text
+High-quality two-dimensional natural-history scientific plate, hand-rendered watercolor and fine graphite linework on plain warm ivory archival paper. One isolated specimen, centered, complete silhouette, restrained natural colors, anatomically/geologically coherent. No title, writing, labels, numbers, watermark, signature, ruler, color chart, specimen card, border, scenery, extra objects, decorative effects. The source description is authoritative; do not add any feature not stated there. Keep hypothetical traits visually restrained. SUBJECT: one complete specimen of the named plant. Use the described growth form and leaf/stem/root structures only where explicitly stated. Do not add flowers or fruits. Do not turn a low grass tuft into a tree or shrub.\n\nSpecimen: Lan Mũ Kim Lam. Archive ID: SS-SYC-20261127-006-PL01. Source description: Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm.
+```
 
-### Vòng đời và cộng sinh nấm
+**Phân loại:** Thực vật biểu sinh nhỏ trên gỗ mục  
+**Môi trường ghi nhận:** Shattered Seas; địa điểm cụ thể chưa được đối chiếu atlas.
 
-Hạt lan nhỏ như bụi, gần như không có chất dự trữ. Khi rơi vào vỏ gỗ mục, sợi nấm cộng sinh xâm nhập phôi và chuyển đường đơn cùng khoáng cho mầm. Sau khi hình thành lá đầu tiên, cây tăng quang hợp và dần tự cung cấp phần lớn năng lượng; mạng nấm tiếp tục hỗ trợ hấp thu khoáng. Hoa nở theo đợt sương dày, thu hút bướm đêm tầng tán. Quả khô nứt thành khe, giải phóng hạt theo luồng khí ẩm.
+### Nhận diện và hình thái
 
-### Quan hệ với cây chủ và hệ sinh thái
+Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm.
 
-Lan không hút nhựa cây chủ và không siết thân cây. Cụm rễ giữ nước trên vỏ, làm chậm dòng chảy dọc thân, tạo vi sinh cảnh cho ve, bọ rêu và ấu trùng cánh mỏng. Khi cành mục rơi xuống nền rừng, cụm lan cùng mạng nấm tiếp tục phân hủy gỗ, trả khoáng về đất. Loài lan nối tầng tán với tầng mục rữa dưới nền rừng.
+### Đặc tính và vai trò sinh thái
 
-Người làm vườn ghép lan lên gỗ mục xốp, giữ lớp rêu và nấm cộng sinh quanh rễ; trồng trong đất đặc làm rễ thiếu khí và thối.
+Rễ bám giúp tận dụng bề mặt ẩm; chưa rõ dinh dưỡng đến từ bụi hữu cơ hay vi sinh vật.
 
-### Lời dặn của Sycamore
+### Công dụng, nguy cơ và hướng dẫn xử lý
 
-Một cây lan biểu sinh không phải kẻ ăn bám. Hãy phân biệt nơi nó đứng với thứ nó lấy làm thức ăn. Trong rừng mù, quan hệ cộng sinh thường quan trọng hơn cạnh tranh trực tiếp.
+Chưa có thử nghiệm đủ để khuyến nghị khai thác hoặc sử dụng. Chỉ lấy mẫu tối thiểu khi được phép; không nếm, đốt hoặc nghiền trong không gian kín. Với sinh vật sống, không phá nơi trú ẩn hay tách cá thể khỏi nền bám chỉ để kiểm tra.
 
-### Câu hỏi vận dụng
+### Ghi chép thực địa
 
-1. Vì sao hạt lan cần nấm cộng sinh trước khi cây tự quang hợp?
-2. Ba vùng rễ đảm nhiệm ba chức năng khác nhau như thế nào?
-3. Việc thu gom toàn bộ cành mục khỏi rừng sẽ tác động ra sao đến vòng đời của Lan Mũ Kim Lam?
+Tôi ghi nhận các đặc điểm trên trong đợt khảo sát có giới hạn về thời gian và số lượng mẫu. Robin hỗ trợ đánh dấu vị trí tương đối và điều kiện thời tiết; nhận xét chưa có phép đo độc lập vẫn ở mức giả thuyết. Cần lặp lại quan sát trước khi mở rộng kết luận cho toàn vùng.
+
+### Mức độ xác nhận
+
+- **CANON:** Cây nhỏ bám vỏ gỗ bằng rễ mảnh; lá mọc hai hàng, hình mũi mác ngắn, mặt trên xanh ô liu, mặt dưới nhạt; gốc có mô xốp giữ ẩm.
+- **HYPOTHESIS:** Rễ bám giúp tận dụng bề mặt ẩm; chưa rõ dinh dưỡng đến từ bụi hữu cơ hay vi sinh vật.
+- **UNKNOWN:** Phân loại sâu, giới hạn sinh thái, chu kỳ sinh sản hoặc thành phần hóa học chưa được xác định bằng phép đo chuyên biệt.
+
+**Tags:** `sycamore-lecture-006` · `field-observation` · `evidence-separated`
+
+## Tổng kết giảng dạy
+
+Không biến một quan sát đơn lẻ thành quy luật phổ quát. Mẫu vật này cung cấp một trường hợp nghiên cứu, không phải bằng chứng rằng mọi sinh vật hoặc vật liệu cùng nhóm đều có đặc tính tương tự.
+
+## Câu hỏi dành cho học viên
+
+1. Đặc điểm nào quan sát trực tiếp được mà không cần suy luận chức năng?
+2. Giả thuyết nào cần phép thử có đối chứng để kiểm tra?
+3. Những biến số môi trường nào phải ghi đồng thời khi khảo sát lại?
 
 ---
